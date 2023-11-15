@@ -21,19 +21,31 @@ This repository includes the links and information for Zenodo datasets of each I
 
 ## UC2: Drone Spraying
 
+| Dataset | Description |
+| :---: | --- |
+| ----- | ---------|
 
 
 ## UC3: Livestock Monitoring
 
 
+| Dataset | Description |
+| :---: | --- |
+| [Drone raw images of cattle in french grazing areas](https://zenodo.org/records/8234156) | Raw drone images of grazing areas where cattle graze|
 
 ## UC4: Forestry and Biodiversity
+
+| Dataset | Description |
+| :---: | --- |
+| [Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV](https://zenodo.org/records/8333789) | Hyperspectral imaging acquired with UAV on different dates of a pine tree forest|
 
 
 
 ## UC5: Rural Logistics
 
-
+| Dataset | Description |
+| :---: | --- |
+| ----- | ---------|
 
 
 ## FAQs
