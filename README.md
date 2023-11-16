@@ -1,13 +1,33 @@
-# Zenodo_Datasets
-This repository includes the links and information for Zenodo datasets of each ICAERUS Use Case. 
+<div align="center">
+  <p>
+    <a href="https://icaerus.eu" target="_blank">
+      <img width="50%" src="https://icaerus.eu/wp-content/uploads/2022/09/ICAERUS-logo-white.svg"></a>
+    <h3 align="center">Zenodo Datasets</h3>
+    
+   <p align="center">
+    This repository includes the links and information for Zenodo datasets of each ICAERUS Use Case. 
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <a href="https://github.com/icaerus-eu/icaerus-repo-template/issues">Report Bug</a>
+    -
+    <a href="https://github.com/icaerus-eu/icaerus-repo-template/issues">Request Feature</a>
+  </p>
+</p>
+</div>
+
+![Downloads](https://img.shields.io/github/downloads/icaerus-eu/icaerus-repo-template/total) ![Contributors](https://img.shields.io/github/contributors/icaerus-eu/icaerus-repo-template?color=dark-green) ![Forks](https://img.shields.io/github/forks/icaerus-eu/icaerus-repo-template?style=social) ![Stargazers](https://img.shields.io/github/stars/icaerus-eu/icaerus-repo-template?style=social) ![Issues](https://img.shields.io/github/issues/icaerus-eu/icaerus-repo-template) ![License](https://img.shields.io/github/license/icaerus-eu/icaerus-repo-template) 
+
+
 
 ## Table of Contents
-1. [UC1: Crop Monitoring](#uc1-crop-monitoring)
-2. [UC2: Drone Spraying](#uc2-drone-spraying)
-3. [UC3: Livestock Monitoring](#uc3-livestock-monitoring)
-4. [UC4: Forestry and Biodiversity](#uc4-forestry-and-biodiversity)
-5. [UC5: Rural Logistics](#uc5-rural-logistics)
-6. [FAQs](#faqs)
+* [UC1: Crop Monitoring](#uc1-crop-monitoring)
+* [UC2: Drone Spraying](#uc2-drone-spraying)
+* [UC3: Livestock Monitoring](#uc3-livestock-monitoring)
+* [UC4: Forestry and Biodiversity](#uc4-forestry-and-biodiversity)
+* [UC5: Rural Logistics](#uc5-rural-logistics)
+* [FAQs](#faqs)
 
 
 
