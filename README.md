@@ -35,8 +35,8 @@
 
 | Dataset | Description |
 | :---: | --- |
-| [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
-| [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10069963) | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain|
+| [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM.|
+| [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10069963) | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain.|
 
 
 ## UC2: Drone Spraying
@@ -51,13 +51,13 @@
 
 | Dataset | Description |
 | :---: | --- |
-| [Drone raw images of cattle in french grazing areas](https://zenodo.org/records/8234156) | Raw drone images of grazing areas where cattle graze|
+| [Drone raw images of cattle in french grazing areas](https://zenodo.org/records/8234156) | Raw drone images of grazing areas where cattle graze.|
 
 ## UC4: Forestry and Biodiversity
 
 | Dataset | Description |
 | :---: | --- |
-| [Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV](https://zenodo.org/records/8333789) | Hyperspectral imaging acquired with UAV on different dates of a pine tree forest|
+| [Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV](https://zenodo.org/records/8333789) | Hyperspectral imaging acquired with UAV on different dates of a pine tree forest.|
 
 
 
