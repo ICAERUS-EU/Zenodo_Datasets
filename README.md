@@ -38,6 +38,7 @@
 | [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM.|
 | [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10069963) | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain.|
 
+{{text}}
 
 ## UC2: Drone Spraying
 
