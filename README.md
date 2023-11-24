@@ -45,7 +45,6 @@
 
 | Dataset | Description |
 | :---: | --- |
-| ----- | ---------|
 
 
 ## UC3: Livestock Monitoring
