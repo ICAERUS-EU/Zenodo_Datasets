@@ -35,8 +35,8 @@
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
-| [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Paula Osés <br> Oriol Arroyo <br> Aldo Sollazzo <br> Chirag Rangholia | 2023-04-21 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
-| [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10069963) | Esther Vera <br> Oriol Arroyo <br> Aldo Sollazzo <br> Chirag Rangholia <br> Paula Osés | 2023-06-09 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
+| [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | <span style='white-space:nowrap;'>2023-04-21</span> | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
+| [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10069963) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2023-06-09 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
 
 
 ## UC2: Drone Spraying
