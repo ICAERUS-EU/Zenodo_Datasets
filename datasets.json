@@ -1,0 +1,45 @@
+
+
+{  
+    "UC1": [
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-06-09",
+                "author":"Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés",
+                "date":"2023-06-09",
+                "link":"https://zenodo.org/records/10171243",
+                "description":"Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain."
+            },
+           {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-04-21",
+                "author":"Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2023-04-21",
+                "link":"https://zenodo.org/records/8123870",
+                "description":"Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM."
+            }
+
+        ],
+
+    "UC2" :[{}],
+
+    "UC3": [
+            {       
+                "name":"Drone raw images of cattle in french grazing areas",
+                "author":"Adrien Lebreton",
+                "date":"2023-08-10",
+                "link":"https://zenodo.org/records/8234156",
+                "description":"Raw drone images of grazing areas where cattle graze."
+            }
+        ],
+
+    "UC4": [
+        {       
+            "name":"Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV",
+            "author":"ART21",
+            "date":"2023-09-11",
+            "link":"https://zenodo.org/records/8333789",
+            "description":"Hyperspectral imaging acquired with UAV on different dates of a pine tree forest."
+        }
+    ],
+
+    "UC5" :[{}]
+}
