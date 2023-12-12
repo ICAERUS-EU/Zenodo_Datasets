@@ -1,0 +1,20 @@
+{  
+    "UC1": [
+            // Information for each dataset
+            {       
+                "name":"",       // Name of the dataset
+                "author":"",     // Author of the dataset
+                "date":"",       // Date when the data was collected
+                "link":"",       // Link to dataset in Zenodo
+                "description":"" // Add description of the dataset
+            }
+        ],
+
+    "UC2" :[{}],
+
+    "UC3": [{}],
+
+    "UC4": [{}],
+
+    "UC5" :[{}]
+}
