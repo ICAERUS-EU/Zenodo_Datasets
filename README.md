@@ -68,6 +68,14 @@
 
 ## ICAERUS Zenodo Description Template:
 
-```
-TODO JURRIAN/ESTHER here is where the description will be added
-```
+Small introduction (1-2 lines) about what will be found in the dataset and what is the dataset about (classification, detection, segmentation, for building orthomosaics, parameters). This dataset encompasses the following data: 
+
+- Folder: description (number of images / subfolders, type of images, size of images, tables, parameters).
+     - Subfolder: description (number of images, type of images, size of images, tables, parameters).
+
+- Folder: description (number of images, type of images, size of images, tables, parameters).
+
+A paragraph explaining the flight conditions or specifications about how this data was collected in detail. This can include: which drone, camera, resolution, other sensors, altitude, where, time when the data was collected, processing parameters,...
+
+Possible applications: a description of what you could use this dataset for. 
+
