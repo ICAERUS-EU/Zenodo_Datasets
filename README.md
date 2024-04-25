@@ -51,7 +51,7 @@
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
 | [Drone raw images of cattle in french grazing areas](https://zenodo.org/records/8234156) | Adrien Lebreton | 2023-08-10 | Raw drone images of grazing areas where cattle graze. |
-| [Drone images and their annotations of grazing cows](https://zenodo.org/records/11048412) | Adrien Lebreton, Louise Helary | It contains 1385 images and 4941 bounding boxes of cows to develop cow detection and counting models. |
+| [Drone images and their annotations of grazing cows](https://zenodo.org/records/11048412) | Adrien Lebreton, Louise Helary | 2024-04-24 | It contains 1385 images and 4941 bounding boxes of cows to develop cow detection and counting models. |
 
 
 
