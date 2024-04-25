@@ -51,6 +51,8 @@
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
 | [Drone raw images of cattle in french grazing areas](https://zenodo.org/records/8234156) | Adrien Lebreton | 2023-08-10 | Raw drone images of grazing areas where cattle graze. |
+| [Drone images and their annotations of grazing cows](https://zenodo.org/records/10245396) | Adrien Lebreton, Louise Helary | 2023-12-01 | The dataset encompasses around 1100 raw .jpeg images from drone (DJI mavic 3 Enterprise or Thermal) of grazing areas where cattle graze collected between June and October 2023. |
+| [Sheep videos taken from drone at low altitude](https://zenodo.org/records/10400302) | Adrien Lebreton, Louise Helary | 2023-12-18 | The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate. |
 | [Drone images and their annotations of grazing cows](https://zenodo.org/records/11048412) | Adrien Lebreton, Louise Helary | 2024-04-24 | It contains 1385 images and 4941 bounding boxes of cows to develop cow detection and counting models. |
 
 
