@@ -45,7 +45,8 @@
 ## UC2: Drone Spraying
 
 | Dataset | Author | Date  | Description |
-|  [UAV Spraying Parameters-Coverage in Vineyards](https://zenodo.org/records/10276149)  |  Vasilis Psiroukis | 2023-12-06 | A set of UAV spraying data collected using WSPs, across different parameter configurations. |
+|  :---:  |  :---: | :---: |     ---     |
+| [UAV Spraying Parameters-Coverage in Vineyards](https://zenodo.org/records/10276149)  | Vasilis Psiroukis | 2023-12-06 | A set of UAV spraying data collected using WSPs, across different parameter configurations. |
 
 
 
