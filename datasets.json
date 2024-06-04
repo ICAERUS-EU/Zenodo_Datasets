@@ -44,7 +44,7 @@
                 "author":"Vasilis Psiroukis",
                 "date":"2023-12-06",
                 "link":"https://zenodo.org/records/10276149",
-                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations. "
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations."
             }
           ],
 
@@ -61,7 +61,7 @@
                 "author":"Adrien Lebreton, Louise Helary",
                 "date":"2023-12-18",
                 "link":"https://zenodo.org/records/10400302",
-                "description":"The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate. "
+                "description":"The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
             },
             {
                 "name":"Drone images and their annotations of grazing cows",
