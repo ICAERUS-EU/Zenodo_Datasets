@@ -1,5 +1,27 @@
 {  
     "UC1": [
+
+           {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-04-21",
+                "author":"Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2023-04-21",
+                "link":"https://zenodo.org/records/8123870",
+                "description":"Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM."
+            },
+           {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-04-28",
+                "author":"Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2023-04-28",
+                "link":"https://zenodo.org/records/8123870",
+                "description":"Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-05-05",
+                "author":"Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2023-05-05",
+                "link":"https://zenodo.org/records/8123870",
+                "description":"Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM."
+            },
             {       
                 "name":"UAV Canyelles Vineyard Dataset 2023-06-09",
                 "author":"Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés",
@@ -8,13 +30,12 @@
                 "description":"Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain."
             },
            {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-04-21",
-                "author":"Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2023-04-21",
+                "name":"UC1 DATA FOLDER GITHUB",
+                "author":"Esther Vera, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2024-05-15",
                 "link":"https://zenodo.org/records/8123870",
-                "description":"Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM."
+                "description":"This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub."
             }
-
         ],
 
     "UC2" :[
@@ -36,20 +57,12 @@
                 "description":"The dataset encompasses around 900 raw .jpeg drone images of grazing areas where cattle graze collected between June and August 2023."
             },
             {       
-                "name":"Drone images and their annotations of grazing cows",
-                "author":"Adrien Lebreton, Louise Helary",
-                "date":"2023-12-01",
-                "link":"https://zenodo.org/records/10245396",
-                "description":"The dataset encompasses around 1100 raw .jpeg images from drone (DJI mavic 3 Enterprise or Thermal) of grazing areas where cattle graze collected between June and October 2023."
-            },
-            {       
                 "name":"Sheep videos taken from drone at low altitude",
                 "author":"Adrien Lebreton, Louise Helary",
                 "date":"2023-12-18",
                 "link":"https://zenodo.org/records/10400302",
                 "description":"The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate. "
             },
-
             {
                 "name":"Drone images and their annotations of grazing cows",
                 "author":"Adrien Lebreton, Louise Helary",
