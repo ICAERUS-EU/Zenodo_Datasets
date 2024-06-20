@@ -69,7 +69,14 @@
                 "date":"2024-04-24",
                 "link":"https://zenodo.org/records/11048412",
                 "description":"It contains 1385 images and 4941 bounding boxes of cows taken with a DJI Pilot 2 drone. This dataset is a major contribution for public and research stakeholders to develop cow detection and counting models."
-            }
+            },
+            {       
+                "name":"Drone videos and their annotations of passing sheep (for counting purpose)",
+                "author":"Louise Helary, Kinsey Nnenna, Marta KOLODZIEJCZYK, Jana SCHEWE, Léa Philip, Estelle Nicolas, Adrien Lebreton",
+                "date":"2024-06-18",
+                "link":"https://zenodo.org/records/12094356",
+                "description":"The dataset encompasses 4 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
+            },
            ],
 
     "UC4": [
