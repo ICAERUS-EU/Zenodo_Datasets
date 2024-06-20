@@ -92,7 +92,7 @@
 | [UAV AgroTwin Vineyard Dataset 2024](https://zenodo.org/records/12168516) | Simone Kartsiotis, Antonio Donnangelo | 2024-06-19 | The datasets contains RGB images and pointclouds of a vineyard field. |
 
 
-
+<br />
 
 ## ICAERUS Zenodo Description Template:
 
