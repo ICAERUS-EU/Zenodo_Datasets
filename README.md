@@ -27,9 +27,12 @@
 * [UC3: Livestock Monitoring](#uc3-livestock-monitoring)
 * [UC4: Forestry and Biodiversity](#uc4-forestry-and-biodiversity)
 * [UC5: Rural Logistics](#uc5-rural-logistics)
+* [OCT: AgroTwin](#oct-agrotwin)
 * [FAQs](#faqs)
 
 
+
+<br />
 
 ## UC1: Crop Monitoring
 
@@ -42,6 +45,8 @@
 | [UC1 DATA FOLDER GITHUB](https://zenodo.org/records/11195994) | Esther Vera, Aldo Sollazzo, Chirag Rangholia | 2024-05-15 | This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub. |
 
 
+<br />
+
 ## UC2: Drone Spraying
 
 | Dataset | Author | Date  | Description |
@@ -49,6 +54,7 @@
 | [UAV Spraying Parameters-Coverage in Vineyards](https://zenodo.org/records/10276149)  | Vasilis Psiroukis | 2023-12-06 | A set of UAV spraying data collected using WSPs, across different parameter configurations. |
 
 
+<br />
 
 ## UC3: Livestock Monitoring
 
@@ -60,6 +66,7 @@
 | [Drone videos and their annotations of passing sheep (for counting purpose)](https://zenodo.org/records/12094356) | Louise Helary, Kinsey Nnenna, Marta KOLODZIEJCZYK, Jana SCHEWE, Léa Philip, Estelle Nicolas, Adrien Lebreton | 2024-06-18 | The dataset encompasses 4 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate. |
 
 
+<br />
 
 ## UC4: Forestry and Biodiversity
 
@@ -68,10 +75,23 @@
 | [Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV](https://zenodo.org/records/8333789) | ART21 | 2023-09-11 | Hyperspectral imaging acquired with UAV on different dates of a pine tree forest. |
 
 
+<br />
+
 ## UC5: Rural Logistics
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
+
+
+<br />
+
+## OCT: AgroTwin
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [UAV AgroTwin Vineyard Dataset 2024](https://zenodo.org/records/12168516) | Simone Kartsiotis, Antonio Donnangelo | 2024-06-19 | The datasets contains RGB images and pointclouds of a vineyard field. |
+
+
 
 
 ## ICAERUS Zenodo Description Template:
