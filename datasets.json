@@ -89,5 +89,15 @@
         }
     ],
 
-    "UC5" :[{}]
+    "UC5" :[{}],
+
+    "OCT - AgroTwin": [
+        {       
+            "name":"UAV AgroTwin Vineyard Dataset 2024",
+            "author":"Simone Kartsiotis, Antonio Donnangelo",
+            "date":"2024-06-19",
+            "link":"https://zenodo.org/records/12168516",
+            "description":"The datasets contains RGB images and pointclouds of a vineyard field."
+        }
+    ],
 }
