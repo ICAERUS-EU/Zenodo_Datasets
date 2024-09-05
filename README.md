@@ -28,8 +28,6 @@
 * [UC4: Forestry and Biodiversity](#uc4-forestry-and-biodiversity)
 * [UC5: Rural Logistics](#uc5-rural-logistics)
 * [OCT: AgroTwin](#oct-agrotwin)
-* [FAQs](#faqs)
-
 
 
 <br />
