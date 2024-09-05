@@ -80,31 +80,31 @@
            ],
 
     "UC4": [
-        {       
-            "name":"Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV",
-            "author":"ART21",
-            "date":"2023-09-11",
-            "link":"https://zenodo.org/records/8333789",
-            "description":"Hyperspectral imaging acquired with UAV on different dates of a pine tree forest."
-        },
-        {       
-            "name":"Multiple DJI drone flights with thermal camera over Lithuanian forests in winter for wild boar detection",
-            "author":"ART21",
-            "date":"2023-07-15",
-            "link":"https://zenodo.org/records/12743334",
-            "description":" The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection"
-        },
-    ],
+            {       
+                "name":"Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV",
+                "author":"ART21",
+                "date":"2023-09-11",
+                "link":"https://zenodo.org/records/8333789",
+                "description":"Hyperspectral imaging acquired with UAV on different dates of a pine tree forest."
+            },
+            {       
+                "name":"Multiple DJI drone flights with thermal camera over Lithuanian forests in winter for wild boar detection",
+                "author":"ART21",
+                "date":"2023-07-15",
+                "link":"https://zenodo.org/records/12743334",
+                "description":" The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection"
+            },
+           ],
 
     "UC5" :[{}],
 
     "OCT - AgroTwin": [
-        {       
-            "name":"UAV AgroTwin Vineyard Dataset 2024",
-            "author":"Simone Kartsiotis, Antonio Donnangelo",
-            "date":"2024-06-19",
-            "link":"https://zenodo.org/records/12168516",
-            "description":"The datasets contains RGB images and pointclouds of a vineyard field."
-        }
-    ]
+                        {       
+                            "name":"UAV AgroTwin Vineyard Dataset 2024",
+                            "author":"Simone Kartsiotis, Antonio Donnangelo",
+                            "date":"2024-06-19",
+                            "link":"https://zenodo.org/records/12168516",
+                            "description":"The datasets contains RGB images and pointclouds of a vineyard field."
+                        }
+                      ]
 }
