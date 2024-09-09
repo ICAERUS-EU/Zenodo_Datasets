@@ -79,7 +79,7 @@
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
-| [ICAERUS UC5 - RURAL LOGISTICS sample dataset from STRUMICA, NORTH MACEDONIA. Photogrammetry Orthomosaic and Digital Surface Model (DSM).](https://zenodo.org/records/12909590) | GEOSENSE, AGFUTURA | 2024-07-26 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
+| [Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)](https://zenodo.org/records/12909590) | GEOSENSE, AGFUTURA | 2024-07-26 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
 
 <br />
 
