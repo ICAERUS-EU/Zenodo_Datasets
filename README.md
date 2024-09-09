@@ -94,7 +94,7 @@
 
 
 
-## OCT: Taal
+## OCT: TAAL
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
