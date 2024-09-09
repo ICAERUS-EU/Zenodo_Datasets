@@ -92,10 +92,18 @@
                 "date":"2024-07-15",
                 "link":"https://zenodo.org/records/12743334",
                 "description":"The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection"
-            },
+            }
            ],
 
-    "UC5" :[{}],
+    "UC5" :[
+            {       
+                "name":"ICAERUS UC5 - RURAL LOGISTICS sample dataset from STRUMICA, NORTH MACEDONIA. Photogrammetry Orthomosaic and Digital Surface Model (DSM).",
+                "author":"GEOSENSE, AGFUTURA",
+                "date":"2024-07-26",
+                "link":"https://zenodo.org/records/12909590",
+                "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
+            }
+          ],
 
     "OCT - AgroTwin": [
                         {       
@@ -105,5 +113,60 @@
                             "link":"https://zenodo.org/records/12168516",
                             "description":"The datasets contains RGB images and pointclouds of a vineyard field."
                         }
-                      ]
+                      ],
+
+    "OCT - Taal": [
+                    {       
+                        "name":"Ground Truth Data",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-29",
+                        "link":"https://zenodo.org/records/13120763",
+                        "description":"The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files."
+                    },
+                    {       
+                        "name":"Tree detected",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-29",
+                        "link":"https://zenodo.org/records/13121962",
+                        "description":"The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models."
+                    },
+                    {       
+                        "name":"3D cloud reconstruction and 2D NDVI index",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-26",
+                        "link":"https://zenodo.org/records/12954801",
+                        "description":"The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove."
+                    },
+                    {       
+                        "name":"Plant Health Status",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-30",
+                        "link":"https://zenodo.org/records/13132625",
+                        "description":"This dataset shows the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees."
+                    },
+                    {       
+                        "name":"raw drone sensing data - 1",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-26",
+                        "link":"https://zenodo.org/records/12943015",
+                        "description":"It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
+                    },
+                    {       
+                        "name":"raw drone sensing data - 2",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-26",
+                        "link":"https://zenodo.org/records/12924461",
+                        "description":"It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
+                    }
+                  ],
+
+    "OCT - SHIELD": [
+                    {       
+                        "name":"SHIELD Demonstrations Dataset",
+                        "author":"Obsidian Innovation Institute - Associação",
+                        "date":"2024-07-31",
+                        "link":"https://zenodo.org/records/13146217",
+                        "description":"This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios."
+                    }
+                  ]
 }
