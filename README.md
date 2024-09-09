@@ -79,7 +79,7 @@
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
-
+| [ICAERUS UC5 - RURAL LOGISTICS sample dataset from STRUMICA, NORTH MACEDONIA. Photogrammetry Orthomosaic and Digital Surface Model (DSM).](https://zenodo.org/records/12909590) | GEOSENSE, AGFUTURA | 2024-07-26 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
 
 <br />
 
@@ -91,6 +91,33 @@
 
 
 <br />
+
+
+
+## OCT: Taal
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [3D cloud reconstruction and 2D NDVI index](https://zenodo.org/records/12954801) | Taal S.r.l. | 2024-07-26 | The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove. |
+| [raw drone sensing data - 1](https://zenodo.org/records/12943015) | Taal S.r.l. | 2024-07-26 | It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders. |
+| [raw drone sensing data - 2](https://zenodo.org/records/13120763) | Taal S.r.l. | 2024-07-26 | It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders. |
+| [Ground Truth Data](https://zenodo.org/records/13120763) | Taal S.r.l. | 2024-07-29 | The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files. |
+| [Tree detected](https://zenodo.org/records/13121962) | Taal S.r.l. | 2024-07-29 | The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models. |
+| [Plant Health Status](https://zenodo.org/records/13132625) | Taal S.r.l. | 2024-07-30 | This dataset shows the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees. |
+
+<br />
+
+
+
+## OCT: SHIELD
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [SHIELD Demonstrations Dataset](https://zenodo.org/records/12168516) | Obsidian Innovation Institute - Associação | 2024-06-19 | This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios. |
+
+
+<br />
+
 
 ## ICAERUS Zenodo Description Template:
 
