@@ -1,13 +1,13 @@
 {  
     "UC1": [
-           {       
+            {       
                 "name":"UAV Canyelles Vineyard Dataset 2023-04-21",
                 "author":"Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2023-04-21",
                 "link":"https://zenodo.org/records/8123870",
                 "description":"Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM."
             },
-           {       
+            {       
                 "name":"UAV Canyelles Vineyard Dataset 2023-04-28",
                 "author":"Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2023-04-28",
@@ -28,14 +28,14 @@
                 "link":"https://zenodo.org/records/10171243",
                 "description":"Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain."
             },
-           {       
+            {       
                 "name":"UC1 DATA FOLDER GITHUB",
                 "author":"Esther Vera, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2024-05-15",
                 "link":"https://zenodo.org/records/8123870",
                 "description":"This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub."
             }
-        ],
+          ],
 
     "UC2" :[
             {   
@@ -103,7 +103,7 @@
                 "link":"https://zenodo.org/records/12909590",
                 "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
             }
-          ],
+           ],
 
     "OCT - AgroTwin": [
                         {       
@@ -151,7 +151,6 @@
                         "link":"https://zenodo.org/records/13121962",
                         "description":"The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models."
                     },
-
                     {       
                         "name":"Plant Health Status",
                         "author":"Taal S.r.l.",
