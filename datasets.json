@@ -117,33 +117,12 @@
 
     "OCT - Taal": [
                     {       
-                        "name":"Ground Truth Data",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-29",
-                        "link":"https://zenodo.org/records/13120763",
-                        "description":"The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files."
-                    },
-                    {       
-                        "name":"Tree detected",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-29",
-                        "link":"https://zenodo.org/records/13121962",
-                        "description":"The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models."
-                    },
-                    {       
                         "name":"3D cloud reconstruction and 2D NDVI index",
                         "author":"Taal S.r.l.",
                         "date":"2024-07-26",
                         "link":"https://zenodo.org/records/12954801",
                         "description":"The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove."
-                    },
-                    {       
-                        "name":"Plant Health Status",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-30",
-                        "link":"https://zenodo.org/records/13132625",
-                        "description":"This dataset shows the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees."
-                    },
+                    },                 
                     {       
                         "name":"raw drone sensing data - 1",
                         "author":"Taal S.r.l.",
@@ -157,6 +136,28 @@
                         "date":"2024-07-26",
                         "link":"https://zenodo.org/records/12924461",
                         "description":"It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
+                    },
+                    {       
+                        "name":"Ground Truth Data",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-29",
+                        "link":"https://zenodo.org/records/13120763",
+                        "description":"The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files."
+                    },
+                    {       
+                        "name":"Tree detected",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-29",
+                        "link":"https://zenodo.org/records/13121962",
+                        "description":"The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models."
+                    },
+
+                    {       
+                        "name":"Plant Health Status",
+                        "author":"Taal S.r.l.",
+                        "date":"2024-07-30",
+                        "link":"https://zenodo.org/records/13132625",
+                        "description":"This dataset shows the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees."
                     }
                   ],
 
