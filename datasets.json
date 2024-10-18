@@ -34,9 +34,16 @@
                 "date":"2024-05-15",
                 "link":"https://zenodo.org/records/8123870",
                 "description":"This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub."
+            },
+            {       
+                "name":"VINEYARD PLANT LEAVES IMAGES (SUMMER 2024)",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2024-10-17",
+                "link":"https://zenodo.org/records/13944498",
+                "description":"This dataset contains vineyard leaf images organized by date, side and location for analyzing color, texture, and mildew disease."
             }
           ],
-
+    
     "UC2" :[
             {   
                 "name":"UAV Spraying Parameters-Coverage in Vineyards",
@@ -92,6 +99,13 @@
                 "date":"2024-07-15",
                 "link":"https://zenodo.org/records/12743334",
                 "description":"The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection"
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #1",
+                "author":"ART21",
+                "date":"2024-09-27",
+                "link":"https://zenodo.org/records/13846686",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
             }
            ],
 
