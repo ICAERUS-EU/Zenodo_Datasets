@@ -72,6 +72,7 @@
 |  :---:  |  :---: | :---: |     ---     |
 | [Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV](https://zenodo.org/records/8333789) | ART21 | 2023-09-11 | Hyperspectral imaging acquired with UAV on different dates of a pine tree forest. |
 | [Multiple DJI drone flights with thermal camera over Lithuanian forests in winter for wild boar detection](https://zenodo.org/records/12743334) | ART21 | 2024-07-15 | The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #1](https://zenodo.org/records/13846686) | ART21 | 2024-09-27 | The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images. |
 
 <br />
 
