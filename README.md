@@ -41,7 +41,7 @@
 | [UAV Canyelles Vineyard Dataset 2023-05-05](https://zenodo.org/records/11203083) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2023-05-05 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
 | [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10171243) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2023-06-09 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
 | [UC1 DATA FOLDER GITHUB](https://zenodo.org/records/11195994) | Esther Vera, Aldo Sollazzo, Chirag Rangholia | 2024-05-15 | This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub. |
-| [VINEYARD PLANT LEAVES IMAGES (SUMMER 2024)](https://zenodo.org/records/13944498) | Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia | 2024-10-18 | This dataset contains vineyard leaf images organized by date, side and location for analyzing color, texture, and mildew disease. |
+| [VINEYARD PLANT LEAVES IMAGES (SUMMER 2024)](https://zenodo.org/records/13944498) | Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia | 2024-10-17 | This dataset contains vineyard leaf images organized by date, side and location for analyzing color, texture, and mildew disease. |
 
 
 <br />
