@@ -26,15 +26,15 @@
     "UARSF": [
         {
             "name": "Dataset name",
-            "author": ["Author1", "Author2", "Author3"],
+            "author": ["Author1", "Author2", "Author3"], 
             "date": [2017, 2018, 2019],
             "link": "https://example.com",
             "description": "A brief description of the dataset and its purpose.",
             "parameters": {
-                "location": "Location description or coordinates",
+                "location": "Location description or coordinates: Location, Country",
                 "coordinates (wgs84)": "Latitude, Longitude",
                 "sensor type": ["RGB", "Multispectral", "Thermal", "Hyperspectral", "UAV-LiDAR", "TLS"],
-                "sensors": ["Specific sensors used for data collection"],
+                "sensors": ["Specific sensors used for data collection: Brand type, e.g. DJI FC300X, Parrot Sequoia"],
                 "flight height (m)": [10, 30, "Unspecified"],
                 "contents": "A brief summary of the data contents and measurements"
             }
