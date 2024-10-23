@@ -18,3 +18,26 @@
 
     "UC5" :[{}]
 }
+
+
+//OR:
+
+{
+    "UARSF": [
+        {
+            "name": "Dataset name",
+            "author": ["Author1", "Author2", "Author3"],
+            "date": [2017, 2018, 2019],
+            "link": "https://example.com",
+            "description": "A brief description of the dataset and its purpose.",
+            "parameters": {
+                "location": "Location description or coordinates",
+                "coordinates (wgs84)": "Latitude, Longitude",
+                "sensor type": ["RGB", "Multispectral", "Thermal", "Hyperspectral", "UAV-LiDAR", "TLS"],
+                "sensors": ["Specific sensors used for data collection"],
+                "flight height (m)": [10, 30, "Unspecified"],
+                "contents": "A brief summary of the data contents and measurements"
+            }
+        }
+    ]
+}
