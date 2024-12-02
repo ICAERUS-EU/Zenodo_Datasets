@@ -27,7 +27,10 @@
 * [UC3: Livestock Monitoring](#uc3-livestock-monitoring)
 * [UC4: Forestry and Biodiversity](#uc4-forestry-and-biodiversity)
 * [UC5: Rural Logistics](#uc5-rural-logistics)
-* [OCT: AgroTwin](#oct-agrotwin)
+* [OCT: Agrobit Srl](#oct-agrobit-srl)
+* [OCT: TAAL](#oct-taal)
+* [OCT: SHIELD](#oct-shield)
+* [ICAERUS Zenodo Template](#icaerus-zenodo-template)
 
 
 <br />
@@ -121,7 +124,7 @@
 <br />
 
 
-## ICAERUS Zenodo Description Template:
+## ICAERUS Zenodo Template
 
 Small introduction (1-2 lines) about what will be found in the dataset and what is the dataset about (classification, detection, segmentation, for building orthomosaics, parameters). This dataset encompasses the following data: 
 
