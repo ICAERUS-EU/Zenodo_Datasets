@@ -199,7 +199,7 @@
                     "sensor type": ["RGB"],
                     "sensors": ["DJI FC300X", "DJI FC6310S", "DJI FC6310R"],
                     "flight height (m)": [10, 15, 20, 25, 40],
-                    "contents": "Flower cluster number and floridity ground truth provided",
+                    "contents": "Flower cluster number and floridity ground truth provided"
 
                 }
             },
