@@ -189,7 +189,7 @@
             {
                 "name": "Data on three-year flowering intensity monitoring in an apple orchard: A collection of RGB images acquired from unmanned aerial vehicles",
                 "author": "Chenglong Zhang, João Valente, Wensheng Wang, Pieter van Dalfsen, Peter Frans de Jong, Bert Rijk, Lammert Kooistra",
-                "date": "2023-08-01"
+                "date": "2023-08-01", 
                 "link": "https://www.sciencedirect.com/science/article/pii/S2352340923004754",
                 "description": "The dataset contains UAV images captured during the full blooming period in an apple orchard over three consecutive years (2018-2020). It is linked to research on quantifying flower intensity using UAV RGB imagery. This data can be utilized in the fields of remote sensing, machine vision, deep learning, and precision horticulture for flowering intensity estimation and prediction.",
                 "parameters": {
@@ -206,7 +206,7 @@
             {
                 "name": "Dataset on UAV RGB videos acquired over a vineyard including bunch labels for object detection and tracking",
                 "author": "Mar Ariza-Sentís, Sergio Vélez, João Valente",
-                "date": "2023-02-01"
+                "date": "2023-02-01", 
                 "link": "https://www.sciencedirect.com/science/article/pii/S2352340922010514",
                 "description": "This dataset contains 40 RGB videos of a vineyard in northern Spain, acquired via UAV for object detection and tracking of grape bunches. The dataset is designed to facilitate grape bunch counting and assist winegrowers in assessing vineyard health. It includes mask labels of visible grape bunches, recorded throughout four UAV flights with the camera tilted at 60 degrees.",
                 "parameters": {
@@ -222,7 +222,7 @@
             {
                 "name": "Dataset on unmanned aerial vehicle multispectral images acquired over a vineyard affected by Botrytis cinerea in northern Spain",
                 "author": "Sergio Vélez, Mar Ariza-Sentís, João Valente",
-                "date": "2023-02-01"
+                "date": "2023-02-01", 
                 "link": "https://doi.org/10.1016/j.dib.2022.108876",
                 "description": "This dataset contains 16,504 multispectral images acquired via UAV over a 1.06 ha vineyard in northern Spain affected by Botrytis cinerea. The images were taken during four flights at 30 m height with varying camera tilt angles (0°, 30°, 45°, and 0° in the afternoon to capture plant shadows). The dataset supports research in disease detection, 3D reconstruction, and orthomosaic generation in vineyards.",
                 "parameters": {
@@ -238,7 +238,7 @@
             {
                 "name": "Dataset on UAV High-resolution Images from Grassland with Broad-leaved Dock (Rumex Obtusifolius)",
                 "author": "João Valente, Lammert Kooistra",
-                "date": "2021-07-22"
+                "date": "2021-07-22", 
                 "link": "https://zenodo.org/records/5119205#.Yx7aknZByHt",
                 "description": "The dataset contains orthophotos constructed from UAV images of a grassland field in Kleve, Germany, where several Rumex obtusifolius plants were detected. The images were captured at 10, 15, and 30 meters height, and labels/annotations of the plants are provided.",
                 "parameters": {
@@ -254,7 +254,7 @@
             {
                 "name": "Diurnal UAV-based sun-induced chlorophyll fluorescence over potato and sugar beet fields",
                 "author": "Na Wang, Juha Suomalainen, Harm Bartholomeus, Lammert Kooistra, Dainius Masiliunas, Jan Clevers",
-                "date": "2022-08-23"
+                "date": "2022-08-23", 
                 "link": "https://data.4tu.nl/articles/_/20348382",
                 "description": "This dataset contains UAV-based sun-induced chlorophyll fluorescence data acquired over potato and sugar beet fields on August 2, 2018, during clear sky conditions. Four flights were conducted following a diurnal cycle at 9:45, 11:38, 14:15, and 16:28. Multispectral measurements were collected around 11:00 using a Parrot Sequoia+ sensor.",
                 "parameters": {
@@ -270,7 +270,7 @@
             {
                 "name": "Haus Riswick grassland experiment with N fertilization and plant growth monitoring based on Unmanned Aerial Vehicle (UAV) hyperspectral imagery - campaigns of 2014 and 2017",
                 "author": "Lammert Kooistra, Marston H D Franceschini, Rolf Becker, Florian Wichern, J.M. (Juha) Suomalainen, Harm Bartholomeus, Alessandra Capolupo",
-                "date":"2022-02-25"
+                "date":"2022-02-25", 
                 "link": "https://doi.org/10.4121/19188872.v1",
                 "description": "This dataset contains UAV hyperspectral imagery and field measurements of dry aboveground biomass, nitrogen content (N%), and nitrogen uptake from experimental grassland plots near Kleve, Germany. Data were collected during five campaigns on two dates in 2014 and three dates in 2017. The UAV flights used the WageningenUR Hyperspectral Mapping System (HYMSY) with a pushbroom imaging sensor and a photogrammetric camera.",
                 "parameters": {
@@ -286,7 +286,7 @@
             {
                 "name": "UAV-based Multispectral & Thermal dataset for exploring the diurnal variability, radiometric & geometric accuracy for precision agriculture",
                 "author": "Christina Kallimani, Ramin Heidarian, Frits K. van Evert, Bert Rijk, Lammert Kooistra",
-                "date": "2020-04-22"
+                "date": "2020-04-22", 
                 "link": "https://doi.org/10.18174/odjar.v6i0.16317",
                 "description": "This dataset explores diurnal variability, radiometric and geometric accuracy in UAV-based multispectral and thermal imagery for precision agriculture. The data were collected in a one-day field campaign on 21 June 2017 over wheat, barley, and potato fields at Wageningen University and Research (WUR) farm. The dataset includes imagery from various sensors and validation measurements from radiometric calibration plates and plant sample locations.",
                 "parameters": {
@@ -303,7 +303,7 @@
             {
                 "name": "Speulderbos Terrestrial (TLS) and Unmanned Aerial Vehicle Laser Scanning (UAV-LS) 2017",
                 "author": "Benjamin Brede, A.I. (Alvaro) Lau Sarmiento, Pasi Raumonen, Harm Bartholomeus, Martin Herold, Lammert Kooistra",
-                "date": "2020-10-07"
+                "date": "2020-10-07", 
                 "link": "https://doi.org/10.4121/13061306.v1",
                 "description": "This dataset contains TLS and UAV-LS point clouds from the 2017 Speulderbos Laser Scanning campaign. It covers approximately 2 hectares of forest, including 1 hectare of mature beech and oak trees and 1 hectare of mixed species. The data was acquired during early May 2017, when around half of the deciduous trees had no leaves. It provides valuable information for studying above-ground plant biomass and forest inventory.",
                 "parameters": {
