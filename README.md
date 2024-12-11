@@ -54,6 +54,7 @@
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
 | [UAV Spraying Parameters-Coverage in Vineyards](https://zenodo.org/records/10276149)  | Vasilis Psiroukis | 2023-12-06 | A set of UAV spraying data collected using WSPs, across different parameter configurations. |
+| [UAV Spraying Parameters-Coverage in Vineyards (2024 Experimental Year)](https://zenodo.org/records/14280682)  | Vasilis Psiroukis | 2024-12-05 | A set of UAV spraying data collected using WSPs, across different parameter configurations. |
 
 
 <br />
@@ -85,6 +86,7 @@
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
 | [Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)](https://zenodo.org/records/12909590) | GEOSENSE, AGFUTURA | 2024-07-26 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
+| [ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas](https://zenodo.org/records/14382445) | GEOSENSE | 2024-12-11 | Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform. |
 
 <br />
 
@@ -120,8 +122,27 @@
 |  :---:  |  :---: | :---: |     ---     |
 | [SHIELD Demonstrations Dataset](https://zenodo.org/records/12168516) | Obsidian Innovation Institute - Associação | 2024-06-19 | This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios. |
 
+<br />
+
+## OCT: LowAltitude
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [Multispectral imaging of a UK Vineyard June 24, part 1](https://zenodo.org/records/14328464) | Chris Crane | 2024-06-02 | A dataset of multipectral images and drone flight logs.|
+| [Multispectral data set of a UK Vineyard June 2024 part 2](https://zenodo.org/records/14334273) | Chris Crane | 2024-06-02 | Part 2 of the multispectral dataset that contains images and drone flight logs.|
+| [Multispectral dataset of a Vineyard, UK, July 2024 Part 1 and 2](https://zenodo.org/records/14281334) | Chris Crane | 2024-07-07 | Parts 1 and 2 of multispectral dataset, along with drone flight files.|
+| [Multispectral dataset of vineyard, July 24 Part 3](https://zenodo.org/records/14284315) | Chris Crane | 2024-07-14 | Part 3 of multispectral dataset, along with drone flight logs.|
+| [Lidar files generated from UAV flight over vineyard trial block](https://zenodo.org/records/14266547) | Chris Crane | 2024-07-14 | Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone.|
+| [GeoTIFF for Vineyard, generated from Multispectral survey; Part 1](https://zenodo.org/records/14355958) | Chris Crane | 2024-07-14 | The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.|
+| [Lidar data set of a vineyard](https://zenodo.org/records/14269622) | Chris Crane | 2024-08-16 | Lidar files for a full vineyard, that can be used to create a 3d model.|
+| [Multispectral data set including images and drone logs, vineyard, September 2024: PART 1](https://zenodo.org/records/14274523) | Chris Crane | 2024-09-01 | Multispectral data including drone log files, of a UK vineyard.|
+| [Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3](https://zenodo.org/records/14278527) | Chris Crane | 2024-09-01 | Multispectral and RGB image datasets, parts 2 and 3.|
+| [GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2](https://zenodo.org/records/14360892) | Chris Crane | 2024-09-01 | The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.|
+| [Vineyard block boundaries](https://zenodo.org/records/14354921) | Chris Crane | 2024-12-10 | Zip file of vineyard block boundaries in various file types, including shape.|
+| [PDF reports showing outcome of multispectral survey of Vineyard](https://zenodo.org/records/14354749) | Chris Crane | 2024-12-10 | The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted.|
 
 <br />
+
 
 
 ## ICAERUS Zenodo Template
