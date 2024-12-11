@@ -51,6 +51,13 @@
                 "date":"2023-12-06",
                 "link":"https://zenodo.org/records/10276149",
                 "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations."
+            }, 
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards (2024 Experimental Year)",
+                "author":"Vasilis Psiroukis",
+                "date":"2024-12-05",
+                "link":"https://zenodo.org/records/14280682",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations."
             }
           ],
 
@@ -116,6 +123,13 @@
                 "date":"2024-07-26",
                 "link":"https://zenodo.org/records/12909590",
                 "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
+            },
+            {       
+                "name":"ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas",
+                "author":"GEOSENSE",
+                "date":"2024-12-11",
+                "link":"https://zenodo.org/records/12909590",
+                "description":"Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform."
             }
            ],
 
