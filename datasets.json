@@ -197,7 +197,92 @@
                         "description":"This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios."
                     }
                   ],
-    
+    "OCT - LowAltitude": [
+                    {       
+                        "name":"Multispectral imaging of a UK Vineyard June 24, part 1",
+                        "author":"Chris Crane",
+                        "date":"2024-06-02",
+                        "link":"https://zenodo.org/records/14328464",
+                        "description":"A dataset of multipectral images and drone flight logs."
+                    },
+                    {       
+                        "name":"Multispectral data set of a UK Vineyard June 2024 part 2",
+                        "author":"Chris Crane",
+                        "date":"2024-06-02",
+                        "link":"https://zenodo.org/records/14334273",
+                        "description":"Part 2 of the multispectral dataset that contains images and drone flight logs."
+                    },
+                    {       
+                        "name":"Multispectral dataset of a Vineyard, UK, July 2024 Part 1 and 2",
+                        "author":"Chris Crane",
+                        "date":"2024-07-07",
+                        "link":"https://zenodo.org/records/14281334",
+                        "description":"Parts 1 and 2 of multispectral dataset, along with drone flight files."
+                    },
+                    {       
+                        "name":"Multispectral dataset of vineyard, July 24 Part 3",
+                        "author":"Chris Crane",
+                        "date":"2024-07-14",
+                        "link":"https://zenodo.org/records/14284315",
+                        "description":"Part 3 of multispectral dataset, along with drone flight logs."
+                    },
+                    {       
+                        "name":"Lidar files generated from UAV flight over vineyard trial block",
+                        "author":"Chris Crane",
+                        "date":"2024-07-14",
+                        "link":"https://zenodo.org/records/14266547",
+                        "description":"Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone."
+                    },
+                    {       
+                        "name":"GeoTIFF for Vineyard, generated from Multispectral survey; Part 1",
+                        "author":"Chris Crane",
+                        "date":"2024-07-14",
+                        "link":"https://zenodo.org/records/14355958",
+                        "description":"The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
+                    },
+                    {       
+                        "name":"Lidar data set of a vineyard",
+                        "author":"Chris Crane",
+                        "date":"2024-08-16",
+                        "link":"https://zenodo.org/records/14269622",
+                        "description":"Lidar files for a full vineyard, that can be used to create a 3d model."
+                    },
+                    {       
+                        "name":"Multispectral data set including images and drone logs, vineyard, September 2024: PART 1",
+                        "author":"Chris Crane",
+                        "date":"2024-09-01",
+                        "link":"https://zenodo.org/records/14274523",
+                        "description":"Multispectral data including drone log files of a UK vineyard."
+                    },
+                    {       
+                        "name":"Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3",
+                        "author":"Chris Crane",
+                        "date":"2024-09-01",
+                        "link":"https://zenodo.org/records/14278527",
+                        "description":"Multispectral and RGB image datasets, parts 2 and 3."
+                    },
+                    {       
+                        "name":"GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2",
+                        "author":"Chris Crane",
+                        "date":"2024-09-01",
+                        "link":"https://zenodo.org/records/14360892",
+                        "description":"The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
+                    },
+                    {       
+                        "name":"Vineyard block boundaries",
+                        "author":"Chris Crane",
+                        "date":"2024-12-10",
+                        "link":"https://zenodo.org/records/14354921",
+                        "description":"Zip file of vineyard block boundaries in various file types, including shape."
+                    },
+                    {       
+                        "name":"PDF reports showing outcome of multispectral survey of Vineyard",
+                        "author":"Chris Crane",
+                        "date":"2024-12-10",
+                        "link":"https://zenodo.org/records/14354749",
+                        "description":"The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted."
+                    }
+                  ],
     "UARSF": [
             
             {
