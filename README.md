@@ -135,7 +135,7 @@
 | [Lidar files generated from UAV flight over vineyard trial block](https://zenodo.org/records/14266547) | Chris Crane | 2024-07-14 | Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone.|
 | [GeoTIFF for Vineyard, generated from Multispectral survey; Part 1](https://zenodo.org/records/14355958) | Chris Crane | 2024-07-14 | The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.|
 | [Lidar data set of a vineyard](https://zenodo.org/records/14269622) | Chris Crane | 2024-08-16 | Lidar files for a full vineyard, that can be used to create a 3d model.|
-| [Multispectral data set including images and drone logs, vineyard, September 2024: PART 1](https://zenodo.org/records/14274523) | Chris Crane | 2024-09-01 | Multispectral data including drone log files, of a UK vineyard.|
+| [Multispectral data set including images and drone logs, vineyard, September 2024: PART 1](https://zenodo.org/records/14274523) | Chris Crane | 2024-09-01 | Multispectral data including drone log files of a UK vineyard.|
 | [Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3](https://zenodo.org/records/14278527) | Chris Crane | 2024-09-01 | Multispectral and RGB image datasets, parts 2 and 3.|
 | [GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2](https://zenodo.org/records/14360892) | Chris Crane | 2024-09-01 | The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.|
 | [Vineyard block boundaries](https://zenodo.org/records/14354921) | Chris Crane | 2024-12-10 | Zip file of vineyard block boundaries in various file types, including shape.|
