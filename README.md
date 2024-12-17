@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://icaerus.eu" target="_blank">
-      <img width="50%" src="https://icaerus.eu/wp-content/uploads/2022/09/ICAERUS-logo-white.svg"></a>
+      <img width="50%" src="https://raw.githubusercontent.com/ICAERUS-EU/.github/refs/heads/main/profile/ICAERUS_transparent.png"></a>
     <h3 align="center">Zenodo Datasets</h3>
     
    <p align="center">
