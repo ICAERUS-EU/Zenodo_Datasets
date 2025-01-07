@@ -85,11 +85,18 @@
             },
             {       
                 "name":"Drone videos and their annotations of passing sheep (for counting purpose)",
-                "author":"Louise Helary, Kinsey Nnenna, Marta KOLODZIEJCZYK, Jana SCHEWE, Léa Philip, Estelle Nicolas, Adrien Lebreton",
+                "author":"Louise Helary, Kinsey Nnenna, Marta Kolodziejczyk, Jana Schewe, Léa Philip, Estelle Nicolas, Adrien Lebreton",
                 "date":"2024-06-18",
                 "link":"https://zenodo.org/records/12094356",
                 "description":"The dataset encompasses 4 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
-            }
+            }, 
+            {       
+                "name":"Aerial videos and images of goats (for computer vision purpose)",
+                "author":"Adrien Lebreton, Laurence Depuille, Estelle Nicolas, Louise Helary",
+                "date":"2025-01-03",
+                "link":"https://zenodo.org/records/14591324",
+                "description":"The dataset contains drone-captured videos and images from two goat farms in France, featuring varied settings and resolutions."
+            } 
            ],
 
     "UC4": [
