@@ -132,6 +132,13 @@
                 "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
             },
             {       
+                "name":"Photogrammetry Orthomosaic and Digital Surface Model 2 (Strumica, North Macedonia)",
+                "author":"GEOSENSE",
+                "date":"2024-10-24",
+                "link":"https://zenodo.org/records/12772799",
+                "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
+            },        
+            {       
                 "name":"ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas",
                 "author":"GEOSENSE",
                 "date":"2024-12-11",
