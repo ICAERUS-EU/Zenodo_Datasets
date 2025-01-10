@@ -145,6 +145,17 @@
 
 
 
+## OCT: InnovPlantproject
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [Raw DJI Mavic 3M RTK RGB and Multispectral drone imagery collected on 2024-05-28](https://zenodo.org/records/14604638) | iLaria Marengo, Nuno Faria | 2025-01-06 | High-resolution RGB and multispectral drone imagery of six Alentejo vineyards, collected in 2024 and georeferenced manually. |
+| [RGB and Multispectral orthomosaics obtained by processing raw imagery (dated 20240528) in webODM software](https://zenodo.org/records/14605551) | iLaria Marengo, Nuno Faria | 2025-01-06 | RGB and multispectral orthomosaics of six Alentejo vineyards, processed with webODM for stress and productivity analysis. |
+| [Input and output datasets for training the AI-based vine segmentation model (YOLOv9)](https://zenodo.org/records/14605849) | iLaria Marengo, Nuno Faria | 2025-01-06 | Georeferenced vegetation RGB orthomosaics, 5x5m cell vectors, and AI-segmentation outputs for testing models like YOLOv9. |
+
+<br />
+
+
 ## ICAERUS Zenodo Template
 
 Small introduction (1-2 lines) about what will be found in the dataset and what is the dataset about (classification, detection, segmentation, for building orthomosaics, parameters). This dataset encompasses the following data: 
