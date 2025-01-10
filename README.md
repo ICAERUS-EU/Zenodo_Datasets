@@ -86,6 +86,7 @@
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
 | [Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)](https://zenodo.org/records/12909590) | GEOSENSE, AGFUTURA | 2024-07-26 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
+| [Photogrammetry Orthomosaic and Digital Surface Model 2 (Strumica, North Macedonia)](https://zenodo.org/records/12772799) | GEOSENSE | 2024-10-24 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
 | [ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas](https://zenodo.org/records/14382445) | GEOSENSE | 2024-12-11 | Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform. |
 
 <br />
