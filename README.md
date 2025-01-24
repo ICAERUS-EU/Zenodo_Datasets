@@ -39,8 +39,8 @@
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
-| [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2023-07-07 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
 | [UAV Canyelles Vineyard Dataset 2023-04-28](https://zenodo.org/records/11202526) | Esther Vera, , Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2023-05-14 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
+| [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2023-07-07 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
 | [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10171243) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2023-08-07 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
 | [UAV Canyelles Vineyard Dataset 2023-05-05](https://zenodo.org/records/11203083) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2024-05-16 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
 | [UC1 DATA FOLDER GITHUB](https://zenodo.org/records/11195994) | Esther Vera, Aldo Sollazzo, Chirag Rangholia | 2024-05-15 | This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub. |
