@@ -39,10 +39,10 @@
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
-| [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2023-04-21 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
-| [UAV Canyelles Vineyard Dataset 2023-04-28](https://zenodo.org/records/11202526) | Esther Vera, , Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2023-04-28 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
-| [UAV Canyelles Vineyard Dataset 2023-05-05](https://zenodo.org/records/11203083) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2023-05-05 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
-| [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10171243) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2023-06-09 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
+| [UAV Canyelles Vineyard Dataset 2023-04-21](https://zenodo.org/records/8123870) | Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2023-07-07 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
+| [UAV Canyelles Vineyard Dataset 2023-04-28](https://zenodo.org/records/11202526) | Esther Vera, , Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2023-05-14 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
+| [UAV Canyelles Vineyard Dataset 2023-06-09](https://zenodo.org/records/10171243) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2023-08-07 | Crop monitoring dataset that contains RGB images, NIR images, pointcloud data, RGB and NDVI orthomosaic images, DEM and the shape that defines the total vineyard terrain. |
+| [UAV Canyelles Vineyard Dataset 2023-05-05](https://zenodo.org/records/11203083) | Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés | 2024-05-16 | Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM. |
 | [UC1 DATA FOLDER GITHUB](https://zenodo.org/records/11195994) | Esther Vera, Aldo Sollazzo, Chirag Rangholia | 2024-05-15 | This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub. |
 | [VINEYARD PLANT LEAVES IMAGES (SUMMER 2024)](https://zenodo.org/records/13944498) | Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia | 2024-10-17 | This dataset contains vineyard leaf images organized by date, side and location for analyzing color, texture, and mildew disease. |
 
@@ -85,8 +85,8 @@
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
-| [Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)](https://zenodo.org/records/12909590) | GEOSENSE, AGFUTURA | 2024-07-26 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
-| [Photogrammetry Orthomosaic and Digital Surface Model 2 (Strumica, North Macedonia)](https://zenodo.org/records/12772799) | GEOSENSE | 2024-10-24 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
+| [ICAERUS - UC5 - Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)](https://zenodo.org/records/12772799) | GEOSENSE | 2024-07-18 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
+| [ICAERUS - UC5 - Photogrammetry Orthomosaic and Digital Surface Model 2 (Strumica, North Macedonia)](https://zenodo.org/records/12909590) | GEOSENSE, AGFUTURA | 2024-07-26 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
 | [ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas](https://zenodo.org/records/14382445) | GEOSENSE | 2024-12-11 | Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform. |
 
 <br />
@@ -108,7 +108,7 @@
 |  :---:  |  :---: | :---: |     ---     |
 | [3D cloud reconstruction and 2D NDVI index](https://zenodo.org/records/12954801) | Taal S.r.l. | 2024-07-26 | The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove. |
 | [raw drone sensing data - 1](https://zenodo.org/records/12943015) | Taal S.r.l. | 2024-07-26 | It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders. |
-| [raw drone sensing data - 2](https://zenodo.org/records/13120763) | Taal S.r.l. | 2024-07-26 | It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders. |
+| [raw drone sensing data - 2](https://zenodo.org/records/12924461) | Taal S.r.l. | 2024-07-26 | It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders. |
 | [Ground Truth Data](https://zenodo.org/records/13120763) | Taal S.r.l. | 2024-07-29 | The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files. |
 | [Tree detected](https://zenodo.org/records/13121962) | Taal S.r.l. | 2024-07-29 | The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models. |
 | [Plant Health Status](https://zenodo.org/records/13132625) | Taal S.r.l. | 2024-07-30 | This dataset shows the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees. |
@@ -129,16 +129,16 @@
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
-| [Multispectral imaging of a UK Vineyard June 24, part 1](https://zenodo.org/records/14328464) | Chris Crane | 2024-06-02 | A dataset of multipectral images and drone flight logs.|
-| [Multispectral data set of a UK Vineyard June 2024 part 2](https://zenodo.org/records/14334273) | Chris Crane | 2024-06-02 | Part 2 of the multispectral dataset that contains images and drone flight logs.|
-| [Multispectral dataset of a Vineyard, UK, July 2024 Part 1 and 2](https://zenodo.org/records/14281334) | Chris Crane | 2024-07-07 | Parts 1 and 2 of multispectral dataset, along with drone flight files.|
-| [Multispectral dataset of vineyard, July 24 Part 3](https://zenodo.org/records/14284315) | Chris Crane | 2024-07-14 | Part 3 of multispectral dataset, along with drone flight logs.|
-| [Lidar files generated from UAV flight over vineyard trial block](https://zenodo.org/records/14266547) | Chris Crane | 2024-07-14 | Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone.|
-| [GeoTIFF for Vineyard, generated from Multispectral survey; Part 1](https://zenodo.org/records/14355958) | Chris Crane | 2024-07-14 | The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.|
-| [Lidar data set of a vineyard](https://zenodo.org/records/14269622) | Chris Crane | 2024-08-16 | Lidar files for a full vineyard, that can be used to create a 3d model.|
-| [Multispectral data set including images and drone logs, vineyard, September 2024: PART 1](https://zenodo.org/records/14274523) | Chris Crane | 2024-09-01 | Multispectral data including drone log files of a UK vineyard.|
-| [Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3](https://zenodo.org/records/14278527) | Chris Crane | 2024-09-01 | Multispectral and RGB image datasets, parts 2 and 3.|
-| [GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2](https://zenodo.org/records/14360892) | Chris Crane | 2024-09-01 | The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.|
+| [Lidar data set of a vineyard](https://zenodo.org/records/14269622) | Chris Crane | 2024-12-03 | Lidar files for a full vineyard, that can be used to create a 3d model.|
+| [Lidar files generated from UAV flight over vineyard trial block](https://zenodo.org/records/14266547) | Chris Crane | 2024-12-03 | Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone.|
+| [Multispectral data set including images and drone logs, vineyard, September 2024: PART 1](https://zenodo.org/records/14274523) | Chris Crane | 2024-12-04 | Multispectral data including drone log files of a UK vineyard.|
+| [Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3](https://zenodo.org/records/14278527) | Chris Crane | 2024-12-04 | Multispectral and RGB image datasets, parts 2 and 3.|
+| [Multispectral dataset of a Vineyard, UK, July 2024 Part 1 and 2](https://zenodo.org/records/14281334) | Chris Crane | 2024-12-05 | Parts 1 and 2 of multispectral dataset, along with drone flight files.|
+| [Multispectral dataset of vineyard, July 24 Part 3](https://zenodo.org/records/14284315) | Chris Crane | 2024-12-05 | Part 3 of multispectral dataset, along with drone flight logs.|
+| [Multispectral imaging of a UK Vineyard June 24, part 1](https://zenodo.org/records/14328464) | Chris Crane | 2024-12-09 | A dataset of multipectral images and drone flight logs.|
+| [Multispectral data set of a UK Vineyard June 2024 part 2](https://zenodo.org/records/14334273) | Chris Crane | 2024-12-09 | Part 2 of the multispectral dataset that contains images and drone flight logs.|
+| [GeoTIFF for Vineyard, generated from Multispectral survey; Part 1](https://zenodo.org/records/14355958) | Chris Crane | 2024-12-10 | The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.|
+| [GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2](https://zenodo.org/records/14360892) | Chris Crane | 2024-12-10 | The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.|
 | [Vineyard block boundaries](https://zenodo.org/records/14354921) | Chris Crane | 2024-12-10 | Zip file of vineyard block boundaries in various file types, including shape.|
 | [PDF reports showing outcome of multispectral survey of Vineyard](https://zenodo.org/records/14354749) | Chris Crane | 2024-12-10 | The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted.|
 
