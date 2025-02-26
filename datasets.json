@@ -96,7 +96,14 @@
                 "date":"2025-01-03",
                 "link":"https://zenodo.org/records/14591324",
                 "description":"The dataset contains drone-captured videos and images from two goat farms in France, featuring varied settings and resolutions."
-            } 
+            }, 
+            {       
+                "name":"Drone images and their annotations of goats/small ruminants (for computer vision purpose)",
+                "author":"Adrien Lebreton, Léane Duval, Laurence Depuille, Estelle Nicolas, Louise Helary",
+                "date":"2025-02-26",
+                "link":"https://zenodo.org/records/14929694",
+                "description":"This dataset includes annotated drone videos and images of sheep and goats with YOLO-labeled bounding boxes for computer vision detection."
+            }  
            ],
 
     "UC4": [
