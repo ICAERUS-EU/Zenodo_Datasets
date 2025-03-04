@@ -1,0 +1,1755 @@
+{
+    "Online": [
+        {
+            "general": {
+                "title": "UAV multispectral imagery dataset over a vineyard affected by Botrytis in 'Tomiño', Pontevedra, Spain",
+                "author": "Sergio Vélez, Mar Ariza-Sentís, João Valente",
+                "contact": "None",
+                "published_date": "2021-09-21",
+                "collection_date": "2021-09-21",
+                "collection_time": "None",
+                "location": "Tomiño, Pontevedra, Galicia, Spain",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/7383601",
+                "description": "Remote sensing makes it possible to gather data rapidly, precisely, accurately, and non-destructively, allowing it to assess grapevines accurately in near real-time. In addition, multispectral cameras capture information in different bands, which can be combined to generate vegetation indices useful in precision agriculture. This dataset contains 16,504 multispectral images from a 1.06 ha vineyard affected by Botrytis cinerea, in the north of Spain. The photos were taken throughout four UAV flights at 30 m height with varying camera angles on 16 September 2021, the same date as the grape harvest. The first flight took place with the camera tilted at 0° (nadir angle), the second flight at 30°, the third flight at 45°, and the fourth flight was also performed at 0° but was scheduled in the afternoon to capture the shadows of the plants projected on the ground. This dataset was created to support researchers interested in disease detection and, in general, UAV remote sensing in vineyards and other woody crops. Moreover, it allows digital photogrammetry and 3D reconstruction in the context of precision agriculture, enabling the study of the effect of different tilt angles on the 3D reconstruction of the vineyard and the generation of orthomosaics.",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "images"
+                    ],
+                    "format": [
+                        "RAW"
+                    ],
+                    "quantity": [
+                        "16504"
+                    ],
+                    "size": "31.1",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "30",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge 3",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "0, 30, 45",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "None",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "No, Panel image available",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "vineyard"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "UFRGS_UAV",
+                "author": "Ricardo S. Westhauser",
+                "contact": "None",
+                "published_date": "2019-02-05",
+                "collection_date": "2019-02-05",
+                "collection_time": "None",
+                "location": "None",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/4076075",
+                "description": "This dataset contains five sets (each set from a different spectra) of images taken by an UAV equipped with a downward looking multispectral camera (Parrot Sequoia), in one flight. The region in which the UAV flyed was Porto Alegre (more specifically, Federal University of Rio Grande do Sul, Campus do Vale), a city from Rio Grande do Sul, Brazil. In addition to the sets of images, there are also a folder with twelve satellite images from Porto Alegre, a README file, a .kml and a .DAT file.",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "images"
+                    ],
+                    "format": [
+                        "RAW"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "10",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "Parrot Sequioa",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "None",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "No, internal",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "Gummern - Mining Waste Deposits Multispectral UAV Imagery",
+                "author": "Enoc Sanz Albeno",
+                "contact": "None",
+                "published_date": "2023-06-09",
+                "collection_date": "2023-06-09",
+                "collection_time": "None",
+                "location": "Gummern",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/13622459",
+                "description": "Mining Waste Deposits Multispectral UAV Imagery from DJI Mavic 3M",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "images"
+                    ],
+                    "format": [
+                        "RAW"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "30",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "70",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "DJI Mavic 3M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "0.2",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "No, Internal",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "Hullerbusch beech forest, Germany, captured by UAV-based multispectral imaging",
+                "author": "Robert Jackisch",
+                "contact": "None",
+                "published_date": "2022-08-09",
+                "collection_date": "2022-08-09",
+                "collection_time": "None",
+                "location": "Hullerbusch, Mecklenburg, Germany",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/7057321",
+                "description": "This data set contains data products of a multispectral UAV survey over the Hullerbusch beach forest, located in southern Mecklenburg–Western Pomerania, Germany. As survey drone, the DJI M300 with RTK antenna was employed and the multispectral image data was captured with a Micasense Altum multispectral camera. Data were processed in Agisoft Metashape 1.7, with the orthomosaic converted to reflectance.",
+                "icon": "",
+                "software": [
+                    "Agisoft Metashape 1.7"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "2",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "DJI M300",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "70",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense Altum-PT",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "RTK",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "3",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "beech forest",
+                "species": [
+                    "beech"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "Cherry Tree Disease Detection Dataset",
+                "author": "Christos Chaschatzis, Ilias Siniosoglou, Anna Triantafyllou, Chrysoula Karaiskou, Athanasios Liatifis, Panagiotis Radoglou-Grammatikis, Dimitrios Pliatsios, Vasiliki Kelli, Thomas Lagkas, Vasileios Argyriou, Panagiotis Sarigiannidis",
+                "contact": "None",
+                "published_date": "2022-07-01",
+                "collection_date": "2022-07-01",
+                "collection_time": "None",
+                "location": "Western Macedonia, Macedonia",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/7144071",
+                "description": "This cherry tree disease detection dataset is a multimodal, multi-angle dataset which was constructed for monitoring the growth of cherry trees, including stress analysis and prediction. An orchard of cherry trees is considered in the area of Western Macedonia, where 577 cherry trees were recorded in a full crop season starting from Jul. 2021 to Jul. 2022. The dataset includes a) aerial / Unmanned Aerial Vehicle (UAV) images, b) ground RGB images/photos, and c) ground multispectral images/photos. Two agronomist experts annotated the dataset by identifying a stress, which in this case is a common disease in cherry trees known as Armillaria [1][2].",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "images"
+                    ],
+                    "format": [
+                        "RAW"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "40",
+                    "annotation": [
+                        "disease annotations"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "Parrot Sequioa",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "None",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "No",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "cherry trees"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "FlexiGroBots - Blueberry orchard UAV dataset",
+                "author": "Ivošević Bojana, Grbović Željana, Stefanović Dimitrije, Filipović Vladan, Antić Aleksandar, Pajević Nina, Marko Oskar, Panić Marko",
+                "contact": "None",
+                "published_date": "2021-07-02",
+                "collection_date": "2021-07-02",
+                "collection_time": "None",
+                "location": "Babe, Serbia",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/5712792",
+                "description": "Dataset consists of UAV drone images: 6 channels: reflectance blue, reflectance green, reflectance red, reflectance red edge, reflectance NIR, RGB. In order to align different channels, registration was applied and because of uneven illumination during the acquisition process, illumination correction was performed. Thus, the results of each preprocessing step are located in separate folders, i.e. raw data are in 100FPLAN and 101FPLAN, results of registration are in 100FPLAN_registrated and 101FPLAN_registrated, while images with corrected illumination are in 100FPLAN_registrated_corrected and 101FPLAN_registrated_corrected. Orthomosaics created before and after preprocessing are located in UAV orthomosaics folder.",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "23",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "None",
+                    "bands": [
+                        "Blue",
+                        "Green",
+                        "Red",
+                        "Red Edge",
+                        "NIR",
+                        "RGB"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "blueberry"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "mDRONES4rivers-project: UAV-imagery of the project area Nonnenwerth at the Rhine River, Germany",
+                "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                "contact": "None",
+                "published_date": "2019-06-06",
+                "collection_date": "2019-06-06",
+                "collection_time": "None",
+                "location": "Nonnenwerth, Germany",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/5828865",
+                "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "1",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "25",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "mDRONES4rivers-project: UAV-imagery of the project area Reitwein at the River Oder, Germany",
+                "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                "contact": "None",
+                "published_date": "2019-06-06",
+                "collection_date": "2019-06-06",
+                "collection_time": "None",
+                "location": "Reitwein, Germany",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/5828899",
+                "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "1",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "25",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "mDRONES4rivers-project: UAV-imagery of the project area Kuehkopf Knoblochsaue at the Rhine River, Germany",
+                "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                "contact": "None",
+                "published_date": "2019-06-06",
+                "collection_date": "2019-06-06",
+                "collection_time": "None",
+                "location": "Kuekopf Knoblochsaue, Germany",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/5828282",
+                "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "1",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "25",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "mDRONES4rivers-project: UAV-imagery of the project area Laubenheim at the Rhine River, Germany",
+                "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                "contact": "None",
+                "published_date": "2019-02-18",
+                "collection_date": "2019-02-18",
+                "collection_time": "None",
+                "location": "Laubenheim, Germany",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/5828543",
+                "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "1",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "25",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "mDRONES4rivers-project: UAV-imagery of the project area Emmericher Ward at the Rhine River, German",
+                "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                "contact": "None",
+                "published_date": "2019-07-23",
+                "collection_date": "2019-07-23",
+                "collection_time": "None",
+                "location": "Emmericher Ward, Germany",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/5827756",
+                "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in German",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "1",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "25",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "mDRONES4rivers-project: UAV-imagery of the project area Niederwerth at the Rhine River, Germany",
+                "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                "contact": "None",
+                "published_date": "2019-03-08",
+                "collection_date": "2019-03-08",
+                "collection_time": "None",
+                "location": "Niederwerth, Germany",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/5822652",
+                "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "1",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "25",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+
+        {
+            "general": {
+                "title": "Multispectral imaging dataset of potato plants on the field, acquired using UAV",
+                "author": "Janez Lapajne, Andrej Vončina, Ana Vojnović",
+                "contact": "None",
+                "published_date": "2022-07-20",
+                "collection_date": "2022-07-20",
+                "collection_time": "None",
+                "location": "Central Slovenia, Slovenia",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/10934163",
+                "description": "Multispectral images of potato field crops were captured using a SKYHERO SPYDER X4-850 GEO Edition Unmanned Aerial Vehicle (UAV) with a Micasense Rededge MX 5-band multispectral camera.",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "1",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+                },
+                "uav": {
+                    "parameters": {
+                        "model": "SKYHERO SPYDER X4-850 GEO Edition",
+                        "link": "None",
+                        "type": "None"
+                    },
+                    "flight": {
+                        "duration": "None",
+                        "height": "None",
+                        "speed": "None"
+                    }
+                },
+                "sensing": {
+                    "type": "Multispectral",
+                    "name": "MicaSense RedEdge-MX",
+                    "link": "",
+                    "resolution": "None",
+                    "sensor_angle": "None",
+                    "gnss": "None",
+                    "image": {
+                        "fov": "None",
+                        "overlap_vertical": "None",
+                        "overlap_horizontal": "None",
+                        "gsd": "None",
+                        "bands": [
+                            "None"
+                        ],
+                        "reflectance_calc": "Yes",
+                        "calibration": "None"
+                    }
+                },
+                "environmental": {
+                    "weather": "None",
+                    "season": "None",
+                    "wind_speed": "None",
+                    "wind_direction": "None"
+                },
+                "agricultural": {
+                    "species": "potato"
+                },
+                "forestry": {
+                    "type": "None",
+                    "species": [
+                        "None"
+                    ]
+                }
+                },
+                {
+                    "general": {
+                        "title": "Unmanned Aerial Vehicle (UAV) data acquired over a subtropical forest area of the UFSM campus Frederico Westphalen, on October 22, 2020, Rio Grande do Sul, Brazil",
+                        "author": "Fabio Marcelo Breunig, Eduardo Rieder, Renato Souza Santos",
+                        "contact": "None",
+                        "published_date": "2020-10-22",
+                        "collection_date": "2020-10-22",
+                        "collection_time": "None",
+                        "location": "Rio Grande do Sul, Brazil",
+                        "coordinates": "None",
+                        "link": "https://zenodo.org/records/4559718",
+                        "description": "The data were acquired from an aerial survey conducted with an Unmanned Aerial Vehicle (UAV, also Drone) covering a forest area of the Federal University of Santa Maria – UFSM in the municipality of Frederico Westphalen, in the Rio Grande do Sul, Brazil (Figure 1). The climate of the region is subtropical (Cfa in the Köppen-Geiger classification) with an average annual temperature of 18 °C and annual precipitation of 1919 mm (Alvares et al., 2013). The rainfall is well distributed throughout the year.",
+                        "icon": "",
+                        "software": [
+                            "None"
+                        ],
+                        "content": {
+                            "type": [
+                                "images"
+                            ],
+                            "format": [
+                                "RAW"
+                            ],
+                            "quantity": [
+                                "None"
+                            ],
+                            "size": "6",
+                            "annotation": [
+                                "None"
+                            ]
+                        }
+                    },
+                    "uav": {
+                        "parameters": {
+                            "model": "None",
+                            "link": "None",
+                            "type": "None"
+                        },
+                        "flight": {
+                            "duration": "None",
+                            "height": "None",
+                            "speed": "None"
+                        }
+                    },
+                    "sensing": {
+                        "type": "Multispectral",
+                        "name": "Parrot Sequioa",
+                        "link": "",
+                        "resolution": "None",
+                        "sensor_angle": "None",
+                        "gnss": "None",
+                        "image": {
+                            "fov": "None",
+                            "overlap_vertical": "None",
+                            "overlap_horizontal": "None",
+                            "gsd": "None",
+                            "bands": [
+                                "None"
+                            ],
+                            "reflectance_calc": "No",
+                            "calibration": "None"
+                        }
+                    },
+                    "environmental": {
+                        "weather": "None",
+                        "season": "None",
+                        "wind_speed": "None",
+                        "wind_direction": "None"
+                    },
+                    "agricultural": {
+                        "species": "None"
+                    },
+                    "forestry": {
+                        "type": "subtropical",
+                        "species": [
+                            "None"
+                        ]
+                    }
+                },
+                {
+                    "general": {
+                        "title": "A dataset of unmanned aerial vehicle multispectral images acquired over a field to identify nitrogen requirements",
+                        "author": "C.L.I.S. Fonseka, Thilina Halloluwa, K.P. Hewagamage, Upul Rathnayake, R.M.U. S Bandara",
+                        "contact": "None",
+                        "published_date": "2023-08-14",
+                        "collection_date": "2023-08-14",
+                        "collection_time": "None",
+                        "location": "Batalagoda, Ibbagamuwa, Kurunegala, Sri Lanka",
+                        "coordinates": "None",
+                        "link": "https://www.sciencedirect.com/science/article/pii/S2352340924004487",
+                        "description": "The technique of detecting and tracking an area's physical properties from a distance by measuring its reflected and emitted radiation is known as remote sensing. It gathered data accurately in near real-time. For this purpose, multispectral cameras mounted on UAVs that capture images with different bands can be used to generate vegetation indexes (NDVI, NDRE), which are useful in precision agriculture. In this study UAV image dataset contains 336 multispectral images from a 0.06 ha paddy field with three different phonological cycles of the crop (vegetative, reproductive, and ripening) in the north-western province of Sri Lanka. The selected sample rice variety is BG300. The images were taken over five days, starting from August 14 to October 5, 2023. The UAV flight took place at 30 m from the canopy level with the multispectral camera titled at an angle of 900. The SPAD Chlorophyll Meter was used to collect ground truth data, which is proportional to the nitrogen level of the leaf. There were 50 randomly selected readings throughout the paddy field. Relevant climate data for five days was provided by the Rice Research and Development Institute, Bathalagoda, which belongs to the paddy field. The purpose of this data creation was to aid researchers who are generally interested in disease diagnosis. Moreover, this dataset allows for studying the effect of using different tilt angles on the 3D reconstruction of the paddy fields and the generation of orthomosaics.",
+                        "icon": "",
+                        "software": [
+                            "None"
+                        ],
+                        "content": {
+                            "type": [
+                                "images"
+                            ],
+                            "format": [
+                                "RAW"
+                            ],
+                            "quantity": [
+                                "336"
+                            ],
+                            "size": "4",
+                            "annotation": [
+                                "None"
+                            ]
+                        }
+                    },
+                    "uav": {
+                        "parameters": {
+                            "model": "None",
+                            "link": "None",
+                            "type": "None"
+                        },
+                        "flight": {
+                            "duration": "None",
+                            "height": "30",
+                            "speed": "None"
+                        }
+                    },
+                    "sensing": {
+                        "type": "Multispectral",
+                        "name": "DJI Mavic 3M",
+                        "link": "",
+                        "resolution": "None",
+                        "sensor_angle": "90",
+                        "gnss": "None",
+                        "image": {
+                            "fov": "None",
+                            "overlap_vertical": "None",
+                            "overlap_horizontal": "None",
+                            "gsd": "0.1",
+                            "bands": [
+                                "None"
+                            ],
+                            "reflectance_calc": "No, Internal",
+                            "calibration": "None"
+                        }
+                    },
+                    "environmental": {
+                        "weather": "None",
+                        "season": "None",
+                        "wind_speed": "None",
+                        "wind_direction": "None"
+                    },
+                    "agricultural": {
+                        "species": "rice"
+                    },
+                    "forestry": {
+                        "type": "None",
+                        "species": [
+                            "None"
+                        ]
+                    }
+                },
+                {
+                    "general": {
+                        "title": "High resolution image dataset by RGB and multispectral cameras on an unmanned aerial vehicle over a secondary tropical dry forest",
+                        "author": "Masuly Vega-Puga, Jaime Garatuza-Payán, Miguel A. Rivera-Diaz, Onésimo Galaz, Juan C. Alvarez-Yépiz, Enrico A. Yepéz",
+                        "contact": "None",
+                        "published_date": "2022-07-01",
+                        "collection_date": "2022-07-01",
+                        "collection_time": "None",
+                        "location": "El Area Natural Protegida Sierra de Alamos-Rio Cuchujaqui, Sonora, Mexico",
+                        "coordinates": "(27.00598005 N, 108.77913821 W)",
+                        "link": "https://www.sciencedirect.com/science/article/pii/S2352340923009307",
+                        "description": "Unmanned Aerial Vehicles (UAV) are advantageous to assess vegetation and terrain changes at a high spatial resolution, advancing our understanding of shifts in ecosystem states and processes. The extension of land that we sought to observe belongs to the footprint of an Eddy Covariance System (around 7.5 ha), installed in a secondary ecological succession of the tropical dry forest (27.00598005 N, 108.77913821 W) within the Sierra de Álamos-Rio Cuchujaqui natural protected area, Sonora, Mexico. Aerial images were obtained with a system of multispectral and RGB cameras mounted on a UAV, which executed automated missions in two different seasons: 1) dry season (June 2023) and 2) first rain season (July 2023), totalling 1116 images. The UAV mission was flown at a height of 105 m and images included a side and front overlap of 70%. The final product was an image dataset per season. These data can contribute to the continuous monitoring strategy to understand ecosystem processes and conserve the Sierra de Álamos-Rio Cuchujaqui natural protected area, a critical natural protected area for national and international organizations. Likewise, image datasets are useful for the processes of developing regional models of phenology, structure, richness, distribution, and vegetation cover along secondary succession after the forest was changed to agriculture and livestock land.",
+                        "icon": "",
+                        "software": [
+                            "None"
+                        ],
+                        "content": {
+                            "type": [
+                                "images"
+                            ],
+                            "format": [
+                                "RAW"
+                            ],
+                            "quantity": [
+                                "1116"
+                            ],
+                            "size": "2.5",
+                            "annotation": [
+                                "None"
+                            ]
+                        }
+                    },
+                    "uav": {
+                        "parameters": {
+                            "model": "None",
+                            "link": "None",
+                            "type": "None"
+                        },
+                        "flight": {
+                            "duration": "None",
+                            "height": "80",
+                            "speed": "None"
+                        }
+                    },
+                    "sensing": {
+                        "type": "Multispectral",
+                        "name": "DJI Phantom 4 Multispectral",
+                        "link": "",
+                        "resolution": "None",
+                        "sensor_angle": "None",
+                        "gnss": "None",
+                        "image": {
+                            "fov": "None",
+                            "overlap_vertical": "70",
+                            "overlap_horizontal": "70",
+                            "gsd": "4.2",
+                            "bands": [
+                                "None"
+                            ],
+                            "reflectance_calc": "No, Internal",
+                            "calibration": "None"
+                        }
+                    },
+                    "environmental": {
+                        "weather": "None",
+                        "season": "dry season, rain season",
+                        "wind_speed": "None",
+                        "wind_direction": "None"
+                    },
+                    "agricultural": {
+                        "species": "None"
+                    },
+                    "forestry": {
+                        "type": "tropical dry forest",
+                        "species": [
+                            "None"
+                        ]
+                    }
+                },
+                {
+                    "general": {
+                        "title": "High-resolution multispectral and RGB dataset from UAV surveys of ten cocoa agroforestry typologies in Côte d'Ivoire",
+                        "author": "Sabine-Karen Lammoglia, You Lucette Akpa, Jean Homian Danumah, Yves Laurent Assoua Brou, Justin N'Dja Kassi",
+                        "contact": "None",
+                        "published_date": "2022-05-01",
+                        "collection_date": "2022-05-01",
+                        "collection_time": "None",
+                        "location": "Divo, Côte d'Ivoire",
+                        "coordinates": "None",
+                        "link": "https://www.sciencedirect.com/science/article/pii/S2352340924006310",
+                        "description": "This paper introduces a dataset of aerial imagery captured during the 2022 cocoa growing season in the central-western region of Côte d'Ivoire. The images were acquired using a multispectral camera mounted on a DJI Phantom 4 unmanned aerial vehicle (UAV). The agricultural land surveyed encompasses 10 different types of cocoa-based agroforestry systems, each ranging from 2.6 ha to 8.3 ha, totaling 7638 images and covering 30 ha. The UAV mission was conducted at an altitude of 80 m, with a side overlap of 70 % and a front overlap of 80 %. This configuration achieved ground sampling distances (GSD) ranging from 4.2 to 4.6 cm providing high-resolution detailed imagery of those lands.",
+                        "icon": "",
+                        "software": [
+                            "None"
+                        ],
+                        "content": {
+                            "type": [
+                                "orthomosaics"
+                            ],
+                            "format": [
+                                "None"
+                            ],
+                            "quantity": [
+                                "7638"
+                            ],
+                            "size": "10",
+                            "annotation": [
+                                "None"
+                            ]
+                        }
+                    },
+                    "uav": {
+                        "parameters": {
+                            "model": "None",
+                            "link": "None",
+                            "type": "None"
+                        },
+                        "flight": {
+                            "duration": "None",
+                            "height": "80",
+                            "speed": "None"
+                        }
+                    },
+                    "sensing": {
+                        "type": "Multispectral",
+                        "name": "DJI Phantom 4 Multispectral",
+                        "link": "",
+                        "resolution": "None",
+                        "sensor_angle": "None",
+                        "gnss": "None",
+                        "image": {
+                            "fov": "None",
+                            "overlap_vertical": "80",
+                            "overlap_horizontal": "70",
+                            "gsd": "4.2",
+                            "bands": [
+                                "None"
+                            ],
+                            "reflectance_calc": "No, Internal",
+                            "calibration": "None"
+                        }
+                    },
+                    "environmental": {
+                        "weather": "None",
+                        "season": "None",
+                        "wind_speed": "None",
+                        "wind_direction": "None"
+                    },
+                    "agricultural": {
+                        "species": "cocoa"
+                    },
+                    "forestry": {
+                        "type": "agroforestry",
+                        "species": [
+                            "None"
+                        ]
+                    }
+        },
+        {
+            "general": {
+                "title": "Orthophotos and DSMs/DTM derived from RPAS flights over the nature reserve Landschap De Liereman in Flanders, Belgium",
+                "author": "Jeroen Vanden Borre, Pauly Klaas, Stijn Van Hoey, Jeroen De Reu, Peter Desmet",
+                "contact": "None",
+                "published_date": "2017-07-17",
+                "collection_date": "2017-07-17",
+                "collection_time": "None",
+                "location": "De Liereman, Belgium",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/3063335",
+                "description": "Landschap De Liereman is a nature reserve situated in Oud-Turnhout, in the province of Antwerp, Flanders, Belgium. The area is managed by the nature conservation NGO Natuurpunt and consists of a diverse landscape of wet and dry heathlands, Nardus grasslands on siliceous soils, forests and transition mires, as well as some remaining arable fields and high-intensity agricultural grasslands.",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "21",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral, RGB",
+                "name": "Parrot Sequioa",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "None",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "heathlands, Nardus grasslands, forests, transition mires",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "UAS-SfM data from Unoccupied aerial system (UAS) Structure-from-Motion canopy fuel parameters: Multisite area-based modelling across forests in California, USA",
+                "author": "Sean Reilly, Matthew L. Clark, Lika Loechler, Jack Spillane, Melina Kozanitas, Paris Krause, David Ackerly, Lisa Patrick Bentley, Imma Oliveras Menor",
+                "contact": "None",
+                "published_date": "2019-09-01",
+                "collection_date": "2019-09-01",
+                "collection_time": "None",
+                "location": "California, United Stated of America",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/12809155",
+                "description": "Unoccupied aerial system (UAS) Structure-from-Motion canopy fuel parameters: Multisite area-based modelling across forests in California, USA",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "12",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-MX",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "None",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "forests",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "Multispectral imagery of macroalgae in Illas Cíes (NW Spain)",
+                "author": "Andrea Martinez-Movilla, Marta Román-Geada, Juan Luis Rodríguez Somoza, Celia Olabarria, Joaquín Martínez-Sánchez",
+                "contact": "None",
+                "published_date": "2019-09-02",
+                "collection_date": "2019-09-02",
+                "collection_time": "None",
+                "location": "Illas Cíes, Spain",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/13880699",
+                "description": "This dataset focuses on an intertidal coastal environment in Illas Cíes, NW Spain. It includes multispectral orthoimages (5 bands), photoquadrat images, and manually segmented shapefiles. The dataset spans 4 months and contains 20 orthoimages (5 per month, one for each band: Blue, Green, Red, Red edge, and NIR). There are also 164 photoquadrat images and 8 shapefiles with a total of 949 polygons. The dataset classifies the intertidal area into 9 categories: Codium spp., Ulva spp., C. peregrina, B. bifurcata, E. selaginoides, S. polyschides, S. muticum, Inert and water.",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics"
+                    ],
+                    "format": [
+                        "None"
+                    ],
+                    "quantity": [
+                        "20"
+                    ],
+                    "size": "10",
+                    "annotation": [
+                        "segmentation"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "35",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense Altum",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "1.5",
+                    "bands": [
+                        "Blue",
+                        "Green",
+                        "Red",
+                        "Red Edge",
+                        "NIR"
+                    ],
+                    "reflectance_calc": "No",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "Data for estimating spruce tree health using drone-based RGB and multispectral imagery",
+                "author": "Samuli Junttila, Roope Näsi, Niko Koivumäki, Mohammad Imangholiloo, Ninni Saarinen, Juha Raisio, Markus Holopainen, Hannu Hyyppä, Juha Hyyppä, Päivi Lyytikäinen-Saarenmaa, Mikko Vastaranta, Eija Honkavaara",
+                "contact": "None",
+                "published_date": "2019-09-08",
+                "collection_date": "2019-09-08",
+                "collection_time": "None",
+                "location": "Helsinki, Finland",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/13925862",
+                "description": "The dataset contains multispectral and RGB orthomosaics (.tif), and photogrammetric point clouds (.laz) of four study areas (about 25 ha each), where bark beetle-related decline of Norway spruce has been observed in Helsinki, Finland. The filenames refer to Area 1 (Männikkötie), Area 2 (Maunulanmaja), Area 3 (Hakuninmaa), and Area 4 (Paloheinä), described in detail in Junttila et al. 2022.",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "orthomosaics",
+                        "point clouds"
+                    ],
+                    "format": [
+                        ".tif",
+                        ".laz"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "8",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "None",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "None",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense Altum, MicaSense RedEdge",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "None",
+                    "bands": [
+                        "None"
+                    ],
+                    "reflectance_calc": "Yes",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "Norway spruce"
+                ]
+            }
+        },
+        {
+            "general": {
+                "title": "Post-remediation evaluation of contaminated site using geophysical methods: Multispectral UAV data Olkusz (Poland) 20220629",
+                "author": "Marta Kondracka",
+                "contact": "None",
+                "published_date": "2022-06-09",
+                "collection_date": "2022-06-09",
+                "collection_time": "None",
+                "location": "Olkusz, Poland",
+                "coordinates": "None",
+                "link": "https://zenodo.org/records/7358770",
+                "description": "In order to analyze the vegetation condition, photos were taken in the infrared (NIR, 750 - 2500 nm) and infrared (Red Edge, 690-720 nm) range. The DJI Matrice 600 platform was used for the raid. The photos were taken from the ceiling of 150 m with the MicaSense Red Edge M camera with a focal length of 6 mm.",
+                "icon": "",
+                "software": [
+                    "None"
+                ],
+                "content": {
+                    "type": [
+                        "images"
+                    ],
+                    "format": [
+                        "RAW"
+                    ],
+                    "quantity": [
+                        "None"
+                    ],
+                    "size": "9",
+                    "annotation": [
+                        "None"
+                    ]
+                }
+            },
+            "uav": {
+                "parameters": {
+                    "model": "DJI Matrice 600",
+                    "link": "None",
+                    "type": "None"
+                },
+                "flight": {
+                    "duration": "None",
+                    "height": "150",
+                    "speed": "None"
+                }
+            },
+            "sensing": {
+                "type": "Multispectral",
+                "name": "MicaSense RedEdge-M",
+                "link": "",
+                "resolution": "None",
+                "sensor_angle": "None",
+                "gnss": "None",
+                "image": {
+                    "fov": "None",
+                    "overlap_vertical": "None",
+                    "overlap_horizontal": "None",
+                    "gsd": "None",
+                    "bands": [
+                        "NIR",
+                        "Red Edge"
+                    ],
+                    "reflectance_calc": "No, Panel image available",
+                    "calibration": "None"
+                }
+            },
+            "environmental": {
+                "weather": "None",
+                "season": "None",
+                "wind_speed": "None",
+                "wind_direction": "None"
+            },
+            "agricultural": {
+                "species": "None"
+            },
+            "forestry": {
+                "type": "None",
+                "species": [
+                    "None"
+                ]
+            }
+        }        
+    ]
+}
