@@ -157,6 +157,30 @@
 
 <br />
 
+## Online search
+
+| Dataset | Author | Date | Description |
+| :---: | :---: | :---: | --- |
+| [UAV multispectral imagery dataset over a vineyard affected by Botrytis](https://zenodo.org/records/7383601) | Sergio Vélez, Mar Ariza-Sentís, João Valente | 2021-09-21 | Dataset contains 16,504 multispectral images from a 1.06 ha vineyard affected by Botrytis cinerea. Photos were taken during four UAV flights at 30 m height with varying camera angles (0°, 30°, 45°) using a MicaSense RedEdge 3 camera. |
+| [UFRGS_UAV](https://zenodo.org/records/4076075) | Ricardo S. Westhauser | 2019-02-05 | Dataset contains five sets of multispectral images taken by a UAV equipped with a Parrot Sequoia camera in Porto Alegre, Brazil. Also includes satellite images, README file, and other documentation. |
+| [Gummern - Mining Waste Deposits Multispectral UAV Imagery](https://zenodo.org/records/13622459) | Enoc Sanz Albeno | 2023-06-09 | Mining waste deposits multispectral UAV imagery captured with DJI Mavic 3M at 70m height with a GSD of 0.2m. |
+| [Hullerbusch beech forest, Germany](https://zenodo.org/records/7057321) | Robert Jackisch | 2022-08-09 | Multispectral orthomosaics from UAV survey over Hullerbusch beech forest in Germany. Used DJI M300 with RTK antenna and MicaSense Altum-PT camera at 70m height with 3m GSD. Data processed in Agisoft Metashape 1.7. |
+| [Cherry Tree Disease Detection Dataset](https://zenodo.org/records/7144071) | Christos Chaschatzis et al. | 2022-07-01 | Multimodal dataset for monitoring cherry trees in Western Macedonia, including UAV images, ground RGB, and multispectral photos captured with Parrot Sequoia. Includes annotations for Armillaria disease detection. |
+| [FlexiGroBots - Blueberry orchard UAV dataset](https://zenodo.org/records/5712792) | Ivošević Bojana et al. | 2021-07-02 | Dataset of UAV multispectral images (Blue, Green, Red, Red Edge, NIR, RGB) captured with MicaSense RedEdge-M over a blueberry orchard in Serbia. Includes raw data, registered images, illumination-corrected images, and orthomosaics. |
+| [mDRONES4rivers - Nonnenwerth, Rhine River](https://zenodo.org/records/5828865) | Gilles Rock et al. | 2019-06-06 | High-resolution multispectral data acquired with MicaSense RedEdge-M on UAV for mapping vegetation and hydromorphology along German waterways. Features orthomosaics with 25m GSD and reflectance calculation. |
+| [mDRONES4rivers - Reitwein, River Oder](https://zenodo.org/records/5828899) | Gilles Rock et al. | 2019-06-06 | High-resolution multispectral data acquired with MicaSense RedEdge-M on UAV for mapping vegetation and hydromorphology along German waterways. Features orthomosaics with 25m GSD and reflectance calculation. |
+| [Multispectral imaging dataset of potato plants](https://zenodo.org/records/10934163) | Janez Lapajne et al. | 2022-07-20 | Multispectral orthomosaics of potato field crops in Central Slovenia captured with SKYHERO SPYDER X4-850 UAV using MicaSense RedEdge-MX camera. |
+| [UAV data over a subtropical forest area](https://zenodo.org/records/4559718) | Fabio Marcelo Breunig et al. | 2020-10-22 | Raw multispectral images from Parrot Sequoia camera over a subtropical forest area in Rio Grande do Sul, Brazil with 6GB of data. |
+| [UAV multispectral images for paddy field nitrogen requirements](https://www.sciencedirect.com/science/article/pii/S2352340924004487) | C.L.I.S. Fonseka et al. | 2023-08-14 | 336 multispectral images from DJI Mavic 3M at 30m height covering a 0.06 ha rice field in Sri Lanka across three phenological cycles, with 0.1m GSD. Includes ground truth SPAD readings. |
+| [High resolution image dataset over tropical dry forest](https://www.sciencedirect.com/science/article/pii/S2352340923009307) | Masuly Vega-Puga et al. | 2022-07-01 | 1,116 multispectral images collected with DJI Phantom 4 at 80m height over a secondary tropical dry forest in Mexico during dry and rain seasons, with 70% overlap and 4.2m GSD. |
+| [Multispectral imagery of cocoa agroforestry in Côte d'Ivoire](https://www.sciencedirect.com/science/article/pii/S2352340924006310) | Sabine-Karen Lammoglia et al. | 2022-05-01 | 7,638 multispectral images covering 10 different cocoa agroforestry systems (30 ha total) in Côte d'Ivoire captured with DJI Phantom 4 at 80m height with 70-80% overlap and 4.2-4.6cm GSD. |
+| [De Liereman nature reserve, Belgium](https://zenodo.org/records/3063335) | Jeroen Vanden Borre et al. | 2017-07-17 | Orthomosaics and DSMs/DTM from Parrot Sequoia multispectral UAV flights over a diverse landscape of heathlands, grasslands, forests and mires in Belgium. |
+| [UAS-SfM data from forests in California](https://zenodo.org/records/12809155) | Sean Reilly et al. | 2019-09-01 | Multispectral orthomosaics and point clouds from MicaSense RedEdge-MX over forest areas in California for canopy fuel parameter modeling. |
+| [Multispectral imagery of macroalgae in Illas Cíes](https://zenodo.org/records/13880699) | Andrea Martinez-Movilla et al. | 2019-09-02 | Dataset of 20 multispectral orthoimages (5 bands) captured with MicaSense Altum at 35m height with 1.5m GSD over intertidal coastal environment in Spain. Includes photoquadrat images and manually segmented shapefiles classifying into 9 categories. |
+| [Spruce tree health estimation data](https://zenodo.org/records/13925862) | Samuli Junttila et al. | 2019-09-08 | Multispectral and RGB orthomosaics and photogrammetric point clouds from MicaSense Altum and RedEdge over four study areas in Helsinki where bark beetle-related decline of Norway spruce has been observed. |
+| [Contaminated site evaluation in Olkusz, Poland](https://zenodo.org/records/7358770) | Marta Kondracka | 2022-06-09 | Multispectral images (NIR, Red Edge) captured with MicaSense RedEdge-M mounted on DJI Matrice 600 at 150m height for analyzing vegetation condition in post-remediation site evaluation. |
+
+<br />
 
 ## ICAERUS Zenodo Template
 
