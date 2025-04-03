@@ -83,6 +83,18 @@
 | [Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV](https://zenodo.org/records/8333789) | ART21 | 2023-09-11 | Hyperspectral imaging acquired with UAV on different dates of a pine tree forest. |
 | [Multiple DJI drone flights with thermal camera over Lithuanian forests in winter for wild boar detection](https://zenodo.org/records/12743334) | ART21 | 2024-07-15 | The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection. |
 | [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #1](https://zenodo.org/records/13846686) | ART21 | 2024-09-27 | The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #2](https://zenodo.org/records/13846724) | ART21 | 2024-09-27 | The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #3](https://zenodo.org/records/13846747) | ART21 | 2024-09-27 | The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #4](https://zenodo.org/records/14535368) | ART21 | 2024-12-20 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #5](https://zenodo.org/records/14535422) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #6](https://zenodo.org/records/14535456) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #7](https://zenodo.org/records/15062953) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #8](https://zenodo.org/records/15063013) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #9](https://zenodo.org/records/15063049) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #10](https://zenodo.org/records/15063121) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #11](https://zenodo.org/records/15063160) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #12](https://zenodo.org/records/15063168) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+
 
 <br />
 
@@ -93,6 +105,7 @@
 | [ICAERUS - UC5 - Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)](https://zenodo.org/records/12772799) | GEOSENSE | 2024-07-18 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
 | [ICAERUS - UC5 - Photogrammetry Orthomosaic and Digital Surface Model 2 (Strumica, North Macedonia)](https://zenodo.org/records/12909590) | GEOSENSE, AGFUTURA | 2024-07-26 | A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM). |
 | [ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas](https://zenodo.org/records/14382445) | GEOSENSE | 2024-12-11 | Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform. |
+
 
 <br />
 
