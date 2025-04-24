@@ -41,7 +41,120 @@
                 "date":"2024-10-17",
                 "link":"https://zenodo.org/records/13944498",
                 "description":"This dataset contains vineyard leaf images organized by date, side and location for analyzing color, texture, and mildew disease."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-08-30",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-05-08",
+                "link":"https://zenodo.org/records/15173656",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 30th, 2024, in Canyelles, Catalonia, Spain. The UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-08-13",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-05-08",
+                "link":"https://zenodo.org/records/15173656",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 30th, 2024, in Canyelles, Catalonia, Spain. The UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-08-31",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-03-24",
+                "link":"https://zenodo.org/records/15075341",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 31th, 2023, in Canyelles, Catalonia, Spain. The UAV was manually flown at an altitude of 12 meters, ensuring sufficient frontal and side overlap between images."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-07-28",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-03-24",
+                "link":"https://zenodo.org/records/15075338",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on July 28th, 2023, in Canyelles, Catalonia, Spain. The UAV was manually flown at an altitude of 12 meters, ensuring sufficient frontal and side overlap between images."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-06-09",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-03-21",
+                "link":"https://zenodo.org/records/15064455",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on June 9th, 2023, in Canyelles, Catalonia, Spain. The UAV was manually flown at an altitude of 12 meters, ensuring sufficient frontal and side overlap between images."
+            },
+            {       
+                "name":"VINEYARD PLANTS LABELLED FOR DETECTION (HEALTHY, MILDEW, LOW-IRON)",
+                "author":" Esther Vera, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-03-26",
+                "link":"https://zenodo.org/records/15090766",
+                "description":"This dataset consists of 508 images labeled for detecting plant health in vineyards. Each image is annotated with bounding boxes and has a resolution of 640 × 640 pixels. The dataset is formatted for YOLOv12 and was manually labeled using Roboflow. It is divided into 356 images for training, 102 images for validation, and 50 images for testing, ensuring a balanced distribution for model development and evaluation."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-06-18",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-03-19",
+                "link":"https://zenodo.org/records/15046758",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on June 18th, 2024, in Canyelles, Catalonia, Spain. The UAV was automatically flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images. "
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-07-17",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-28",
+                "link":"https://zenodo.org/records/15149667",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on July 17th, 2024, in Canyelles, Catalonia, Spain. The UAV was automatically flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images. "
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-07-03",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-28",
+                "link":"https://zenodo.org/records/15147343",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on July 3rd, 2024, in Canyelles, Catalonia, Spain. The UAV was automatically flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images. "
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-05-30",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-28",
+                "link":"https://zenodo.org/records/15124374",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on May 30th, 2024, in Canyelles, Catalonia, Spain. The UAV was automatically flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images. "
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-05-26",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-04",
+                "link":"https://zenodo.org/records/15130400",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on May 26th, 2023, in Canyelles, Catalonia, Spain. The UAV was automatically flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images. "
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-05-18",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-04",
+                "link":"https://zenodo.org/records/15120688",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on May 18th, 2023, in Canyelles, Catalonia, Spain. The UAV was automatically flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images. "
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-05-23",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-04",
+                "link":"https://zenodo.org/records/15120063",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on May 23rd, 2024, in Canyelles, Catalonia, Spain. The UAV was automatically flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images. "
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2023-04-28",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-04",
+                "link":"https://zenodo.org/records/15124471",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 30th, 2024, in Canyelles, Catalonia, Spain. The UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-08-13",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-08",
+                "link":"https://zenodo.org/records/15172492",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 13th, 2024, in Canyelles, Catalonia, Spain. The UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images."
+            },
+            {       
+                "name":"UAV Canyelles Vineyard Dataset 2024-07-31",
+                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date":"2025-04-08",
+                "link":"https://zenodo.org/records/15166695",
+                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on July 31st, 2024, in Canyelles, Catalonia, Spain. The UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images."
             }
+
           ],
     
     "UC2" :[
@@ -103,7 +216,14 @@
                 "date":"2025-02-26",
                 "link":"https://zenodo.org/records/14929694",
                 "description":"This dataset includes annotated drone videos and images of sheep and goats with YOLO-labeled bounding boxes for computer vision detection."
-            }  
+            }, 
+            {       
+                "name":"Drone videos and images of sheep in various conditions (for computer vision purpose)",
+                "author":"Adrien Lebreton, Coline Morin, Estelle Nicolas, Louise Helary",
+                "date":"2025-03-26",
+                "link":"https://zenodo.org/records/14967219",
+                "description":"Counting sheep and goats is a significant challenge for farmers managing flocks with hundreds of animals. Our objective is to develop a computer vision-based methodology to count sheep and goats as they pass through a corridor or gate. This approach utilizes low-altitude aerial videos (<15 m) recorded by drones."
+            }    
            ],
 
     "UC4": [
@@ -127,7 +247,71 @@
                 "date":"2024-09-27",
                 "link":"https://zenodo.org/records/13846686",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #12",
+                "author":"ART21",
+                "date":"2024-09-27",
+                "link":"https://zenodo.org/records/15063168",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #11",
+                "author":"ART21",
+                "date":"2025-03-21",
+                "link":"https://zenodo.org/records/15063160",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #10",
+                "author":"ART21",
+                "date":"2025-03-21",
+                "link":"https://zenodo.org/records/15063121",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #9",
+                "author":"ART21",
+                "date":"2025-03-21",
+                "link":"https://zenodo.org/records/15063049",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #8",
+                "author":"ART21",
+                "date":"2025-03-21",
+                "link":"https://zenodo.org/records/15063013",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #7",
+                "author":"ART21",
+                "date":"2025-03-21",
+                "link":"https://zenodo.org/records/15062953",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #5",
+                "author":"ART21",
+                "date":"2024-12-20",
+                "link":"https://zenodo.org/records/14535422",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #6",
+                "author":"ART21",
+                "date":"2024-12-20",
+                "link":"https://zenodo.org/records/14535456",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+            },
+            {       
+                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #4",
+                "author":"ART21",
+                "date":"2024-12-20",
+                "link":"https://zenodo.org/records/14535368",
+                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
             }
+
            ],
 
     "UC5" :[
@@ -466,5 +650,346 @@
 
 
 
-        ]
+        ],
+    "WU":[
+            
+            {
+                "name": "RGB-to-NDVI-conversion dataset",
+                "author": "Jurrian Doornbos",
+                "date": "2025-03-19", 
+                "link": "https://zenodo.org/records/15051398",
+                "description": "Dataset for the article: Evaluating Generalization of Methods for Artificially Generating NDVI from UAV RGB Imagery in Vineyards"
+            }
+        ],
+    "Online": [
+        {
+            "name": "UFRGS_UAV",
+            "author": "Ricardo S. Westhauser",
+            "date": "2019-02-05",
+            "link": "https://zenodo.org/records/4076075",
+            "description": "This dataset contains five sets (each set from a different spectra) of images taken by an UAV equipped with a downward looking multispectral camera (Parrot Sequoia), in one flight. The region in which the UAV flyed was Porto Alegre (more specifically, Federal University of Rio Grande do Sul, Campus do Vale), a city from Rio Grande do Sul, Brazil. In addition to the sets of images, there are also a folder with twelve satellite images from Porto Alegre, a README file, a .kml and a .DAT file.",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "Porto Alegre, Rio Grande do Sul, Brazil (Federal University of Rio Grande do Sul, Campus do Vale)",
+                "coordinates (wgs84)": "",
+                "sensor type": ["Multispectral"],
+                "sensor": ["Parrot Sequoia"],
+                "flight height (m)": "",
+                "contents": "UAV multispectral images, satellite images, .kml and .DAT files"
+            }
+        },
+        {
+            "name": "Gummern - Mining Waste Deposits Multispectral UAV Imagery",
+            "author": "Enoc Sanz Albeno",
+            "date": "2023-06-09", 
+            "link": "https://zenodo.org/records/13622459",
+            "description": "Mining Waste Deposits Multispectral UAV Imagery from DJI Mavic 3M",
+            "parameters": {
+                "acquisition_date": [2023],
+                "location": "Gummern",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["DJI Mavic 3M"],
+                "flight height (m)": [70],
+                "contents": "Multispectral UAV imagery with 0.2 GSD"
+            }
+        },
+        {
+            "name": "Hullerbusch beech forest, Germany, captured by UAV-based multispectral imaging",
+            "author": "Robert Jackisch",
+            "date": "2022-08-09", 
+            "link": "https://zenodo.org/records/7057321",
+            "description": "This data set contains data products of a multispectral UAV survey over the Hullerbusch beach forest, located in southern Mecklenburg–Western Pomerania, Germany. As survey drone, the DJI M300 with RTK antenna was employed and the multispectral image data was captured with a Micasense Altum multispectral camera. Data were processed in Agisoft Metashape 1.7, with the orthomosaic converted to reflectance.",
+            "parameters": {
+                "acquisition_date": [2022],
+                "location": "Hullerbusch, Mecklenburg, Germany",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense Altum-PT"],
+                "flight height (m)": [70],
+                "contents": "Multispectral orthomosaics of beech forest with 3 GSD, processed with Agisoft Metashape 1.7"
+            }
+        },
+        {
+            "name": "Cherry Tree Disease Detection Dataset",
+            "author": "Christos Chaschatzis, Ilias Siniosoglou, Anna Triantafyllou, Chrysoula Karaiskou, Athanasios Liatifis, Panagiotis Radoglou-Grammatikis, Dimitrios Pliatsios, Vasiliki Kelli, Thomas Lagkas, Vasileios Argyriou, Panagiotis Sarigiannidis",
+            "date": "2022-07-01", 
+            "link": "https://zenodo.org/records/7144071",
+            "description": "This cherry tree disease detection dataset is a multimodal, multi-angle dataset which was constructed for monitoring the growth of cherry trees, including stress analysis and prediction. An orchard of cherry trees is considered in the area of Western Macedonia, where 577 cherry trees were recorded in a full crop season starting from Jul. 2021 to Jul. 2022. The dataset includes a) aerial / Unmanned Aerial Vehicle (UAV) images, b) ground RGB images/photos, and c) ground multispectral images/photos. Two agronomist experts annotated the dataset by identifying a stress, which in this case is a common disease in cherry trees known as Armillaria [1][2].",
+            "parameters": {
+                "acquisition_date": [2021, 2022],
+                "location": "Western Macedonia, Macedonia",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral", "RGB"],
+                "sensor": ["Parrot Sequioa"],
+                "flight height (m)": "None",
+                "contents": "UAV images, ground RGB images, ground multispectral images with disease annotations (Armillaria) of 577 cherry trees"
+            }
+        },
+        {
+            "name": "FlexiGroBots - Blueberry orchard UAV dataset",
+            "author": "Ivošević Bojana, Grbović Željana, Stefanović Dimitrije, Filipović Vladan, Antić Aleksandar, Pajević Nina, Marko Oskar, Panić Marko",
+            "date": "2021-07-02", 
+            "link": "https://zenodo.org/records/5712792",
+            "description": "Dataset consists of UAV drone images: 6 channels: reflectance blue, reflectance green, reflectance red, reflectance red edge, reflectance NIR, RGB. In order to align different channels, registration was applied and because of uneven illumination during the acquisition process, illumination correction was performed. Thus, the results of each preprocessing step are located in separate folders, i.e. raw data are in 100FPLAN and 101FPLAN, results of registration are in 100FPLAN_registrated and 101FPLAN_registrated, while images with corrected illumination are in 100FPLAN_registrated_corrected and 101FPLAN_registrated_corrected. Orthomosaics created before and after preprocessing are located in UAV orthomosaics folder.",
+            "parameters": {
+                "acquisition_date": [2021],
+                "location": "Babe, Serbia",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-M"],
+                "flight height (m)": "None",
+                "contents": "Multispectral UAV imagery (Blue, Green, Red, Red Edge, NIR, RGB) of blueberry orchard with raw, registered, and illumination-corrected orthomosaics"
+            }
+        },
+        {
+            "name": "mDRONES4rivers-project: UAV-imagery of the project area Nonnenwerth at the Rhine River, Germany",
+            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+            "date": "2019-06-06", 
+            "link": "https://zenodo.org/records/5828865",
+            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "Nonnenwerth, Germany",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-M"],
+                "flight height (m)": "None",
+                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
+            }
+        },
+        {
+            "name": "mDRONES4rivers-project: UAV-imagery of the project area Reitwein at the River Oder, Germany",
+            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+            "date": "2019-06-06", 
+            "link": "https://zenodo.org/records/5828899",
+            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "Reitwein, Germany",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-M"],
+                "flight height (m)": "None",
+                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the River Oder"
+            }
+        },
+        {
+            "name": "mDRONES4rivers-project: UAV-imagery of the project area Kuehkopf Knoblochsaue at the Rhine River, Germany",
+            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+            "date": "2019-06-06", 
+            "link": "https://zenodo.org/records/5828282",
+            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "Kuekopf Knoblochsaue, Germany",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-M"],
+                "flight height (m)": "None",
+                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
+            }
+        },
+        {
+        "name": "mDRONES4rivers-project: UAV-imagery of the project area Laubenheim at the Rhine River, Germany",
+        "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+        "date": "2019-02-18", 
+        "link": "https://zenodo.org/records/5828543",
+        "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+        "parameters": {
+            "acquisition_date": [2019],
+            "location": "Laubenheim, Germany",  
+            "coordinates (wgs84)": "None",
+            "sensor type": ["Multispectral"],
+            "sensor": ["MicaSense RedEdge-M"],
+            "flight height (m)": "None",
+            "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
+            }
+        },
+        {
+            "name": "mDRONES4rivers-project: UAV-imagery of the project area Emmericher Ward at the Rhine River, German",
+            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+            "date": "2019-07-23", 
+            "link": "https://zenodo.org/records/5827756",
+            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in German",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "Emmericher Ward, Germany",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-M"],
+                "flight height (m)": "None",
+                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
+            }
+        },
+        {
+            "name": "mDRONES4rivers-project: UAV-imagery of the project area Niederwerth at the Rhine River, Germany",
+            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+            "date": "2019-03-08", 
+            "link": "https://zenodo.org/records/5822652",
+            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "Niederwerth, Germany",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-M"],
+                "flight height (m)": "None",
+                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
+            }
+        },
+        {
+            "name": "Multispectral imaging dataset of potato plants on the field, acquired using UAV",
+            "author": "Janez Lapajne, Andrej Vončina, Ana Vojnović",
+            "date": "2022-07-20", 
+            "link": "https://zenodo.org/records/10934163",
+            "description": "Multispectral images of potato field crops were captured using a SKYHERO SPYDER X4-850 GEO Edition Unmanned Aerial Vehicle (UAV) with a Micasense Rededge MX 5-band multispectral camera.",
+            "parameters": {
+                "acquisition_date": [2022],
+                "location": "Central Slovenia, Slovenia",  
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-MX"],
+                "flight height (m)": "None",
+                "contents": "Multispectral orthomosaics of potato field crops"
+            }
+        },
+        {
+            "name": "Unmanned Aerial Vehicle (UAV) data acquired over a subtropical forest area of the UFSM campus Frederico Westphalen, on October 22, 2020, Rio Grande do Sul, Brazil",
+            "author": "Fabio Marcelo Breunig, Eduardo Rieder, Renato Souza Santos",
+            "date": "2020-10-22",
+            "link": "https://zenodo.org/records/4559718",
+            "description": "The data were acquired from an aerial survey conducted with an Unmanned Aerial Vehicle (UAV, also Drone) covering a forest area of the Federal University of Santa Maria – UFSM in the municipality of Frederico Westphalen, in the Rio Grande do Sul, Brazil. The climate of the region is subtropical (Cfa in the Köppen-Geiger classification) with an average annual temperature of 18 °C and annual precipitation of 1919 mm. The rainfall is well distributed throughout the year.",
+            "parameters": {
+                "acquisition_date": [2020],
+                "location": "Frederico Westphalen, Rio Grande do Sul, Brazil",
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["Parrot Sequioa"],
+                "flight height (m)": "None",
+                "contents": "images in RAW format, 6 size"
+            }
+        },
+        {
+            "name": "A dataset of unmanned aerial vehicle multispectral images acquired over a field to identify nitrogen requirements",
+            "author": "C.L.I.S. Fonseka, Thilina Halloluwa, K.P. Hewagamage, Upul Rathnayake, R.M.U. S Bandara",
+            "date": "2023-08-14",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2352340924004487",
+            "description": "The technique of detecting and tracking an area's physical properties from a distance by measuring its reflected and emitted radiation is known as remote sensing. It gathered data accurately in near real-time. For this purpose, multispectral cameras mounted on UAVs that capture images with different bands can be used to generate vegetation indexes (NDVI, NDRE), which are useful in precision agriculture. In this study UAV image dataset contains 336 multispectral images from a 0.06 ha paddy field with three different phonological cycles of the crop (vegetative, reproductive, and ripening) in the north-western province of Sri Lanka. The selected sample rice variety is BG300. The images were taken over five days, starting from August 14 to October 5, 2023.",
+            "parameters": {
+                "acquisition_date": [2023],
+                "location": "Batalagoda, Ibbagamuwa, Kurunegala, Sri Lanka",
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["DJI Mavic 3M"],
+                "flight height (m)": [30],
+                "contents": "336 multispectral images in RAW format, 4 size"
+            }
+        },
+        {
+            "name": "High resolution image dataset by RGB and multispectral cameras on an unmanned aerial vehicle over a secondary tropical dry forest",
+            "author": "Masuly Vega-Puga, Jaime Garatuza-Payán, Miguel A. Rivera-Diaz, Onésimo Galaz, Juan C. Alvarez-Yépiz, Enrico A. Yepéz",
+            "date": "2022-07-01",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2352340923009307",
+            "description": "Unmanned Aerial Vehicles (UAV) are advantageous to assess vegetation and terrain changes at a high spatial resolution, advancing our understanding of shifts in ecosystem states and processes. The extension of land that we sought to observe belongs to the footprint of an Eddy Covariance System (around 7.5 ha), installed in a secondary ecological succession of the tropical dry forest within the Sierra de Álamos-Rio Cuchujaqui natural protected area, Sonora, Mexico. Aerial images were obtained with a system of multispectral and RGB cameras mounted on a UAV, which executed automated missions in two different seasons: 1) dry season (June 2023) and 2) first rain season (July 2023), totalling 1116 images.",
+            "parameters": {
+                "acquisition_date": [2022, 2023],
+                "location": "El Area Natural Protegida Sierra de Alamos-Rio Cuchujaqui, Sonora, Mexico",
+                "coordinates (wgs84)": "27.00598005 N, 108.77913821 W",
+                "sensor type": ["Multispectral", "RGB"],
+                "sensor": ["DJI Phantom 4 Multispectral"],
+                "flight height (m)": [80],
+                "contents": "1116 images in RAW format, 2.5 size"
+            }
+        },
+        {
+            "name": "Orthophotos and DSMs/DTM derived from RPAS flights over the nature reserve Landschap De Liereman in Flanders, Belgium",
+            "author": "Jeroen Vanden Borre, Pauly Klaas, Stijn Van Hoey, Jeroen De Reu, Peter Desmet",
+            "date": "2017-07-17",
+            "link": "https://zenodo.org/records/3063335",
+            "description": "Landschap De Liereman is a nature reserve situated in Oud-Turnhout, in the province of Antwerp, Flanders, Belgium. The area is managed by the nature conservation NGO Natuurpunt and consists of a diverse landscape of wet and dry heathlands, Nardus grasslands on siliceous soils, forests and transition mires, as well as some remaining arable fields and high-intensity agricultural grasslands.",
+            "parameters": {
+                "acquisition_date": [2017],
+                "location": "De Liereman, Belgium",
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral", "RGB"],
+                "sensor": ["Parrot Sequioa"],
+                "flight height (m)": "None",
+                "contents": "orthomosaics, 21 size"
+            }
+        },
+        {
+            "name": "UAS-SfM data from Unoccupied aerial system (UAS) Structure-from-Motion canopy fuel parameters: Multisite area-based modelling across forests in California, USA",
+            "author": "Sean Reilly, Matthew L. Clark, Lika Loechler, Jack Spillane, Melina Kozanitas, Paris Krause, David Ackerly, Lisa Patrick Bentley, Imma Oliveras Menor",
+            "date": "2019-09-01",
+            "link": "https://zenodo.org/records/12809155",
+            "description": "Unoccupied aerial system (UAS) Structure-from-Motion canopy fuel parameters: Multisite area-based modelling across forests in California, USA",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "California, United Stated of America",
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-MX"],
+                "flight height (m)": "None",
+                "contents": "orthomosaics, 12 size"
+            }
+        },
+        {
+            "name": "Multispectral imagery of macroalgae in Illas Cíes (NW Spain)",
+            "author": "Andrea Martinez-Movilla, Marta Román-Geada, Juan Luis Rodríguez Somoza, Celia Olabarria, Joaquín Martínez-Sánchez",
+            "date": "2019-09-02",
+            "link": "https://zenodo.org/records/13880699",
+            "description": "This dataset focuses on an intertidal coastal environment in Illas Cíes, NW Spain. It includes multispectral orthoimages (5 bands), photoquadrat images, and manually segmented shapefiles. The dataset spans 4 months and contains 20 orthoimages (5 per month, one for each band: Blue, Green, Red, Red edge, and NIR). There are also 164 photoquadrat images and 8 shapefiles with a total of 949 polygons. The dataset classifies the intertidal area into 9 categories: Codium spp., Ulva spp., C. peregrina, B. bifurcata, E. selaginoides, S. polyschides, S. muticum, Inert and water.",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "Illas Cíes, Spain",
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense Altum"],
+                "flight height (m)": [35],
+                "contents": "20 orthomosaics with segmentation annotations, 10 size, Blue/Green/Red/Red Edge/NIR bands"
+            }
+        },
+        {
+            "name": "Data for estimating spruce tree health using drone-based RGB and multispectral imagery",
+            "author": "Samuli Junttila, Roope Näsi, Niko Koivumäki, Mohammad Imangholiloo, Ninni Saarinen, Juha Raisio, Markus Holopainen, Hannu Hyyppä, Juha Hyyppä, Päivi Lyytikäinen-Saarenmaa, Mikko Vastaranta, Eija Honkavaara",
+            "date": "2019-09-08",
+            "link": "https://zenodo.org/records/13925862",
+            "description": "The dataset contains multispectral and RGB orthomosaics (.tif), and photogrammetric point clouds (.laz) of four study areas (about 25 ha each), where bark beetle-related decline of Norway spruce has been observed in Helsinki, Finland. The filenames refer to Area 1 (Männikkötie), Area 2 (Maunulanmaja), Area 3 (Hakuninmaa), and Area 4 (Paloheinä), described in detail in Junttila et al. 2022.",
+            "parameters": {
+                "acquisition_date": [2019],
+                "location": "Helsinki, Finland",
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral", "RGB"],
+                "sensor": ["MicaSense Altum", "MicaSense RedEdge"],
+                "flight height (m)": "None",
+                "contents": "orthomosaics (.tif), point clouds (.laz), 8 size"
+            }
+        },
+        {
+            "name": "Post-remediation evaluation of contaminated site using geophysical methods: Multispectral UAV data Olkusz (Poland) 20220629",
+            "author": "Marta Kondracka",
+            "date": "2022-06-09",
+            "link": "https://zenodo.org/records/7358770",
+            "description": "In order to analyze the vegetation condition, photos were taken in the infrared (NIR, 750 - 2500 nm) and infrared (Red Edge, 690-720 nm) range. The DJI Matrice 600 platform was used for the raid. The photos were taken from the ceiling of 150 m with the MicaSense Red Edge M camera with a focal length of 6 mm.",
+            "parameters": {
+                "acquisition_date": [2022],
+                "location": "Olkusz, Poland",
+                "coordinates (wgs84)": "None",
+                "sensor type": ["Multispectral"],
+                "sensor": ["MicaSense RedEdge-M"],
+                "flight height (m)": [150],
+                "contents": "images in RAW format, 9 size, NIR/Red Edge bands"
+            }
+        }
+
+
+
+
+
+
+
+
+
+    ]
 }
