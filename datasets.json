@@ -402,6 +402,29 @@
                         "description":"This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios."
                     }
                   ],
+    "OCT - DAEPHC": [
+                {       
+                    "name":"Datasets from hop field 3 (orthomosaic of RGB, multispectral band and thermal sensor) from July 5 2024",
+                    "author":"Matej Knapic",
+                    "date":"2025-04-25",
+                    "link":"https://zenodo.org/records/15280042",
+                    "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                },
+                 {       
+                    "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                    "author":"Matej Knapic",
+                    "date":"2025-04-25",
+                    "link":"https://zenodo.org/records/14761567",
+                    "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                },
+                 {       
+                    "name":"Datasets from hop field 1 (orthomosaic of RGB, multispectral band and thermal sensor) from June 28  2024",
+                    "author":"Matej Knapic",
+                    "date":"2025-04-25",
+                    "link":"https://zenodo.org/records/14731003",
+                    "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                }
+              ],
     "OCT - LowAltitude": [
                     {       
                         "name":"Multispectral imaging of a UK Vineyard June 24, part 1",
