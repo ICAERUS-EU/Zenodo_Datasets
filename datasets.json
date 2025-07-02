@@ -2,10 +2,17 @@
     "UC1": [
             {       
                 "name":"UAV Canyelles Vineyard Dataset 2023-04-21",
-                "author":"Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
+                "author":"Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2023-04-21",
-                "link":"https://zenodo.org/records/8123870",
+                "link":"https://zenodo.org/records/15114347",
                 "description":"Crop monitoring dataset that contains RGB images, pointcloud data, an orthomosaic image and the DEM."
+                "parameters": {
+                            "location": "Canyelles, Barcelona, Spain",
+                            "coordinates (wgs84)": "41.288687, 1.713078",
+                            "sensor type": ["RGB"],
+                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "labels": "No"
+                }  
             },
             {       
                 "name":"UAV Canyelles Vineyard Dataset 2023-04-28",
