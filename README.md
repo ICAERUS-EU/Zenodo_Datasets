@@ -50,6 +50,10 @@
 | [UAV Canyelles Vineyard Dataset 2023-07-28](https://zenodo.org/records/15075338) | Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2025-03-24 | Crop monitoring dataset that includes RGB images, shape files, pointclouds and orthomosaics in multiple bands (RGB, G, RE) and DEMs, captured with a DJI Mavic 3M UAV and processed with Metashape Agisoft. |
 | [UAV Canyelles Vineyard Dataset 2023-08-31](https://zenodo.org/records/15075341) | Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia | 2025-03-24 | Crop monitoring dataset that includes RGB images, shape files, pointclouds and orthomosaics in multiple bands (RGB, NIR) and DEMs, captured with a DJI Mavic 3M UAV and processed with Metashape Agisoft. |
 | [VINEYARD PLANTS LABELLED FOR DETECTION (HEALTHY, MILDEW, LOW-IRON)](https://zenodo.org/records/15090766) | Esther Vera, Aldo Sollazzo, Chirag Rangholia | 2025-03-26 | The dataset contains 508 labeled images of vineyard plant health, with three categories: Healthy, Mildew, and Low-Iron Deficiency, formatted for YOLOv12. |
+| [UAV Canyelles Vineyard Dataset 2023-08-13](https://zenodo.org/records/15173656) | Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia | 2025-05-08 | Crop monitoring dataset that includes RGB images, shape files, pointclouds and orthomosaics in multiple bands (RGB, NIR, G, RE, R, NDVI) and DEMs, captured with a DJI Mavic 3M UAV and processed with Metashape Agisoft. |
+| [UAV Canyelles Vineyard Dataset 2023-08-30](https://zenodo.org/records/15173656) | Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia | 2025-05-08 | Crop monitoring dataset that includes RGB images, shape files, pointclouds and orthomosaics in multiple bands (RGB, NIR, G, RE, R, NDVI) and DEMs, captured with a DJI Mavic 3M UAV and processed with Metashape Agisoft. |
+
+
 
 <br />
 
