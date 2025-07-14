@@ -5,7 +5,7 @@
                 "author":"Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2023-04-21",
                 "link":"https://zenodo.org/records/15114347",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, an orthomosaic image and the DEM.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -19,7 +19,7 @@
                 "author":"Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2023-04-28",
                 "link":"https://zenodo.org/records/15124471",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, an orthomosaic image and the DEM.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -33,7 +33,7 @@
                 "author":"Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés",
                 "date":"2023-05-05",
                 "link":"https://zenodo.org/records/15124564",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, an orthomosaic image and the DEM.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -47,7 +47,7 @@
                 "author":"Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés",
                 "date":"2023-06-09",
                 "link":"https://zenodo.org/records/15064455",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains RGB images, pointcloud data, an orthomosaic image and the DEM.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -75,7 +75,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2024-10-17",
                 "link":"https://zenodo.org/records/13944498",
-                "description":"This dataset contains vineyard leaf images organized by date, side and location for analyzing color, texture, and mildew disease.",
+                "description":"Crop monitoring dataset generated with DJI Classic 3 UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -89,7 +89,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-05-08",
                 "link":"https://zenodo.org/records/15173656",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 30th, 2024, in Canyelles, Catalonia, Spain. The UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -103,7 +103,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-05-08",
                 "link":"https://zenodo.org/records/15172492",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 30th, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -117,7 +117,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-03-24",
                 "link":"https://zenodo.org/records/15075341",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 31th, 2023, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 12 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -131,7 +131,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-03-24",
                 "link":"https://zenodo.org/records/15075338",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on July 28th, 2023, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 12 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -145,11 +145,11 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-03-21",
                 "link":"https://zenodo.org/records/15064455",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on June 9th, 2023, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 12 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
+                            "sensor type": ["RGB", "Multispectral"],
                             "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, G, RE)", 
                             "labels": "No"
                 }  
@@ -173,7 +173,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-03-19",
                 "link":"https://zenodo.org/records/15046758",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on June 18th, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -187,7 +187,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-28",
                 "link":"https://zenodo.org/records/15149667",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on July 17th, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -201,7 +201,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-28",
                 "link":"https://zenodo.org/records/15147343",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on July 3rd, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -215,12 +215,12 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-28",
                 "link":"https://zenodo.org/records/15124374",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on May 30th, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "sensor type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }  
             },
@@ -229,19 +229,26 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-04",
                 "link":"https://zenodo.org/records/15130400",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on May 26th, 2023, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images. "
+               "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files",
+                "parameters": {
+                            "location": "Canyelles, Barcelona, Spain",
+                            "coordinates (wgs84)": "41.288687, 1.713078",
+                            "sensor type": ["RGB"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM.", 
+                            "labels": "No"
+                }  
             },
             {       
                 "name":"UAV Canyelles Vineyard Dataset 2023-05-18",
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-04",
                 "link":"https://zenodo.org/records/15120688",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on May 18th, 2023, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
                             "sensor type": ["RGB"],
-                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM", 
                             "labels": "No"
                 }  
             },
@@ -250,26 +257,26 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-04",
                 "link":"https://zenodo.org/records/15120063",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on May 23rd, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "sensor type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
-                }  
+                }   
             },
             {       
                 "name":"UAV Canyelles Vineyard Dataset 2023-04-28",
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-04",
                 "link":"https://zenodo.org/records/15124471",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 30th, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Classic 3 UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
                             "sensor type": ["RGB"],
-                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM", 
                             "labels": "No"
                 }  
             },
@@ -278,28 +285,28 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-08",
                 "link":"https://zenodo.org/records/15172492",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on August 13th, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "sensor type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
-                }  
+                }   
             },
             {       
                 "name":"UAV Canyelles Vineyard Dataset 2024-07-31",
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-08",
                 "link":"https://zenodo.org/records/15166695",
-                "description":"This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files. Data collection took place on July 31st, 2024, in Canyelles, Catalonia, Spain. The DJI Mavic 3M UAV was flown at an altitude of 20 meters, ensuring sufficient frontal and side overlap between images.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "sensor type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
-                }  
+                }   
             }
 
           ],
