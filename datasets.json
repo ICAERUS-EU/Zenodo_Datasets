@@ -75,7 +75,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2024-10-17",
                 "link":"https://zenodo.org/records/13944498",
-                "description":"Crop monitoring dataset generated with DJI Classic 3 UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "description":"Crop monitoring dataset generated with DJI Mavic Classic 3 UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -271,7 +271,7 @@
                 "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
                 "date":"2025-04-04",
                 "link":"https://zenodo.org/records/15124471",
-                "description":"Crop monitoring dataset generated with DJI Classic 3 UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -319,10 +319,10 @@
                 "link":"https://zenodo.org/records/10276149",
                 "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
                 "parameters": {
-                            "location": "Canyelles, Barcelona, Spain",
-                            "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
                             "labels": "No"
                 }  
             }, 
@@ -333,16 +333,30 @@
                 "link":"https://zenodo.org/records/14280682",
                 "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
                 "parameters": {
-                            "location": "Canyelles, Barcelona, Spain",
-                            "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images captured with a DJI Mavic 3 Classic UAV; shapefile applied in Agisoft Metashape to crop vineyard area; pointclouds, orthomosaics and DEM generated.", 
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
                             "labels": "No"
                 }  
             }
           ],
 
     "UC3": [
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards",
+                "author":"Vasilis Psiroukis",
+                "date":"2023-12-06",
+                "link":"https://zenodo.org/records/10276149",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "parameters": {
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
+                            "labels": "No"
+                }  
+            }, 
             {       
                 "name":"Drone raw images of cattle in french grazing areas",
                 "author":"Adrien Lebreton",
@@ -350,6 +364,20 @@
                 "link":"https://zenodo.org/records/8234156",
                 "description":"The dataset encompasses around 900 raw .jpeg drone images of grazing areas where cattle graze collected between June and August 2023."
             },
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards",
+                "author":"Vasilis Psiroukis",
+                "date":"2023-12-06",
+                "link":"https://zenodo.org/records/10276149",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "parameters": {
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
+                            "labels": "No"
+                }  
+            }, 
             {       
                 "name":"Sheep videos taken from drone at low altitude",
                 "author":"Adrien Lebreton, Louise Helary",
@@ -357,6 +385,20 @@
                 "link":"https://zenodo.org/records/10400302",
                 "description":"The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
             },
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards",
+                "author":"Vasilis Psiroukis",
+                "date":"2023-12-06",
+                "link":"https://zenodo.org/records/10276149",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "parameters": {
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
+                            "labels": "No"
+                }  
+            }, 
             {
                 "name":"Drone images and their annotations of grazing cows",
                 "author":"Adrien Lebreton, Louise Helary",
@@ -364,12 +406,40 @@
                 "link":"https://zenodo.org/records/11048412",
                 "description":"It contains 1385 images and 4941 bounding boxes of cows taken with a DJI Pilot 2 drone. This dataset is a major contribution for public and research stakeholders to develop cow detection and counting models."
             },
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards",
+                "author":"Vasilis Psiroukis",
+                "date":"2023-12-06",
+                "link":"https://zenodo.org/records/10276149",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "parameters": {
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
+                            "labels": "No"
+                }  
+            }, 
             {       
                 "name":"Drone videos and their annotations of passing sheep (for counting purpose)",
                 "author":"Louise Helary, Kinsey Nnenna, Marta Kolodziejczyk, Jana Schewe, Léa Philip, Estelle Nicolas, Adrien Lebreton",
                 "date":"2024-06-18",
                 "link":"https://zenodo.org/records/12094356",
                 "description":"The dataset encompasses 4 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
+            }, 
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards",
+                "author":"Vasilis Psiroukis",
+                "date":"2023-12-06",
+                "link":"https://zenodo.org/records/10276149",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "parameters": {
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
+                            "labels": "No"
+                }  
             }, 
             {       
                 "name":"Aerial videos and images of goats (for computer vision purpose)",
@@ -378,6 +448,20 @@
                 "link":"https://zenodo.org/records/14591324",
                 "description":"The dataset contains drone-captured videos and images from two goat farms in France, featuring varied settings and resolutions."
             }, 
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards",
+                "author":"Vasilis Psiroukis",
+                "date":"2023-12-06",
+                "link":"https://zenodo.org/records/10276149",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "parameters": {
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
+                            "labels": "No"
+                }  
+            }, 
             {       
                 "name":"Drone images and their annotations of goats/small ruminants (for computer vision purpose)",
                 "author":"Adrien Lebreton, Léane Duval, Laurence Depuille, Estelle Nicolas, Louise Helary",
@@ -385,13 +469,41 @@
                 "link":"https://zenodo.org/records/14929694",
                 "description":"This dataset includes annotated drone videos and images of sheep and goats with YOLO-labeled bounding boxes for computer vision detection."
             }, 
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards",
+                "author":"Vasilis Psiroukis",
+                "date":"2023-12-06",
+                "link":"https://zenodo.org/records/10276149",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "parameters": {
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
+                            "labels": "No"
+                }  
+            }, 
             {       
                 "name":"Drone videos and images of sheep in various conditions (for computer vision purpose)",
                 "author":"Adrien Lebreton, Coline Morin, Estelle Nicolas, Louise Helary",
                 "date":"2025-03-26",
                 "link":"https://zenodo.org/records/14967219",
                 "description":"Counting sheep and goats is a significant challenge for farmers managing flocks with hundreds of animals. Our objective is to develop a computer vision-based methodology to count sheep and goats as they pass through a corridor or gate. This approach utilizes low-altitude aerial videos (<15 m) recorded by drones."
-            }    
+            } 
+            {   
+                "name":"UAV Spraying Parameters-Coverage in Vineyards",
+                "author":"Vasilis Psiroukis",
+                "date":"2023-12-06",
+                "link":"https://zenodo.org/records/10276149",
+                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "parameters": {
+                            "location": "Athens, Greece",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates" 
+                            "labels": "No"
+                }  
+            },    
            ],
 
     "UC4": [
