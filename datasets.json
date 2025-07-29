@@ -9,8 +9,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM.", 
+                            "sensor_type": ["RGB"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM.", 
                             "labels": "No"
                 }  
             },
@@ -23,8 +23,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM.", 
+                            "sensor_type": ["RGB"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM.", 
                             "labels": "No"
                 }  
             },
@@ -37,8 +37,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM.", 
+                            "sensor_type": ["RGB"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM.", 
                             "labels": "No"
                 }  
             },
@@ -51,8 +51,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM.", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM.", 
                             "labels": "No"
                 }  
             },
@@ -65,7 +65,7 @@
                 "parameters": {
                             "location": "Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "Features files with rows and plants positions for orthomosaic, health status, images for UC1 models and images generated.", 
                             "labels": "Yes"
                 }  
@@ -79,7 +79,7 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "Plant leaves images of summer 2024", 
                             "labels": "No"
                 }  
@@ -93,8 +93,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }  
             },
@@ -107,8 +107,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }  
             },
@@ -121,8 +121,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR)", 
                             "labels": "No"
                 }  
             },
@@ -135,8 +135,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, G, RE)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, G, RE)", 
                             "labels": "No"
                 }  
             },
@@ -149,8 +149,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, G, RE)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, G, RE)", 
                             "labels": "No"
                 }  
             },
@@ -163,7 +163,7 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "508 labeled images of vineyard plant health: Healthy, Mildew, and Low-Iron Deficiency, for YOLOv12.", 
                             "labels": "Yes"
                 }  
@@ -177,8 +177,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }  
             },
@@ -191,8 +191,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }  
             },
@@ -205,8 +205,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }  
             },
@@ -219,8 +219,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }  
             },
@@ -233,8 +233,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM.", 
+                            "sensor_type": ["RGB"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM.", 
                             "labels": "No"
                 }  
             },
@@ -247,8 +247,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM", 
+                            "sensor_type": ["RGB"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM", 
                             "labels": "No"
                 }  
             },
@@ -261,8 +261,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }   
             },
@@ -275,8 +275,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM", 
+                            "sensor_type": ["RGB"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM", 
                             "labels": "No"
                 }  
             },
@@ -289,8 +289,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }   
             },
@@ -303,8 +303,8 @@
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
-                            "sensor type": ["RGB", "Multispectral"],
-                            "contents": "RGB images, shapefile, pointclouds, orthomosaics and DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }   
             }
@@ -321,7 +321,7 @@
                 "parameters": {
                             "location": "Athens, Greece",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "sensor_type": ["Water-Sensitive Paper (WSP)"],
                             "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates", 
                             "labels": "No"
                 }  
@@ -335,7 +335,7 @@
                 "parameters": {
                             "location": "Athens, Greece",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Water-Sensitive Paper (WSP)"],
+                            "sensor_type": ["Water-Sensitive Paper (WSP)"],
                             "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates", 
                             "labels": "No"
                 }  
@@ -352,7 +352,7 @@
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB", "Thermal"],
+                            "sensor_type": ["RGB", "Thermal"],
                             "contents": "Drone images, flight metadata",
                             "labels": "No"
                 }  
@@ -366,7 +366,7 @@
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB", "Thermal"],
+                            "sensor_type": ["RGB", "Thermal"],
                             "contents": "Drone videos",
                             "labels": "No"
                 }  
@@ -381,7 +381,7 @@
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "Drone images, flight metadata, bounding boxes annotations",
                             "labels": "Yes"
                 }  
@@ -395,7 +395,7 @@
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB", "Thermal"],
+                            "sensor_type": ["RGB", "Thermal"],
                             "contents": "Drone videos, flight metadata, annotations in YOLO and MOTS", 
                             "labels": "Yes"
                 }  
@@ -409,7 +409,7 @@
                 "parameters": {
                             "location": "Ardèche, France",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "Drone videos, RGB images", 
                             "labels": "No"
                 }  
@@ -423,7 +423,7 @@
                 "parameters": {
                             "location": "Ardèche, France",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "Drone images, flight metadata, YOLO annotations", 
                             "labels": "Yes"
                 }  
@@ -437,7 +437,7 @@
                 "parameters": {
                             "location": "Alpes de Haute Provence and Limousin, France",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "Drone videos, RGB images", 
                             "labels": "No"
                 }  
@@ -454,7 +454,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "Drone hyperspectral images, calibration images, hyperspectral data cubes, flight metadata", 
                             "labels": "No"
                 }  
@@ -468,7 +468,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Thermal"],
+                            "sensor_type": ["Thermal"],
                             "contents": "Thermal videos, flight metadata", 
                             "labels": "No"
                 }  
@@ -482,7 +482,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -496,7 +496,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -510,7 +510,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -524,7 +524,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -538,7 +538,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -552,7 +552,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -566,7 +566,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -580,7 +580,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -594,7 +594,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -608,7 +608,7 @@
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["Hyperspectral"],
+                            "sensor_type": ["Hyperspectral"],
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
@@ -625,7 +625,7 @@
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "RGB images, 3D pointcloud, DEM, orthomosaics",
                             "labels": "No"
                 }  
@@ -639,7 +639,7 @@
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "RGB images, 3D pointcloud, DEM, orthomosaics",
                             "labels": "No"
                 }  
@@ -653,7 +653,7 @@
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
-                            "sensor type": ["RGB"],
+                            "sensor_type": ["RGB"],
                             "contents": "RGB images, 3D pointcloud, DEM, orthomosaics",
                             "labels": "No"
                 }  
@@ -670,7 +670,7 @@
                             "parameters": {
                                         "location": "Strumica, North Macedonia",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["RGB"],
+                                        "sensor_type": ["RGB"],
                                         "contents": "RGB images, 3D pointclouds",
                                         "labels": "No"
                             }  
@@ -687,7 +687,7 @@
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB", "Multispectral"],
+                                    "sensor_type": ["RGB", "Multispectral"],
                                     "contents": "3D pointclouds, 2D NDVI maps",
                                     "labels": "No"
                         }  
@@ -701,7 +701,7 @@
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB", "Multispectral"],
+                                    "sensor_type": ["RGB", "Multispectral"],
                                     "contents": "RGB images, multispectral images (R, RE, G, NIR), flight metadata",
                                     "labels": "No"
                         }  
@@ -715,7 +715,7 @@
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB", "Multispectral"],
+                                    "sensor_type": ["RGB", "Multispectral"],
                                     "contents": "RGB images, multispectral images (R, RE, G, NIR), flight metadata",
                                     "labels": "No"
                         }  
@@ -729,7 +729,7 @@
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB"],
+                                    "sensor_type": ["RGB"],
                                     "contents": "RGB images, augmented images, CSV label files",
                                     "labels": "Yes"
                         }   
@@ -743,7 +743,7 @@
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB"],
+                                    "sensor_type": ["RGB"],
                                     "contents": "RGB images, augmented images, CSV label files",
                                     "labels": "Yes"
                         }   
@@ -757,7 +757,7 @@
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": [""],
+                                    "sensor_type": [""],
                                     "contents": "Prediction results",
                                     "labels": "No"
                         }   
@@ -774,7 +774,7 @@
                         "parameters": {
                                     "location": "Portugal",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": ["U-blox NEO-F9P receiver"],
+                                    "sensor_type": ["U-blox NEO-F9P receiver"],
                                     "contents": "NMEA sentences",
                                     "labels": "No"
                         }   
@@ -790,7 +790,7 @@
                         "parameters": {
                                     "location": "Slovenia",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                    "sensor_type": ["RGB", "Multispectral", "Thermal"],
                                     "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
                                     "labels": "No"
                         }   
@@ -804,7 +804,7 @@
                         "parameters": {
                                     "location": "Slovenia",
                                     "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                    "sensor_type": ["RGB", "Multispectral", "Thermal"],
                                     "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
                                     "labels": "No"
                         }   
@@ -818,7 +818,7 @@
                         "parameters": {
                                 "location": "Slovenia",
                                 "coordinates (wgs84)": "",
-                                "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                "sensor_type": ["RGB", "Multispectral", "Thermal"],
                                 "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
                                 "labels": "No"
                             }   
@@ -834,7 +834,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["RGB", "Multispectral"],
+                                        "sensor_type": ["RGB", "Multispectral"],
                                         "contents": "RGB images, multispectral images, drone flight logs",
                                         "labels": "No"
                             }   
@@ -848,7 +848,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["RGB", "Multispectral"],
+                                        "sensor_type": ["RGB", "Multispectral"],
                                         "contents": "RGB images, drone flight logs",
                                         "labels": "No"
                             }   
@@ -862,7 +862,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["RGB", "Multispectral"],
+                                        "sensor_type": ["RGB", "Multispectral"],
                                         "contents": "RGB images, drone flight logs",
                                         "labels": "No"
                             }   
@@ -876,7 +876,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "sensor_type": ["RGB", "Multispectral", "Thermal"],
                                         "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
                                         "labels": "No"
                             }   
@@ -890,7 +890,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["Zenmuse L2 lidar"],
+                                        "sensor_type": ["LiDAR"],
                                         "contents": "Lidar pointcloud",
                                         "labels": "No"
                             }   
@@ -904,7 +904,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["Multispectral"],
+                                        "sensor_type": ["Multispectral"],
                                         "contents": "Vegetation index GeoTIFFs",
                                         "labels": "No"
                             }   
@@ -918,7 +918,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["Zenmuse L2 lidar"],
+                                        "sensor_type": ["LiDAR"],
                                         "contents": "Lidar pointcloud",
                                         "labels": "No"
                             }   
@@ -932,7 +932,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["RGB"],
+                                        "sensor_type": ["RGB"],
                                         "contents": "RGB images, drone flight logs",
                                         "labels": "No"
                             }   
@@ -946,7 +946,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["RGB", "Multispectral],
+                                        "sensor_type": ["RGB", "Multispectral],
                                         "contents": "RGB images, multispectral images, drone flight logs",
                                         "labels": "No"
                             }   
@@ -960,7 +960,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["Multispectral"],
+                                        "sensor_type": ["Multispectral"],
                                         "contents": "GeoTIFFs of vegetation indexes",
                                         "labels": "No"
                             }   
@@ -974,7 +974,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": ["Zenmuse L2 lidar"],
+                                        "sensor_type": ["LiDAR"],
                                         "contents": "Shapefile",
                                         "labels": "No"
                             }   
@@ -988,7 +988,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor type": [""],
+                                        "sensor_type": [""],
                                         "contents": "PDF report, vegetation index statistics",
                                         "labels": "No"
                             }   
@@ -996,527 +996,465 @@
                       ],
 
     "OCT - InnovPlantProtect": [
-                    {   
-                        "name":"Raw DJI Mavic 3M RTK RGB and Multispectral drone imagery collected on 2024-05-28",
-                        "author":"iLaria Marengo, Nuno Faria",
-                        "date":"2024-01-06",
-                        "link":"https://zenodo.org/records/14604638",
-                        "description":"High-resolution RGB and multispectral drone imagery of six Alentejo vineyards, collected in 2024 and georeferenced manually."
-                        "parameters": {
-                                    "location": "Alentejo, Portugal",
-                                    "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB", "Multispectral"],
-                                    "contents": "RGB images, multispectral images, flight metadata",
-                                    "labels": "No"
-                        }   
-                    }, 
-                      {   
-                        "name":"RGB and Multispectral orthomosaics obtained by processing raw imagery (dated 20240528) in webODM software",
-                        "author":"iLaria Marengo, Nuno Faria",
-                        "date":"2024-01-06",
-                        "link":"https://zenodo.org/records/14605551",
-                        "description":"RGB and multispectral orthomosaics of six Alentejo vineyards, processed with webODM for stress and productivity analysis."
-                        "parameters": {
-                                "location": "Alentejo, Portugal",
-                                "coordinates (wgs84)": "",
-                                "sensor type": ["RGB", "Multispectral"],
-                                "contents": "RGB orthomosaics, multispectral orthomosaics, 3D pointclouds, DEM, drone flight logs",
-                                "labels": "No"
-                        }     
-                      }
-                          {   
-                        "name":"Input and output datasets for training the AI-based vine segmentation model (YOLOv9)",
-                        "author":"iLaria Marengo, Nuno Faria",
-                        "date":"2024-01-06",
-                        "link":"https://zenodo.org/records/14605849",
-                        "description": "It contains RGB orthomosaics and 5x5 m vector cells as inputs, with YOLOv9 segmentation outputs including vine polygons and vegetation index rasters."
-                            "parameters": {
-                                    "location": "Alentejo, Portugal",
-                                    "coordinates (wgs84)": "",
-                                    "sensor type": ["RGB"],
-                                    "contents": "RGB orthomosaics, segmented vines, shapefiles, vegetetation indices (NDVI, GNDVI, NDRE)",
-                                    "labels": "No"
-                            }   
-                         }, 
-                  ],
+                                {   
+                                    "name":"Raw DJI Mavic 3M RTK RGB and Multispectral drone imagery collected on 2024-05-28",
+                                    "author":"iLaria Marengo, Nuno Faria",
+                                    "date":"2024-01-06",
+                                    "link":"https://zenodo.org/records/14604638",
+                                    "description":"High-resolution RGB and multispectral drone imagery of six Alentejo vineyards, collected in 2024 and georeferenced manually."
+                                    "parameters": {
+                                                "location": "Alentejo, Portugal",
+                                                "coordinates (wgs84)": "",
+                                                "sensor_type": ["RGB", "Multispectral"],
+                                                "contents": "RGB images, multispectral images, flight metadata",
+                                                "labels": "No"
+                                    }   
+                                }, 
+                                {   
+                                    "name":"RGB and Multispectral orthomosaics obtained by processing raw imagery (dated 20240528) in webODM software",
+                                    "author":"iLaria Marengo, Nuno Faria",
+                                    "date":"2024-01-06",
+                                    "link":"https://zenodo.org/records/14605551",
+                                    "description":"RGB and multispectral orthomosaics of six Alentejo vineyards, processed with webODM for stress and productivity analysis."
+                                    "parameters": {
+                                            "location": "Alentejo, Portugal",
+                                            "coordinates (wgs84)": "",
+                                            "sensor_type": ["RGB", "Multispectral"],
+                                            "contents": "RGB orthomosaics, multispectral orthomosaics, 3D pointclouds, DEM, drone flight logs",
+                                            "labels": "No"
+                                    }     
+                                  }
+                                  {   
+                                    "name":"Input and output datasets for training the AI-based vine segmentation model (YOLOv9)",
+                                    "author":"iLaria Marengo, Nuno Faria",
+                                    "date":"2024-01-06",
+                                    "link":"https://zenodo.org/records/14605849",
+                                    "description": "It contains RGB orthomosaics and 5x5 m vector cells as inputs, with YOLOv9 segmentation outputs including vine polygons and vegetation index rasters."
+                                        "parameters": {
+                                                "location": "Alentejo, Portugal",
+                                                "coordinates (wgs84)": "",
+                                                "sensor_type": ["RGB"],
+                                                "contents": "RGB orthomosaics, segmented vines, shapefiles, vegetetation indices (NDVI, GNDVI, NDRE)",
+                                                "labels": "No"
+                                        }   
+                                     }, 
+                                    ],
     
-    "UARSF": [
-            
-            {
-                "name": "Data on three-year flowering intensity monitoring in an apple orchard: A collection of RGB images acquired from unmanned aerial vehicles",
-                "author": "Chenglong Zhang, João Valente, Wensheng Wang, Pieter van Dalfsen, Peter Frans de Jong, Bert Rijk, Lammert Kooistra",
-                "date": "2023-08-01", 
-                "link": "https://www.sciencedirect.com/science/article/pii/S2352340923004754",
-                "description": "The dataset contains UAV images captured during the full blooming period in an apple orchard over three consecutive years (2018-2020). It is linked to research on quantifying flower intensity using UAV RGB imagery. This data can be utilized in the fields of remote sensing, machine vision, deep learning, and precision horticulture for flowering intensity estimation and prediction.",
-                "parameters": {
-                    "acquisition_date": [2018, 2019, 2020],
-                    "location": "Randwijk, Overbetuwe, The Netherlands",
-                    "coordinates (wgs84)": "51.938, 5.7068",
-                    "sensor type": ["RGB"],
-                    "sensors": ["DJI FC300X", "DJI FC6310S", "DJI FC6310R"],
-                    "flight height (m)": [10, 15, 20, 25, 40],
-                    "contents": "Flower cluster number and floridity ground truth provided"
-
+    "UARSF": [        
+                {
+                    "name": "Data on three-year flowering intensity monitoring in an apple orchard: A collection of RGB images acquired from unmanned aerial vehicles",
+                    "author": "Chenglong Zhang, João Valente, Wensheng Wang, Pieter van Dalfsen, Peter Frans de Jong, Bert Rijk, Lammert Kooistra",
+                    "date": "2023-08-01", 
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340923004754",
+                    "description": "The dataset contains UAV images captured during the full blooming period in an apple orchard over three consecutive years (2018-2020). It is linked to research on quantifying flower intensity using UAV RGB imagery. This data can be utilized in the fields of remote sensing, machine vision, deep learning, and precision horticulture for flowering intensity estimation and prediction.",
+                    "parameters": {
+                        "location": "Randwijk, Overbetuwe, The Netherlands",
+                        "coordinates (wgs84)": "51.938, 5.7068",
+                        "sensor_type": ["RGB"],
+                        "contents": "Geotagged UAV images, flower cluster counts, floridity ground truth",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "Dataset on UAV RGB videos acquired over a vineyard including bunch labels for object detection and tracking",
+                    "author": "Mar Ariza-Sentís, Sergio Vélez, João Valente",
+                    "date": "2023-02-01", 
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340922010514",
+                    "description": "This dataset contains 40 RGB videos of a vineyard in northern Spain, acquired via UAV for object detection and tracking of grape bunches. The dataset is designed to facilitate grape bunch counting and assist winegrowers in assessing vineyard health. It includes mask labels of visible grape bunches, recorded throughout four UAV flights with the camera tilted at 60 degrees.",
+                    "parameters": {
+                        "location": "Bodegas Terras Gauda, Spain",
+                        "coordinates (wgs84)": "41.937042, -8.79074",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB videos, grape annotations",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "Dataset on unmanned aerial vehicle multispectral images acquired over a vineyard affected by Botrytis cinerea in northern Spain",
+                    "author": "Sergio Vélez, Mar Ariza-Sentís, João Valente",
+                    "date": "2023-02-01", 
+                    "link": "https://doi.org/10.1016/j.dib.2022.108876",
+                    "description": "This dataset contains 16504 multispectral images acquired via UAV over a 1.06 ha vineyard in northern Spain affected by Botrytis cinerea. The images were taken during four flights at 30 m height with varying camera tilt angles (0°, 30°, 45°, and 0° in the afternoon to capture plant shadows). The dataset supports research in disease detection, 3D reconstruction, and orthomosaic generation in vineyards.",
+                    "parameters": {
+                        "location": "Bodegas Terras Gauda, Spain",
+                        "coordinates (wgs84)": "41.937042, -8.79074",
+                        "sensor_type": ["Multispectral"],
+                        "contents": "Multispectral images, orthomosaics, vegetation indices",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Dataset on UAV High-resolution Images from Grassland with Broad-leaved Dock (Rumex Obtusifolius)",
+                    "author": "João Valente, Lammert Kooistra",
+                    "date": "2021-07-22", 
+                    "link": "https://zenodo.org/records/5119205#.Yx7aknZByHt",
+                    "description": "The dataset contains orthophotos constructed from UAV images of a grassland field in Kleve, Germany, where several Rumex obtusifolius plants were detected. The images were captured at 10, 15, and 30 meters height, and labels/annotations of the plants are provided.",
+                    "parameters": {
+                        "location": "Kleve, Germany",
+                        "coordinates (wgs84)": "51.7889, 6.1387",
+                        "sensor_type": ["RGB"],
+                        "contents": "Orthophotos, labels of Rumex obtusifolius plants",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "Diurnal UAV-based sun-induced chlorophyll fluorescence over potato and sugar beet fields",
+                    "author": "Na Wang, Juha Suomalainen, Harm Bartholomeus, Lammert Kooistra, Dainius Masiliunas, Jan Clevers",
+                    "date": "2022-08-23", 
+                    "link": "https://data.4tu.nl/articles/_/20348382",
+                    "description": "This dataset contains UAV-based sun-induced chlorophyll fluorescence data acquired over potato and sugar beet fields on August 2, 2018, during clear sky conditions. Four flights were conducted following a diurnal cycle at 9:45, 11:38, 14:15, and 16:28. Multispectral measurements were collected around 11:00 using a Parrot Sequoia+ sensor.",
+                    "parameters": {
+                        "location": "Wageningen University and Research farm, the Netherlands",
+                        "coordinates (wgs84)": "51.987, 5.652",
+                        "sensor_type": ["Multispectral", "Hyperspectral"],
+                        "contents": "Sun-induced chlorophyll fluorescence data, multispectral data, shapefile.",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Haus Riswick grassland experiment with N fertilization and plant growth monitoring based on Unmanned Aerial Vehicle (UAV) hyperspectral imagery - campaigns of 2014 and 2017",
+                    "author": "Lammert Kooistra, Marston H D Franceschini, Rolf Becker, Florian Wichern, J.M. (Juha) Suomalainen, Harm Bartholomeus, Alessandra Capolupo",
+                    "date":"2022-02-25", 
+                    "link": "https://doi.org/10.4121/19188872.v1",
+                    "description": "This dataset contains UAV hyperspectral imagery and field measurements of dry aboveground biomass, nitrogen content (N%), and nitrogen uptake from experimental grassland plots near Kleve, Germany. Data were collected during five campaigns on two dates in 2014 and three dates in 2017. The UAV flights used the WageningenUR Hyperspectral Mapping System (HYMSY) with a pushbroom imaging sensor and a photogrammetric camera.",
+                    "parameters": {
+                        "location": "Kleve, Germany",
+                        "coordinates (wgs84)": "51.782036, 6.163150",
+                        "sensor_type": ["Hyperspectral"],
+                        "contents": "Hyperspectral images, dry biomass, nitrogen measures, ground truth plant growth data.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "UAV-based Multispectral & Thermal dataset for exploring the diurnal variability, radiometric & geometric accuracy for precision agriculture",
+                    "author": "Christina Kallimani, Ramin Heidarian, Frits K. van Evert, Bert Rijk, Lammert Kooistra",
+                    "date": "2020-04-22", 
+                    "link": "https://doi.org/10.18174/odjar.v6i0.16317",
+                    "description": "This dataset explores diurnal variability, radiometric and geometric accuracy in UAV-based multispectral and thermal imagery for precision agriculture. The data were collected in a one-day field campaign on 21 June 2017 over wheat, barley, and potato fields at Wageningen University and Research (WUR) farm. The dataset includes imagery from various sensors and validation measurements from radiometric calibration plates and plant sample locations.",
+                    "parameters": {
+                        "location": "Wageningen University and Research farm, the Netherlands",
+                        "coordinates (wgs84)": "51.9706, 5.6671",
+                        "sensor_type": ["Multispectral", "Thermal", "RGB"],
+                        "contents": "Multispectral images, thermal images, orthomosaics, radiometric calibration, plant sample validation.",
+                        "labels": "No"
+                    }
+    
+                },
+                {
+                    "name": "Speulderbos Terrestrial (TLS) and Unmanned Aerial Vehicle Laser Scanning (UAV-LS) 2017",
+                    "author": "Benjamin Brede, A.I. (Alvaro) Lau Sarmiento, Pasi Raumonen, Harm Bartholomeus, Martin Herold, Lammert Kooistra",
+                    "date": "2020-10-07", 
+                    "link": "https://doi.org/10.4121/13061306.v1",
+                    "description": "This dataset contains TLS and UAV-LS point clouds from the 2017 Speulderbos Laser Scanning campaign. It covers approximately 2 hectares of forest, including 1 hectare of mature beech and oak trees and 1 hectare of mixed species. The data was acquired during early May 2017, when around half of the deciduous trees had no leaves. It provides valuable information for studying above-ground plant biomass and forest inventory.",
+                    "parameters": {
+                        "location": "Speulderbos, the Netherlands",  
+                        "coordinates (wgs84)": "52.2580, 5.6910",
+                        "sensor_type": ["TLS", "LiDAR"],
+                        "contents": "TLS pointclouds, forest inventory data, LAZ, shapefiles",
+                        "labels": "No"
+                    }
                 }
-            },
-            {
-                "name": "Dataset on UAV RGB videos acquired over a vineyard including bunch labels for object detection and tracking",
-                "author": "Mar Ariza-Sentís, Sergio Vélez, João Valente",
-                "date": "2023-02-01", 
-                "link": "https://www.sciencedirect.com/science/article/pii/S2352340922010514",
-                "description": "This dataset contains 40 RGB videos of a vineyard in northern Spain, acquired via UAV for object detection and tracking of grape bunches. The dataset is designed to facilitate grape bunch counting and assist winegrowers in assessing vineyard health. It includes mask labels of visible grape bunches, recorded throughout four UAV flights with the camera tilted at 60 degrees.",
-                "parameters": {
-                    "acquisition_date": [2022],
-                    "location": "Bodegas Terras Gauda, Spain",
-                    "coordinates (wgs84)": "41.937042, -8.79074",
-                    "sensor type": ["RGB"],
-                    "sensors": ["DJI Zenmuse X5S"],
-                    "flight height (m)": [3],
-                    "contents": "40 RGB videos, mask labels of visible grape bunches"
-                }
-            },
-            {
-                "name": "Dataset on unmanned aerial vehicle multispectral images acquired over a vineyard affected by Botrytis cinerea in northern Spain",
-                "author": "Sergio Vélez, Mar Ariza-Sentís, João Valente",
-                "date": "2023-02-01", 
-                "link": "https://doi.org/10.1016/j.dib.2022.108876",
-                "description": "This dataset contains 16,504 multispectral images acquired via UAV over a 1.06 ha vineyard in northern Spain affected by Botrytis cinerea. The images were taken during four flights at 30 m height with varying camera tilt angles (0°, 30°, 45°, and 0° in the afternoon to capture plant shadows). The dataset supports research in disease detection, 3D reconstruction, and orthomosaic generation in vineyards.",
-                "parameters": {
-                    "acquisition_date": [2021],
-                    "location": "Bodegas Terras Gauda, Spain",
-                    "coordinates (wgs84)": "41.937042, -8.79074",
-                    "sensor type": ["Multispectral"],
-                    "sensor": ["MicaSense RedEdge"],
-                    "flight height (m)": [30],
-                    "contents": "16,504 multispectral images from four flights, varying camera tilt angles"
-                }
-            },
-            {
-                "name": "Dataset on UAV High-resolution Images from Grassland with Broad-leaved Dock (Rumex Obtusifolius)",
-                "author": "João Valente, Lammert Kooistra",
-                "date": "2021-07-22", 
-                "link": "https://zenodo.org/records/5119205#.Yx7aknZByHt",
-                "description": "The dataset contains orthophotos constructed from UAV images of a grassland field in Kleve, Germany, where several Rumex obtusifolius plants were detected. The images were captured at 10, 15, and 30 meters height, and labels/annotations of the plants are provided.",
-                "parameters": {
-                    "acquisition_date": [],
-                    "location": "Kleve, Germany",
-                    "coordinates (wgs84)": "51.7889, 6.1387",
-                    "sensor type": ["RGB"],
-                    "sensor": ["Sony Alpha 6000"],
-                    "flight height (m)": [10,15,30],
-                    "contents": "Orthophotos with labels/annotations of Rumex obtusifolius plants"
-                }
-            },
-            {
-                "name": "Diurnal UAV-based sun-induced chlorophyll fluorescence over potato and sugar beet fields",
-                "author": "Na Wang, Juha Suomalainen, Harm Bartholomeus, Lammert Kooistra, Dainius Masiliunas, Jan Clevers",
-                "date": "2022-08-23", 
-                "link": "https://data.4tu.nl/articles/_/20348382",
-                "description": "This dataset contains UAV-based sun-induced chlorophyll fluorescence data acquired over potato and sugar beet fields on August 2, 2018, during clear sky conditions. Four flights were conducted following a diurnal cycle at 9:45, 11:38, 14:15, and 16:28. Multispectral measurements were collected around 11:00 using a Parrot Sequoia+ sensor.",
-                "parameters": {
-                    "acquisition_date": [2018],
-                    "location": "Wageningen University and Research farm, the Netherlands",
-                    "coordinates (wgs84)": "51.987, 5.652",
-                    "sensor type": ["Multispectral", "Hyperspectral"],
-                    "sensor": ["HyPlant Fluorescence Imaging Spectrometer", "Parrot Sequoia+"],
-                    "flight height (m)": [15],
-                    "contents": "Sun-induced chlorophyll fluorescence data from four flights, multispectral measurements"
-                }
-            },
-            {
-                "name": "Haus Riswick grassland experiment with N fertilization and plant growth monitoring based on Unmanned Aerial Vehicle (UAV) hyperspectral imagery - campaigns of 2014 and 2017",
-                "author": "Lammert Kooistra, Marston H D Franceschini, Rolf Becker, Florian Wichern, J.M. (Juha) Suomalainen, Harm Bartholomeus, Alessandra Capolupo",
-                "date":"2022-02-25", 
-                "link": "https://doi.org/10.4121/19188872.v1",
-                "description": "This dataset contains UAV hyperspectral imagery and field measurements of dry aboveground biomass, nitrogen content (N%), and nitrogen uptake from experimental grassland plots near Kleve, Germany. Data were collected during five campaigns on two dates in 2014 and three dates in 2017. The UAV flights used the WageningenUR Hyperspectral Mapping System (HYMSY) with a pushbroom imaging sensor and a photogrammetric camera.",
-                "parameters": {
-                    "acquisition_date": [2014, 2017],
-                    "location": "Kleve, Germany",
-                    "coordinates (wgs84)": "51.782036, 6.163150",
-                    "sensor type": ["Hyperspectral"],
-                    "sensor": ["HYMSY pushbroom system"],
-                    "flight height (m)": [70],
-                    "contents": "Hyperspectral images, dry biomass, nitrogen content, nitrogen uptake measurements"
-                }
-            },
-            {
-                "name": "UAV-based Multispectral & Thermal dataset for exploring the diurnal variability, radiometric & geometric accuracy for precision agriculture",
-                "author": "Christina Kallimani, Ramin Heidarian, Frits K. van Evert, Bert Rijk, Lammert Kooistra",
-                "date": "2020-04-22", 
-                "link": "https://doi.org/10.18174/odjar.v6i0.16317",
-                "description": "This dataset explores diurnal variability, radiometric and geometric accuracy in UAV-based multispectral and thermal imagery for precision agriculture. The data were collected in a one-day field campaign on 21 June 2017 over wheat, barley, and potato fields at Wageningen University and Research (WUR) farm. The dataset includes imagery from various sensors and validation measurements from radiometric calibration plates and plant sample locations.",
-                "parameters": {
-                    "acquisition_date": [2017],
-                    "location": "Wageningen University and Research farm, the Netherlands",
-                    "coordinates (wgs84)": "51.9706, 5.6671",
-                    "sensor type": ["Multispectral", "Thermal", "RGB"],
-                    "sensor": ["senseFly MSP4C", "Parrot Sequoia", "SlantRange P3", "DJI Zenmuse X3 NIR", "senseFly Thermo-map", "Sony WX-220"],
-                    "flight height (m)": [80, 105, 115, 120],
-                    "contents": "Raw images, processed orthomosaics (with and without geometric correction), validation measurements with Cropscan and tec5 Handyspec spectrometers"
-                }
-
-            },
-            {
-                "name": "Speulderbos Terrestrial (TLS) and Unmanned Aerial Vehicle Laser Scanning (UAV-LS) 2017",
-                "author": "Benjamin Brede, A.I. (Alvaro) Lau Sarmiento, Pasi Raumonen, Harm Bartholomeus, Martin Herold, Lammert Kooistra",
-                "date": "2020-10-07", 
-                "link": "https://doi.org/10.4121/13061306.v1",
-                "description": "This dataset contains TLS and UAV-LS point clouds from the 2017 Speulderbos Laser Scanning campaign. It covers approximately 2 hectares of forest, including 1 hectare of mature beech and oak trees and 1 hectare of mixed species. The data was acquired during early May 2017, when around half of the deciduous trees had no leaves. It provides valuable information for studying above-ground plant biomass and forest inventory.",
-                "parameters": {
-                    "acquisition_date": [2017],
-                    "location": "Speulderbos, the Netherlands",  
-                    "coordinates (wgs84)": "52.2580, 5.6910",
-                    "sensor type": ["TLS", "UAV-LiDAR"],
-                    "sensor": ["RIEGL VUX-SYS", "Leica P40 TLS"],
-                    "flight height (m)": [90],
-                    "contents": "TLS and UAV-LS point clouds, forest inventory data, LAZ and shapefiles"
-                }
-            }
-            
-
-
-
-
         ],
+    
     "WU":[
-            
             {
                 "name": "RGB-to-NDVI-conversion dataset",
                 "author": "Jurrian Doornbos",
                 "date": "2025-03-19", 
                 "link": "https://zenodo.org/records/15051398",
-                "description": "Dataset for the article: Evaluating Generalization of Methods for Artificially Generating NDVI from UAV RGB Imagery in Vineyards"
+                "description": "Dataset for the article: Evaluating Generalization of Methods for Artificially Generating NDVI from UAV RGB Imagery in Vineyards",
+                "parameters": {
+                        "location": "Wageningen, the Netherlands",  
+                        "coordinates (wgs84)": "52.2580, 5.6910",
+                        "sensor_type": ["RGB", "Multispectral"],
+                        "contents": "RGB chip images, NDVI chip images, orthomosaics, CHM, DEM, DSM.",
+                        "labels": "No"
+                    }
             }
-        ],
+        ]
+    
     "Online": [
-        {
-            "name": "UFRGS_UAV",
-            "author": "Ricardo S. Westhauser",
-            "date": "2019-02-05",
-            "link": "https://zenodo.org/records/4076075",
-            "description": "This dataset contains five sets (each set from a different spectra) of images taken by an UAV equipped with a downward looking multispectral camera (Parrot Sequoia), in one flight. The region in which the UAV flyed was Porto Alegre (more specifically, Federal University of Rio Grande do Sul, Campus do Vale), a city from Rio Grande do Sul, Brazil. In addition to the sets of images, there are also a folder with twelve satellite images from Porto Alegre, a README file, a .kml and a .DAT file.",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "Porto Alegre, Rio Grande do Sul, Brazil (Federal University of Rio Grande do Sul, Campus do Vale)",
-                "coordinates (wgs84)": "",
-                "sensor type": ["Multispectral"],
-                "sensor": ["Parrot Sequoia"],
-                "flight height (m)": "",
-                "contents": "UAV multispectral images, satellite images, .kml and .DAT files"
-            }
-        },
-        {
-            "name": "Gummern - Mining Waste Deposits Multispectral UAV Imagery",
-            "author": "Enoc Sanz Albeno",
-            "date": "2023-06-09", 
-            "link": "https://zenodo.org/records/13622459",
-            "description": "Mining Waste Deposits Multispectral UAV Imagery from DJI Mavic 3M",
-            "parameters": {
-                "acquisition_date": [2023],
-                "location": "Gummern",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["DJI Mavic 3M"],
-                "flight height (m)": [70],
-                "contents": "Multispectral UAV imagery with 0.2 GSD"
-            }
-        },
-        {
-            "name": "Hullerbusch beech forest, Germany, captured by UAV-based multispectral imaging",
-            "author": "Robert Jackisch",
-            "date": "2022-08-09", 
-            "link": "https://zenodo.org/records/7057321",
-            "description": "This data set contains data products of a multispectral UAV survey over the Hullerbusch beach forest, located in southern Mecklenburg–Western Pomerania, Germany. As survey drone, the DJI M300 with RTK antenna was employed and the multispectral image data was captured with a Micasense Altum multispectral camera. Data were processed in Agisoft Metashape 1.7, with the orthomosaic converted to reflectance.",
-            "parameters": {
-                "acquisition_date": [2022],
-                "location": "Hullerbusch, Mecklenburg, Germany",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense Altum-PT"],
-                "flight height (m)": [70],
-                "contents": "Multispectral orthomosaics of beech forest with 3 GSD, processed with Agisoft Metashape 1.7"
-            }
-        },
-        {
-            "name": "Cherry Tree Disease Detection Dataset",
-            "author": "Christos Chaschatzis, Ilias Siniosoglou, Anna Triantafyllou, Chrysoula Karaiskou, Athanasios Liatifis, Panagiotis Radoglou-Grammatikis, Dimitrios Pliatsios, Vasiliki Kelli, Thomas Lagkas, Vasileios Argyriou, Panagiotis Sarigiannidis",
-            "date": "2022-07-01", 
-            "link": "https://zenodo.org/records/7144071",
-            "description": "This cherry tree disease detection dataset is a multimodal, multi-angle dataset which was constructed for monitoring the growth of cherry trees, including stress analysis and prediction. An orchard of cherry trees is considered in the area of Western Macedonia, where 577 cherry trees were recorded in a full crop season starting from Jul. 2021 to Jul. 2022. The dataset includes a) aerial / Unmanned Aerial Vehicle (UAV) images, b) ground RGB images/photos, and c) ground multispectral images/photos. Two agronomist experts annotated the dataset by identifying a stress, which in this case is a common disease in cherry trees known as Armillaria [1][2].",
-            "parameters": {
-                "acquisition_date": [2021, 2022],
-                "location": "Western Macedonia, Macedonia",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral", "RGB"],
-                "sensor": ["Parrot Sequioa"],
-                "flight height (m)": "None",
-                "contents": "UAV images, ground RGB images, ground multispectral images with disease annotations (Armillaria) of 577 cherry trees"
-            }
-        },
-        {
-            "name": "FlexiGroBots - Blueberry orchard UAV dataset",
-            "author": "Ivošević Bojana, Grbović Željana, Stefanović Dimitrije, Filipović Vladan, Antić Aleksandar, Pajević Nina, Marko Oskar, Panić Marko",
-            "date": "2021-07-02", 
-            "link": "https://zenodo.org/records/5712792",
-            "description": "Dataset consists of UAV drone images: 6 channels: reflectance blue, reflectance green, reflectance red, reflectance red edge, reflectance NIR, RGB. In order to align different channels, registration was applied and because of uneven illumination during the acquisition process, illumination correction was performed. Thus, the results of each preprocessing step are located in separate folders, i.e. raw data are in 100FPLAN and 101FPLAN, results of registration are in 100FPLAN_registrated and 101FPLAN_registrated, while images with corrected illumination are in 100FPLAN_registrated_corrected and 101FPLAN_registrated_corrected. Orthomosaics created before and after preprocessing are located in UAV orthomosaics folder.",
-            "parameters": {
-                "acquisition_date": [2021],
-                "location": "Babe, Serbia",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-M"],
-                "flight height (m)": "None",
-                "contents": "Multispectral UAV imagery (Blue, Green, Red, Red Edge, NIR, RGB) of blueberry orchard with raw, registered, and illumination-corrected orthomosaics"
-            }
-        },
-        {
-            "name": "mDRONES4rivers-project: UAV-imagery of the project area Nonnenwerth at the Rhine River, Germany",
-            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
-            "date": "2019-06-06", 
-            "link": "https://zenodo.org/records/5828865",
-            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "Nonnenwerth, Germany",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-M"],
-                "flight height (m)": "None",
-                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
-            }
-        },
-        {
-            "name": "mDRONES4rivers-project: UAV-imagery of the project area Reitwein at the River Oder, Germany",
-            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
-            "date": "2019-06-06", 
-            "link": "https://zenodo.org/records/5828899",
-            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "Reitwein, Germany",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-M"],
-                "flight height (m)": "None",
-                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the River Oder"
-            }
-        },
-        {
-            "name": "mDRONES4rivers-project: UAV-imagery of the project area Kuehkopf Knoblochsaue at the Rhine River, Germany",
-            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
-            "date": "2019-06-06", 
-            "link": "https://zenodo.org/records/5828282",
-            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "Kuekopf Knoblochsaue, Germany",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-M"],
-                "flight height (m)": "None",
-                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
-            }
-        },
-        {
-        "name": "mDRONES4rivers-project: UAV-imagery of the project area Laubenheim at the Rhine River, Germany",
-        "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
-        "date": "2019-02-18", 
-        "link": "https://zenodo.org/records/5828543",
-        "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
-        "parameters": {
-            "acquisition_date": [2019],
-            "location": "Laubenheim, Germany",  
-            "coordinates (wgs84)": "None",
-            "sensor type": ["Multispectral"],
-            "sensor": ["MicaSense RedEdge-M"],
-            "flight height (m)": "None",
-            "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
-            }
-        },
-        {
-            "name": "mDRONES4rivers-project: UAV-imagery of the project area Emmericher Ward at the Rhine River, German",
-            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
-            "date": "2019-07-23", 
-            "link": "https://zenodo.org/records/5827756",
-            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in German",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "Emmericher Ward, Germany",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-M"],
-                "flight height (m)": "None",
-                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
-            }
-        },
-        {
-            "name": "mDRONES4rivers-project: UAV-imagery of the project area Niederwerth at the Rhine River, Germany",
-            "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
-            "date": "2019-03-08", 
-            "link": "https://zenodo.org/records/5822652",
-            "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "Niederwerth, Germany",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-M"],
-                "flight height (m)": "None",
-                "contents": "Multispectral orthomosaics with 25 GSD for vegetation and hydromorphology mapping along the Rhine River"
-            }
-        },
-        {
-            "name": "Multispectral imaging dataset of potato plants on the field, acquired using UAV",
-            "author": "Janez Lapajne, Andrej Vončina, Ana Vojnović",
-            "date": "2022-07-20", 
-            "link": "https://zenodo.org/records/10934163",
-            "description": "Multispectral images of potato field crops were captured using a SKYHERO SPYDER X4-850 GEO Edition Unmanned Aerial Vehicle (UAV) with a Micasense Rededge MX 5-band multispectral camera.",
-            "parameters": {
-                "acquisition_date": [2022],
-                "location": "Central Slovenia, Slovenia",  
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-MX"],
-                "flight height (m)": "None",
-                "contents": "Multispectral orthomosaics of potato field crops"
-            }
-        },
-        {
-            "name": "Unmanned Aerial Vehicle (UAV) data acquired over a subtropical forest area of the UFSM campus Frederico Westphalen, on October 22, 2020, Rio Grande do Sul, Brazil",
-            "author": "Fabio Marcelo Breunig, Eduardo Rieder, Renato Souza Santos",
-            "date": "2020-10-22",
-            "link": "https://zenodo.org/records/4559718",
-            "description": "The data were acquired from an aerial survey conducted with an Unmanned Aerial Vehicle (UAV, also Drone) covering a forest area of the Federal University of Santa Maria – UFSM in the municipality of Frederico Westphalen, in the Rio Grande do Sul, Brazil. The climate of the region is subtropical (Cfa in the Köppen-Geiger classification) with an average annual temperature of 18 °C and annual precipitation of 1919 mm. The rainfall is well distributed throughout the year.",
-            "parameters": {
-                "acquisition_date": [2020],
-                "location": "Frederico Westphalen, Rio Grande do Sul, Brazil",
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["Parrot Sequioa"],
-                "flight height (m)": "None",
-                "contents": "images in RAW format, 6 size"
-            }
-        },
-        {
-            "name": "A dataset of unmanned aerial vehicle multispectral images acquired over a field to identify nitrogen requirements",
-            "author": "C.L.I.S. Fonseka, Thilina Halloluwa, K.P. Hewagamage, Upul Rathnayake, R.M.U. S Bandara",
-            "date": "2023-08-14",
-            "link": "https://www.sciencedirect.com/science/article/pii/S2352340924004487",
-            "description": "The technique of detecting and tracking an area's physical properties from a distance by measuring its reflected and emitted radiation is known as remote sensing. It gathered data accurately in near real-time. For this purpose, multispectral cameras mounted on UAVs that capture images with different bands can be used to generate vegetation indexes (NDVI, NDRE), which are useful in precision agriculture. In this study UAV image dataset contains 336 multispectral images from a 0.06 ha paddy field with three different phonological cycles of the crop (vegetative, reproductive, and ripening) in the north-western province of Sri Lanka. The selected sample rice variety is BG300. The images were taken over five days, starting from August 14 to October 5, 2023.",
-            "parameters": {
-                "acquisition_date": [2023],
-                "location": "Batalagoda, Ibbagamuwa, Kurunegala, Sri Lanka",
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["DJI Mavic 3M"],
-                "flight height (m)": [30],
-                "contents": "336 multispectral images in RAW format, 4 size"
-            }
-        },
-        {
-            "name": "High resolution image dataset by RGB and multispectral cameras on an unmanned aerial vehicle over a secondary tropical dry forest",
-            "author": "Masuly Vega-Puga, Jaime Garatuza-Payán, Miguel A. Rivera-Diaz, Onésimo Galaz, Juan C. Alvarez-Yépiz, Enrico A. Yepéz",
-            "date": "2022-07-01",
-            "link": "https://www.sciencedirect.com/science/article/pii/S2352340923009307",
-            "description": "Unmanned Aerial Vehicles (UAV) are advantageous to assess vegetation and terrain changes at a high spatial resolution, advancing our understanding of shifts in ecosystem states and processes. The extension of land that we sought to observe belongs to the footprint of an Eddy Covariance System (around 7.5 ha), installed in a secondary ecological succession of the tropical dry forest within the Sierra de Álamos-Rio Cuchujaqui natural protected area, Sonora, Mexico. Aerial images were obtained with a system of multispectral and RGB cameras mounted on a UAV, which executed automated missions in two different seasons: 1) dry season (June 2023) and 2) first rain season (July 2023), totalling 1116 images.",
-            "parameters": {
-                "acquisition_date": [2022, 2023],
-                "location": "El Area Natural Protegida Sierra de Alamos-Rio Cuchujaqui, Sonora, Mexico",
-                "coordinates (wgs84)": "27.00598005 N, 108.77913821 W",
-                "sensor type": ["Multispectral", "RGB"],
-                "sensor": ["DJI Phantom 4 Multispectral"],
-                "flight height (m)": [80],
-                "contents": "1116 images in RAW format, 2.5 size"
-            }
-        },
-        {
-            "name": "Orthophotos and DSMs/DTM derived from RPAS flights over the nature reserve Landschap De Liereman in Flanders, Belgium",
-            "author": "Jeroen Vanden Borre, Pauly Klaas, Stijn Van Hoey, Jeroen De Reu, Peter Desmet",
-            "date": "2017-07-17",
-            "link": "https://zenodo.org/records/3063335",
-            "description": "Landschap De Liereman is a nature reserve situated in Oud-Turnhout, in the province of Antwerp, Flanders, Belgium. The area is managed by the nature conservation NGO Natuurpunt and consists of a diverse landscape of wet and dry heathlands, Nardus grasslands on siliceous soils, forests and transition mires, as well as some remaining arable fields and high-intensity agricultural grasslands.",
-            "parameters": {
-                "acquisition_date": [2017],
-                "location": "De Liereman, Belgium",
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral", "RGB"],
-                "sensor": ["Parrot Sequioa"],
-                "flight height (m)": "None",
-                "contents": "orthomosaics, 21 size"
-            }
-        },
-        {
-            "name": "UAS-SfM data from Unoccupied aerial system (UAS) Structure-from-Motion canopy fuel parameters: Multisite area-based modelling across forests in California, USA",
-            "author": "Sean Reilly, Matthew L. Clark, Lika Loechler, Jack Spillane, Melina Kozanitas, Paris Krause, David Ackerly, Lisa Patrick Bentley, Imma Oliveras Menor",
-            "date": "2019-09-01",
-            "link": "https://zenodo.org/records/12809155",
-            "description": "Unoccupied aerial system (UAS) Structure-from-Motion canopy fuel parameters: Multisite area-based modelling across forests in California, USA",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "California, United Stated of America",
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-MX"],
-                "flight height (m)": "None",
-                "contents": "orthomosaics, 12 size"
-            }
-        },
-        {
-            "name": "Multispectral imagery of macroalgae in Illas Cíes (NW Spain)",
-            "author": "Andrea Martinez-Movilla, Marta Román-Geada, Juan Luis Rodríguez Somoza, Celia Olabarria, Joaquín Martínez-Sánchez",
-            "date": "2019-09-02",
-            "link": "https://zenodo.org/records/13880699",
-            "description": "This dataset focuses on an intertidal coastal environment in Illas Cíes, NW Spain. It includes multispectral orthoimages (5 bands), photoquadrat images, and manually segmented shapefiles. The dataset spans 4 months and contains 20 orthoimages (5 per month, one for each band: Blue, Green, Red, Red edge, and NIR). There are also 164 photoquadrat images and 8 shapefiles with a total of 949 polygons. The dataset classifies the intertidal area into 9 categories: Codium spp., Ulva spp., C. peregrina, B. bifurcata, E. selaginoides, S. polyschides, S. muticum, Inert and water.",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "Illas Cíes, Spain",
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense Altum"],
-                "flight height (m)": [35],
-                "contents": "20 orthomosaics with segmentation annotations, 10 size, Blue/Green/Red/Red Edge/NIR bands"
-            }
-        },
-        {
-            "name": "Data for estimating spruce tree health using drone-based RGB and multispectral imagery",
-            "author": "Samuli Junttila, Roope Näsi, Niko Koivumäki, Mohammad Imangholiloo, Ninni Saarinen, Juha Raisio, Markus Holopainen, Hannu Hyyppä, Juha Hyyppä, Päivi Lyytikäinen-Saarenmaa, Mikko Vastaranta, Eija Honkavaara",
-            "date": "2019-09-08",
-            "link": "https://zenodo.org/records/13925862",
-            "description": "The dataset contains multispectral and RGB orthomosaics (.tif), and photogrammetric point clouds (.laz) of four study areas (about 25 ha each), where bark beetle-related decline of Norway spruce has been observed in Helsinki, Finland. The filenames refer to Area 1 (Männikkötie), Area 2 (Maunulanmaja), Area 3 (Hakuninmaa), and Area 4 (Paloheinä), described in detail in Junttila et al. 2022.",
-            "parameters": {
-                "acquisition_date": [2019],
-                "location": "Helsinki, Finland",
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral", "RGB"],
-                "sensor": ["MicaSense Altum", "MicaSense RedEdge"],
-                "flight height (m)": "None",
-                "contents": "orthomosaics (.tif), point clouds (.laz), 8 size"
-            }
-        },
-        {
-            "name": "Post-remediation evaluation of contaminated site using geophysical methods: Multispectral UAV data Olkusz (Poland) 20220629",
-            "author": "Marta Kondracka",
-            "date": "2022-06-09",
-            "link": "https://zenodo.org/records/7358770",
-            "description": "In order to analyze the vegetation condition, photos were taken in the infrared (NIR, 750 - 2500 nm) and infrared (Red Edge, 690-720 nm) range. The DJI Matrice 600 platform was used for the raid. The photos were taken from the ceiling of 150 m with the MicaSense Red Edge M camera with a focal length of 6 mm.",
-            "parameters": {
-                "acquisition_date": [2022],
-                "location": "Olkusz, Poland",
-                "coordinates (wgs84)": "None",
-                "sensor type": ["Multispectral"],
-                "sensor": ["MicaSense RedEdge-M"],
-                "flight height (m)": [150],
-                "contents": "images in RAW format, 9 size, NIR/Red Edge bands"
-            }
-        }
+                {
+                    "name": "UFRGS_UAV",
+                    "author": "Ricardo S. Westhauser",
+                    "date": "2019-02-05",
+                    "link": "https://zenodo.org/records/4076075",
+                    "description": "This dataset contains five sets (each set from a different spectra) of images taken by an UAV equipped with a downward looking multispectral camera (Parrot Sequoia), in one flight. The region in which the UAV flyed was Porto Alegre (more specifically, Federal University of Rio Grande do Sul, Campus do Vale), a city from Rio Grande do Sul, Brazil. In addition to the sets of images, there are also a folder with twelve satellite images from Porto Alegre, a README file, a .kml and a .DAT file.",
+                    "parameters": {
+                        "location": "Porto Alegre, Rio Grande do Sul, Brazil",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral"],
+                        "contents": "UAV multispectral images, satellite images, .kml files, .DAT files",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Gummern - Mining Waste Deposits Multispectral UAV Imagery",
+                    "author": "Enoc Sanz Albeno",
+                    "date": "2023-06-09", 
+                    "link": "https://zenodo.org/records/13622459",
+                    "description": "Mining Waste Deposits Multispectral UAV Imagery from DJI Mavic 3M",
+                    "parameters": {
+                        "location": "Gummern, Austria",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral"],
+                        "contents": "Multispectral images",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Hullerbusch beech forest, Germany, captured by UAV-based multispectral imaging",
+                    "author": "Robert Jackisch",
+                    "date": "2022-08-09", 
+                    "link": "https://zenodo.org/records/7057321",
+                    "description": "This data set contains data products of a multispectral UAV survey over the Hullerbusch beach forest, located in southern Mecklenburg–Western Pomerania, Germany. As survey drone, the DJI M300 with RTK antenna was employed and the multispectral image data was captured with a Micasense Altum multispectral camera. Data were processed in Agisoft Metashape 1.7, with the orthomosaic converted to reflectance.",
+                    "parameters": {
+                        "location": "Hullerbusch, Mecklenburg, Germany",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral"],
+                        "contents": "Orthomosaics, DSM, RGB pointcloud, shapefile, Agisoft processing report",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Cherry Tree Disease Detection Dataset",
+                    "author": "Christos Chaschatzis, Ilias Siniosoglou, Anna Triantafyllou, Chrysoula Karaiskou, Athanasios Liatifis, Panagiotis Radoglou-Grammatikis, Dimitrios Pliatsios, Vasiliki Kelli, Thomas Lagkas, Vasileios Argyriou, Panagiotis Sarigiannidis",
+                    "date": "2022-07-01", 
+                    "link": "https://zenodo.org/records/7144071",
+                    "description": "This cherry tree disease detection dataset is a multimodal, multi-angle dataset which was constructed for monitoring the growth of cherry trees, including stress analysis and prediction. An orchard of cherry trees is considered in the area of Western Macedonia, where 577 cherry trees were recorded in a full crop season starting from Jul. 2021 to Jul. 2022. The dataset includes a) aerial / Unmanned Aerial Vehicle (UAV) images, b) ground RGB images/photos, and c) ground multispectral images/photos. Two agronomist experts annotated the dataset by identifying a stress, which in this case is a common disease in cherry trees known as Armillaria [1][2].",
+                    "parameters": {
+                        "location": "Western Macedonia, Macedonia",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "RGB images, multispectral images, disease annotations.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "FlexiGroBots - Blueberry orchard UAV dataset",
+                    "author": "Ivošević Bojana, Grbović Željana, Stefanović Dimitrije, Filipović Vladan, Antić Aleksandar, Pajević Nina, Marko Oskar, Panić Marko",
+                    "date": "2021-07-02", 
+                    "link": "https://zenodo.org/records/5712792",
+                    "description": "Dataset consists of UAV drone images: 6 channels: reflectance blue, reflectance green, reflectance red, reflectance red edge, reflectance NIR, RGB. In order to align different channels, registration was applied and because of uneven illumination during the acquisition process, illumination correction was performed. Thus, the results of each preprocessing step are located in separate folders, i.e. raw data are in 100FPLAN and 101FPLAN, results of registration are in 100FPLAN_registrated and 101FPLAN_registrated, while images with corrected illumination are in 100FPLAN_registrated_corrected and 101FPLAN_registrated_corrected. Orthomosaics created before and after preprocessing are located in UAV orthomosaics folder.",
+                    "parameters": {
+                        "location": "Babe, Serbia",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "RGB images, multispectral images (B, G, R, RE, NIR), orthomosaics",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "mDRONES4rivers-project: UAV-imagery of the project area Nonnenwerth at the Rhine River, Germany",
+                    "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                    "date": "2019-06-06", 
+                    "link": "https://zenodo.org/records/5828865",
+                    "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                    "parameters": {
+                        "location": "Nonnenwerth, Germany",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "Multispectral orthophotos, RGB orthophotos, DSM, technical report, metadata.",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "mDRONES4rivers-project: UAV-imagery of the project area Reitwein at the River Oder, Germany",
+                    "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                    "date": "2019-06-06", 
+                    "link": "https://zenodo.org/records/5828899",
+                    "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                    "parameters": {
+                        "location": "Reitwein, Germany",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "Multispectral orthophotos, RGB orthophotos, DSM, technical reports, metadata.",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "mDRONES4rivers-project: UAV-imagery of the project area Kuehkopf Knoblochsaue at the Rhine River, Germany",
+                    "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                    "date": "2019-06-06", 
+                    "link": "https://zenodo.org/records/5828282",
+                    "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                    "parameters": {
+                        "location": "Kuekopf Knoblochsaue, Germany",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "Multispectral orthophotos, RGB orthophotos, DSM, technical reports, metadata",
+                        "labels": "No"
+                    }
+                },
+                {
+                "name": "mDRONES4rivers-project: UAV-imagery of the project area Laubenheim at the Rhine River, Germany",
+                "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                "date": "2019-02-18", 
+                "link": "https://zenodo.org/records/5828543",
+                "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                "parameters": {
+                    "location": "Laubenheim, Germany",  
+                    "coordinates (wgs84)": "",
+                    "sensor_type": ["Multispectral", "RGB"],
+                    "contents": "Multispectral orthophotos, RGB orthophotos, DSM, technical reports, metadata",
+                    "labels": "No"
+                    }
+                },
+                {
+                    "name": "mDRONES4rivers-project: UAV-imagery of the project area Emmericher Ward at the Rhine River, German",
+                    "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                    "date": "2019-07-23", 
+                    "link": "https://zenodo.org/records/5827756",
+                    "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in German",
+                    "parameters": {
+                        "location": "Emmericher Ward, Germany",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "Multispectral orthophotos, RGB orthophotos, DSM, technical reports, metadata",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "mDRONES4rivers-project: UAV-imagery of the project area Niederwerth at the Rhine River, Germany",
+                    "author": "Gilles Rock, Tina Mölter, Paul Deffert, Filip Dzunic, Laura Giese, Edvinas Rommel, Frederik Kathoefer",
+                    "date": "2019-03-08", 
+                    "link": "https://zenodo.org/records/5822652",
+                    "description": "Spatially and temporally high-resolution data was acquired with the aid of multispectral sensors mounted on UAV and a gyrocopter platform for the purpose of classification. The work was part of the research and development project „Modern sensors and airborne remote sensing for the mapping of vegetation and hydromorphology along Federal waterways in Germany",
+                    "parameters": {
+                        "location": "Niederwerth, Germany",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "Multispectral orthophotos, RGB orthophotos, DSM, technical reports, metadata",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Multispectral imaging dataset of potato plants on the field, acquired using UAV",
+                    "author": "Janez Lapajne, Andrej Vončina, Ana Vojnović",
+                    "date": "2022-07-20", 
+                    "link": "https://zenodo.org/records/10934163",
+                    "description": "Multispectral images of potato field crops were captured using a SKYHERO SPYDER X4-850 GEO Edition Unmanned Aerial Vehicle (UAV) with a Micasense Rededge MX 5-band multispectral camera.",
+                    "parameters": {
+                        "location": "Central Slovenia, Slovenia",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral"],
+                        "contents": "Multispectral orthophotos, shapefiles, ground physiological measurements, disease scoring, metadata",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Unmanned Aerial Vehicle (UAV) data acquired over a subtropical forest area of the UFSM campus Frederico Westphalen, on October 22, 2020, Rio Grande do Sul, Brazil",
+                    "author": "Fabio Marcelo Breunig, Eduardo Rieder, Renato Souza Santos",
+                    "date": "2020-10-22",
+                    "link": "https://zenodo.org/records/4559718",
+                    "description": "The data were acquired from an aerial survey conducted with an Unmanned Aerial Vehicle (UAV, also Drone) covering a forest area of the Federal University of Santa Maria – UFSM in the municipality of Frederico Westphalen, in the Rio Grande do Sul, Brazil. The climate of the region is subtropical (Cfa in the Köppen-Geiger classification) with an average annual temperature of 18 °C and annual precipitation of 1919 mm. The rainfall is well distributed throughout the year.",
+                    "parameters": {
+                        "location": "Frederico Westphalen, Rio Grande do Sul, Brazil",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "Multispectral images, RGB images, orthomosaics, DEM.",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "A dataset of unmanned aerial vehicle multispectral images acquired over a field to identify nitrogen requirements",
+                    "author": "C.L.I.S. Fonseka, Thilina Halloluwa, K.P. Hewagamage, Upul Rathnayake, R.M.U. S Bandara",
+                    "date": "2023-08-14",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340924004487",
+                    "description": "The technique of detecting and tracking an area's physical properties from a distance by measuring its reflected and emitted radiation is known as remote sensing. It gathered data accurately in near real-time. For this purpose, multispectral cameras mounted on UAVs that capture images with different bands can be used to generate vegetation indexes (NDVI, NDRE), which are useful in precision agriculture. In this study UAV image dataset contains 336 multispectral images from a 0.06 ha paddy field with three different phonological cycles of the crop (vegetative, reproductive, and ripening) in the north-western province of Sri Lanka. The selected sample rice variety is BG300. The images were taken over five days, starting from August 14 to October 5, 2023.",
+                    "parameters": {
+                        "location": "Batalagoda, Ibbagamuwa, Kurunegala, Sri Lanka",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "Multispectral images (G, R, RE, NIR), RGB images, SPAD meter readings, shapefiles.",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "High resolution image dataset by RGB and multispectral cameras on an unmanned aerial vehicle over a secondary tropical dry forest",
+                    "author": "Masuly Vega-Puga, Jaime Garatuza-Payán, Miguel A. Rivera-Diaz, Onésimo Galaz, Juan C. Alvarez-Yépiz, Enrico A. Yepéz",
+                    "date": "2022-07-01",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340923009307",
+                    "description": "Unmanned Aerial Vehicles (UAV) are advantageous to assess vegetation and terrain changes at a high spatial resolution, advancing our understanding of shifts in ecosystem states and processes. The extension of land that we sought to observe belongs to the footprint of an Eddy Covariance System (around 7.5 ha), installed in a secondary ecological succession of the tropical dry forest within the Sierra de Álamos-Rio Cuchujaqui natural protected area, Sonora, Mexico. Aerial images were obtained with a system of multispectral and RGB cameras mounted on a UAV, which executed automated missions in two different seasons: 1) dry season (June 2023) and 2) first rain season (July 2023), totalling 1116 images.",
+                    "parameters": {
+                        "location": "El Area Natural Protegida Sierra de Alamos-Rio Cuchujaqui, Sonora, Mexico",
+                        "coordinates (wgs84)": "27.00598005 N, 108.77913821 W",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "RGB images, multispectral images (B, G, R, RE, NIR), orthomosaics, metadata",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Orthophotos and DSMs/DTM derived from RPAS flights over the nature reserve Landschap De Liereman in Flanders, Belgium",
+                    "author": "Jeroen Vanden Borre, Pauly Klaas, Stijn Van Hoey, Jeroen De Reu, Peter Desmet",
+                    "date": "2017-07-17",
+                    "link": "https://zenodo.org/records/3063335",
+                    "description": "Landschap De Liereman is a nature reserve situated in Oud-Turnhout, in the province of Antwerp, Flanders, Belgium. The area is managed by the nature conservation NGO Natuurpunt and consists of a diverse landscape of wet and dry heathlands, Nardus grasslands on siliceous soils, forests and transition mires, as well as some remaining arable fields and high-intensity agricultural grasslands.",
+                    "parameters": {
+                        "location": "De Liereman, Belgium",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "RGB orthophotos, multispectral orthophotos, DSM, DTM, flight metadata",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "UAS-SfM data from Unoccupied aerial system (UAS) Structure-from-Motion canopy fuel parameters: Multisite area-based modelling across forests in California, USA",
+                    "author": "Sean Reilly, Matthew L. Clark, Lika Loechler, Jack Spillane, Melina Kozanitas, Paris Krause, David Ackerly, Lisa Patrick Bentley, Imma Oliveras Menor",
+                    "date": "2019-09-01",
+                    "link": "https://zenodo.org/records/12809155",
+                    "description": "Unoccupied aerial system (UAS) Structure-from-Motion canopy fuel parameters: Multisite area-based modelling across forests in California, USA",
+                    "parameters": {
+                        "location": "California, United States of America",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral"],
+                        "contents": "orthomosaics, 12 size",
+                        "contents": "Multispectral UAS-SfM data",
 
-
-
-
-
-
-
-
-
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Multispectral imagery of macroalgae in Illas Cíes (NW Spain)",
+                    "author": "Andrea Martinez-Movilla, Marta Román-Geada, Juan Luis Rodríguez Somoza, Celia Olabarria, Joaquín Martínez-Sánchez",
+                    "date": "2019-09-02",
+                    "link": "https://zenodo.org/records/13880699",
+                    "description": "This dataset focuses on an intertidal coastal environment in Illas Cíes, NW Spain. It includes multispectral orthoimages (5 bands), photoquadrat images, and manually segmented shapefiles. The dataset spans 4 months and contains 20 orthoimages (5 per month, one for each band: Blue, Green, Red, Red edge, and NIR). There are also 164 photoquadrat images and 8 shapefiles with a total of 949 polygons. The dataset classifies the intertidal area into 9 categories: Codium spp., Ulva spp., C. peregrina, B. bifurcata, E. selaginoides, S. polyschides, S. muticum, Inert and water.",
+                    "parameters": {
+                        "location": "Illas Cíes, Spain",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral"],
+                        "contents": "Multispectral orthoimages (B, G, R, RE, NIR), photoquadrat images, shapefiles.",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Data for estimating spruce tree health using drone-based RGB and multispectral imagery",
+                    "author": "Samuli Junttila, Roope Näsi, Niko Koivumäki, Mohammad Imangholiloo, Ninni Saarinen, Juha Raisio, Markus Holopainen, Hannu Hyyppä, Juha Hyyppä, Päivi Lyytikäinen-Saarenmaa, Mikko Vastaranta, Eija Honkavaara",
+                    "date": "2019-09-08",
+                    "link": "https://zenodo.org/records/13925862",
+                    "description": "The dataset contains multispectral and RGB orthomosaics (.tif), and photogrammetric point clouds (.laz) of four study areas (about 25 ha each), where bark beetle-related decline of Norway spruce has been observed in Helsinki, Finland. The filenames refer to Area 1 (Männikkötie), Area 2 (Maunulanmaja), Area 3 (Hakuninmaa), and Area 4 (Paloheinä), described in detail in Junttila et al. 2022.",
+                    "parameters": {
+                        "location": "Helsinki, Finland",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral", "RGB"],
+                        "contents": "Multispectral orthomosaics, RGB orthomosaics, pointclouds, geolocated tree crown polygons.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "Post-remediation evaluation of contaminated site using geophysical methods: Multispectral UAV data Olkusz (Poland) 20220629",
+                    "author": "Marta Kondracka",
+                    "date": "2022-06-09",
+                    "link": "https://zenodo.org/records/7358770",
+                    "description": "In order to analyze the vegetation condition, photos were taken in the infrared (NIR, 750 - 2500 nm) and infrared (Red Edge, 690-720 nm) range. The DJI Matrice 600 platform was used for the raid. The photos were taken from the ceiling of 150 m with the MicaSense Red Edge M camera with a focal length of 6 mm.",
+                    "parameters": {
+                        "location": "Olkusz, Poland",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["Multispectral"],
+                        "contents": "Multispectral images (RE, NIR).",
+                        "labels": "No"
+                    }
+                }
     ]
 }
