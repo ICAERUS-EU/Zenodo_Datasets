@@ -830,7 +830,7 @@
                             "author": "Chris Crane",
                             "date": "2024-06-02",
                             "link": "https://zenodo.org/records/14328464",
-                            "description": "A dataset of multipectral images and drone flight logs."
+                            "description": "A dataset of multipectral images and drone flight logs.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -946,7 +946,7 @@
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
-                                        "sensor_type": ["RGB", "Multispectral],
+                                        "sensor_type": ["RGB", "Multispectral"],
                                         "contents": "RGB images, multispectral images, drone flight logs",
                                         "labels": "No"
                             }   
@@ -1023,7 +1023,7 @@
                                             "contents": "RGB orthomosaics, multispectral orthomosaics, 3D pointclouds, DEM, drone flight logs",
                                             "labels": "No"
                                     }     
-                                  }
+                                  },
                                   {   
                                     "name": "Input and output datasets for training the AI-based vine segmentation model (YOLOv9)",
                                     "author": "iLaria Marengo, Nuno Faria",
@@ -1037,7 +1037,7 @@
                                                 "contents": "RGB orthomosaics, segmented vines, shapefiles, vegetetation indices (NDVI, GNDVI, NDRE)",
                                                 "labels": "No"
                                         }   
-                                     }, 
+                                     }
                                     ],
     
     "UARSF": [        
@@ -1171,7 +1171,7 @@
                         "labels": "No"
                     }
             }
-        ]
+        ],
     
     "Online": [
                 {
@@ -1408,9 +1408,7 @@
                         "location": "California, United States of America",
                         "coordinates (wgs84)": "",
                         "sensor_type": ["Multispectral"],
-                        "contents": "orthomosaics, 12 size",
                         "contents": "Multispectral UAS-SfM data",
-
                         "labels": "No"
                     }
                 },
