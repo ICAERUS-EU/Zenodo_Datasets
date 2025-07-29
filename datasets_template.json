@@ -33,7 +33,7 @@
     "UARSF": [
         {
             "name": "Dataset name",
-            "author": ["Author1", "Author2", "Author3"], 
+            "author": "Author1, Author2, Author3", 
             "date": "20/07/2025",
             "link": "https://example.com",
             "description": "A brief description of the dataset and its purpose.",
