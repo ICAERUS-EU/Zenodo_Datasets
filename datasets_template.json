@@ -1,12 +1,19 @@
 {  
     "UC1": [
             // Information for each dataset
-            {       
-                "name":"",       // Name of the dataset
-                "author":"",     // Author of the dataset
-                "date":"",       // Date when the data was collected
-                "link":"",       // Link to dataset in Zenodo
-                "description":"" // Add description of the dataset
+            {
+                "name": "Dataset name",
+                "author": ["Author1", "Author2", "Author3"], 
+                "date": "20/07/2025",
+                "link": "https://example.com",
+                "description": "A brief description of the dataset and its purpose.",
+                "parameters": {
+                    "location": "Location description or coordinates: Location, Country",
+                    "coordinates (wgs84)": "Latitude, Longitude",
+                    "sensor type": ["RGB", "Multispectral", "Thermal", "Hyperspectral", "LiDAR", "TLS"],
+                    "contents": "A brief summary of the data contents and measurements",
+                    "labels": "Yes" or "No"
+                }
             }
         ],
 
@@ -27,16 +34,15 @@
         {
             "name": "Dataset name",
             "author": ["Author1", "Author2", "Author3"], 
-            "date": [2017, 2018, 2019],
+            "date": "20/07/2025",
             "link": "https://example.com",
             "description": "A brief description of the dataset and its purpose.",
             "parameters": {
                 "location": "Location description or coordinates: Location, Country",
                 "coordinates (wgs84)": "Latitude, Longitude",
-                "sensor type": ["RGB", "Multispectral", "Thermal", "Hyperspectral", "UAV-LiDAR", "TLS"],
-                "sensors": ["Specific sensors used for data collection: Brand type, e.g. DJI FC300X, Parrot Sequoia"],
-                "flight height (m)": [10, 30, "Unspecified"],
-                "contents": "A brief summary of the data contents and measurements"
+                "sensor type": ["RGB", "Multispectral", "Thermal", "Hyperspectral", "LiDAR", "TLS"],
+                "contents": "A brief summary of the data contents and measurements",
+                "labels": "Yes" or "No"
             }
         }
     ]
