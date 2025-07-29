@@ -7,7 +7,7 @@
     "parameters": {
         "location": "Randwijk, Overbetuwe, The Netherlands",
         "coordinates (wgs84)": "51.938, 5.7068",
-        "sensor type": ["RGB"],
+        "sensor_type": ["RGB"],
         "contents": "Flower cluster number and floridity ground truth provided",
         "labels": "Yes"
     }
