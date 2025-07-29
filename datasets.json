@@ -1,11 +1,11 @@
 {  
     "UC1": [
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-04-21",
-                "author":"Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2023-04-21",
-                "link":"https://zenodo.org/records/15114347",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
+                "name": "UAV Canyelles Vineyard Dataset 2023-04-21",
+                "author": "Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2023-04-21",
+                "link": "https://zenodo.org/records/15114347",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -15,11 +15,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-04-28",
-                "author":"Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2023-04-28",
-                "link":"https://zenodo.org/records/15124471",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
+                "name": "UAV Canyelles Vineyard Dataset 2023-04-28",
+                "author": "Esther Vera, Paula Osés, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2023-04-28",
+                "link": "https://zenodo.org/records/15124471",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -29,11 +29,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-05-05",
-                "author":"Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés",
-                "date":"2023-05-05",
-                "link":"https://zenodo.org/records/15124564",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
+                "name": "UAV Canyelles Vineyard Dataset 2023-05-05",
+                "author": "Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés",
+                "date": "2023-05-05",
+                "link": "https://zenodo.org/records/15124564",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -43,11 +43,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-06-09",
-                "author":"Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés",
-                "date":"2023-06-09",
-                "link":"https://zenodo.org/records/15064455",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2023-06-09",
+                "author": "Esther Vera, Oriol Arroyo, Aldo Sollazzo, Chirag Rangholia, Paula Osés",
+                "date": "2023-06-09",
+                "link": "https://zenodo.org/records/15064455",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -57,11 +57,11 @@
                 }  
             },
             {       
-                "name":"UC1 DATA FOLDER GITHUB",
-                "author":"Esther Vera, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2024-05-15",
-                "link":"https://zenodo.org/records/8123870",
-                "description":"This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub.",
+                "name": "UC1 DATA FOLDER GITHUB",
+                "author": "Esther Vera, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2024-05-15",
+                "link": "https://zenodo.org/records/8123870",
+                "description": "This dataset contains the necessary data to execute the UC1_Crop_Monitoring codes in GitHub.",
                 "parameters": {
                             "location": "Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -71,11 +71,11 @@
                 }  
             },
             {       
-                "name":"VINEYARD PLANT LEAVES IMAGES (SUMMER 2024)",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2024-10-17",
-                "link":"https://zenodo.org/records/13944498",
-                "description":"Crop monitoring dataset generated with DJI Mavic Classic 3 UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "VINEYARD PLANT LEAVES IMAGES (SUMMER 2024)",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2024-10-17",
+                "link": "https://zenodo.org/records/13944498",
+                "description": "Crop monitoring dataset generated with DJI Mavic Classic 3 UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -85,11 +85,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2024-08-30",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-05-08",
-                "link":"https://zenodo.org/records/15173656",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-08-30",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-05-08",
+                "link": "https://zenodo.org/records/15173656",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -99,11 +99,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2024-08-13",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-05-08",
-                "link":"https://zenodo.org/records/15172492",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-08-13",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-05-08",
+                "link": "https://zenodo.org/records/15172492",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -113,11 +113,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-08-31",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-03-24",
-                "link":"https://zenodo.org/records/15075341",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2023-08-31",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-03-24",
+                "link": "https://zenodo.org/records/15075341",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -127,11 +127,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-07-28",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-03-24",
-                "link":"https://zenodo.org/records/15075338",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2023-07-28",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-03-24",
+                "link": "https://zenodo.org/records/15075338",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -141,11 +141,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-06-09",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-03-21",
-                "link":"https://zenodo.org/records/15064455",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2023-06-09",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-03-21",
+                "link": "https://zenodo.org/records/15064455",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -155,11 +155,11 @@
                 }  
             },
             {       
-                "name":"VINEYARD PLANTS LABELLED FOR DETECTION (HEALTHY, MILDEW, LOW-IRON)",
-                "author":" Esther Vera, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-03-26",
-                "link":"https://zenodo.org/records/15090766",
-                "description":"This dataset consists of 508 images labeled for detecting plant health in vineyards. Each image is annotated with bounding boxes and has a resolution of 640 × 640 pixels. The dataset is formatted for YOLOv12 and was manually labeled using Roboflow. It is divided into 356 images for training, 102 images for validation, and 50 images for testing, ensuring a balanced distribution for model development and evaluation.",
+                "name": "VINEYARD PLANTS LABELLED FOR DETECTION (HEALTHY, MILDEW, LOW-IRON)",
+                "author": "Esther Vera, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-03-26",
+                "link": "https://zenodo.org/records/15090766",
+                "description": "This dataset consists of 508 images labeled for detecting plant health in vineyards. Each image is annotated with bounding boxes and has a resolution of 640 × 640 pixels. The dataset is formatted for YOLOv12 and was manually labeled using Roboflow. It is divided into 356 images for training, 102 images for validation, and 50 images for testing, ensuring a balanced distribution for model development and evaluation.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -169,11 +169,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2024-06-18",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-03-19",
-                "link":"https://zenodo.org/records/15046758",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-06-18",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-03-19",
+                "link": "https://zenodo.org/records/15046758",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -183,11 +183,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2024-07-17",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-28",
-                "link":"https://zenodo.org/records/15149667",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-07-17",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-28",
+                "link": "https://zenodo.org/records/15149667",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -197,11 +197,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2024-07-03",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-28",
-                "link":"https://zenodo.org/records/15147343",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-07-03",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-28",
+                "link": "https://zenodo.org/records/15147343",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -211,11 +211,11 @@
                 }  
             },
             {   
-                "name":"UAV Canyelles Vineyard Dataset 2024-05-30",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-28",
-                "link":"https://zenodo.org/records/15124374",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-05-30",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-28",
+                "link": "https://zenodo.org/records/15124374",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -225,11 +225,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-05-26",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-04",
-                "link":"https://zenodo.org/records/15130400",
-               "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files",
+                "name": "UAV Canyelles Vineyard Dataset 2023-05-26",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-04",
+                "link": "https://zenodo.org/records/15130400",
+               "description": "Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -239,11 +239,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-05-18",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-04",
-                "link":"https://zenodo.org/records/15120688",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files",
+                "name": "UAV Canyelles Vineyard Dataset 2023-05-18",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-04",
+                "link": "https://zenodo.org/records/15120688",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains RGB images, pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -253,11 +253,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2024-05-23",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-04",
-                "link":"https://zenodo.org/records/15120063",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-05-23",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-04",
+                "link": "https://zenodo.org/records/15120063",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -267,11 +267,11 @@
                 }   
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2023-04-28",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-04",
-                "link":"https://zenodo.org/records/15124471",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2023-04-28",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-04",
+                "link": "https://zenodo.org/records/15124471",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3 Classic UAV and Metashape Agisoft that contains vineyard images and RGB pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -281,11 +281,11 @@
                 }  
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2024-08-13",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-08",
-                "link":"https://zenodo.org/records/15172492",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-08-13",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-08",
+                "link": "https://zenodo.org/records/15172492",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -295,11 +295,11 @@
                 }   
             },
             {       
-                "name":"UAV Canyelles Vineyard Dataset 2024-07-31",
-                "author":" Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
-                "date":"2025-04-08",
-                "link":"https://zenodo.org/records/15166695",
-                "description":"Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
+                "name": "UAV Canyelles Vineyard Dataset 2024-07-31",
+                "author": "Esther Vera, Albert Pedraza, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-04-08",
+                "link": "https://zenodo.org/records/15166695",
+                "description": "Crop monitoring dataset generated with DJI Mavic 3M UAV and Metashape Agisoft that contains vineyard images and RGB and multispectral pointcloud data, orthomosaic images and the DEM. This data is aligned with the rest of UAV Canyelles Vineyard Datasets uploaded by Noumena (UC1), so different orthomosaics / pointclouds / DEM of different dates can be analyzed jointly for cropped and uncropped files.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
                             "coordinates (wgs84)": "41.288687, 1.713078",
@@ -313,11 +313,11 @@
     
     "UC2" :[
             {   
-                "name":"UAV Spraying Parameters-Coverage in Vineyards",
-                "author":"Vasilis Psiroukis",
-                "date":"2023-12-06",
-                "link":"https://zenodo.org/records/10276149",
-                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "name": "UAV Spraying Parameters-Coverage in Vineyards",
+                "author": "Vasilis Psiroukis",
+                "date": "2023-12-06",
+                "link": "https://zenodo.org/records/10276149",
+                "description": "A set of UAV spraying data collected using WSPs, across different parameter configurations.",
                 "parameters": {
                             "location": "Athens, Greece",
                             "coordinates (wgs84)": "",
@@ -327,11 +327,11 @@
                 }  
             }, 
             {   
-                "name":"UAV Spraying Parameters-Coverage in Vineyards (2024 Experimental Year)",
-                "author":"Vasilis Psiroukis",
-                "date":"2024-12-05",
-                "link":"https://zenodo.org/records/14280682",
-                "description":"A set of UAV spraying data collected using WSPs, across different parameter configurations.",
+                "name": "UAV Spraying Parameters-Coverage in Vineyards (2024 Experimental Year)",
+                "author": "Vasilis Psiroukis",
+                "date": "2024-12-05",
+                "link": "https://zenodo.org/records/14280682",
+                "description": "A set of UAV spraying data collected using WSPs, across different parameter configurations.",
                 "parameters": {
                             "location": "Athens, Greece",
                             "coordinates (wgs84)": "",
@@ -344,11 +344,11 @@
 
     "UC3": [
             {   
-                "name":"Drone raw images of cattle in french grazing areas",
-                "author":"Adrien Lebreton",
-                "date":"2023-08-10",
-                "link":"https://zenodo.org/records/8234156",
-                "description":"The dataset encompasses around 900 raw .jpeg drone images of grazing areas where cattle graze collected between June and August 2023."
+                "name": "Drone raw images of cattle in french grazing areas",
+                "author": "Adrien Lebreton",
+                "date": "2023-08-10",
+                "link": "https://zenodo.org/records/8234156",
+                "description": "The dataset encompasses around 900 raw .jpeg drone images of grazing areas where cattle graze collected between June and August 2023."
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
@@ -358,11 +358,11 @@
                 }  
             }, 
             {   
-                "name":"Sheep videos taken from drone at low altitude",
-                "author":"Adrien Lebreton, Louise Helary",
-                "date":"2023-12-18",
-                "link":"https://zenodo.org/records/10400302",
-                "description":"The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
+                "name": "Sheep videos taken from drone at low altitude",
+                "author": "Adrien Lebreton, Louise Helary",
+                "date": "2023-12-18",
+                "link": "https://zenodo.org/records/10400302",
+                "description": "The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
@@ -373,11 +373,11 @@
             }, 
 
             {   
-                "name":"Drone images and their annotations of grazing cows",
-                "author":"Adrien Lebreton, Louise Helary",
-                "date":"2024-04-24",
-                "link":"https://zenodo.org/records/11048412",
-                "description":"It contains 1385 images and 4941 bounding boxes of cows taken with a DJI Pilot 2 drone. This dataset is a major contribution for public and research stakeholders to develop cow detection and counting models."
+                "name": "Drone images and their annotations of grazing cows",
+                "author": "Adrien Lebreton, Louise Helary",
+                "date": "2024-04-24",
+                "link": "https://zenodo.org/records/11048412",
+                "description": "It contains 1385 images and 4941 bounding boxes of cows taken with a DJI Pilot 2 drone. This dataset is a major contribution for public and research stakeholders to develop cow detection and counting models."
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
@@ -387,11 +387,11 @@
                 }  
             }, 
             {   
-                "name":"Drone videos and their annotations of passing sheep (for counting purpose)",
-                "author":"Louise Helary, Kinsey Nnenna, Marta Kolodziejczyk, Jana Schewe, Léa Philip, Estelle Nicolas, Adrien Lebreton",
-                "date":"2024-06-18",
-                "link":"https://zenodo.org/records/12094356",
-                "description":"The dataset encompasses 4 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
+                "name": "Drone videos and their annotations of passing sheep (for counting purpose)",
+                "author": "Louise Helary, Kinsey Nnenna, Marta Kolodziejczyk, Jana Schewe, Léa Philip, Estelle Nicolas, Adrien Lebreton",
+                "date": "2024-06-18",
+                "link": "https://zenodo.org/records/12094356",
+                "description": "The dataset encompasses 4 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
@@ -401,11 +401,11 @@
                 }  
             },  
             {   
-                "name":"Aerial videos and images of goats (for computer vision purpose)",
-                "author":"Adrien Lebreton, Laurence Depuille, Estelle Nicolas, Louise Helary",
-                "date":"2025-01-03",
-                "link":"https://zenodo.org/records/14591324",
-                "description":"The dataset contains drone-captured videos and images from two goat farms in France, featuring varied settings and resolutions."
+                "name": "Aerial videos and images of goats (for computer vision purpose)",
+                "author": "Adrien Lebreton, Laurence Depuille, Estelle Nicolas, Louise Helary",
+                "date": "2025-01-03",
+                "link": "https://zenodo.org/records/14591324",
+                "description": "The dataset contains drone-captured videos and images from two goat farms in France, featuring varied settings and resolutions."
                 "parameters": {
                             "location": "Ardèche, France",
                             "coordinates (wgs84)": "",
@@ -415,11 +415,11 @@
                 }  
             }, 
             {   
-                "name":"Drone images and their annotations of goats/small ruminants (for computer vision purpose)",
-                "author":"Adrien Lebreton, Léane Duval, Laurence Depuille, Estelle Nicolas, Louise Helary",
-                "date":"2025-02-26",
-                "link":"https://zenodo.org/records/14929694",
-                "description":"This dataset includes annotated drone videos and images of sheep and goats with YOLO-labeled bounding boxes for computer vision detection."
+                "name": "Drone images and their annotations of goats/small ruminants (for computer vision purpose)",
+                "author": "Adrien Lebreton, Léane Duval, Laurence Depuille, Estelle Nicolas, Louise Helary",
+                "date": "2025-02-26",
+                "link": "https://zenodo.org/records/14929694",
+                "description": "This dataset includes annotated drone videos and images of sheep and goats with YOLO-labeled bounding boxes for computer vision detection."
                 "parameters": {
                             "location": "Ardèche, France",
                             "coordinates (wgs84)": "",
@@ -429,11 +429,11 @@
                 }  
             }, 
             {   
-                "name":"Drone videos and images of sheep in various conditions (for computer vision purpose)",
-                "author":"Adrien Lebreton, Coline Morin, Estelle Nicolas, Louise Helary",
-                "date":"2025-03-26",
-                "link":"https://zenodo.org/records/14967219",
-                "description":"Counting sheep and goats is a significant challenge for farmers managing flocks with hundreds of animals. Our objective is to develop a computer vision-based methodology to count sheep and goats as they pass through a corridor or gate. This approach utilizes low-altitude aerial videos (<15 m) recorded by drones."
+                "name": "Drone videos and images of sheep in various conditions (for computer vision purpose)",
+                "author": "Adrien Lebreton, Coline Morin, Estelle Nicolas, Louise Helary",
+                "date": "2025-03-26",
+                "link": "https://zenodo.org/records/14967219",
+                "description": "Counting sheep and goats is a significant challenge for farmers managing flocks with hundreds of animals. Our objective is to develop a computer vision-based methodology to count sheep and goats as they pass through a corridor or gate. This approach utilizes low-altitude aerial videos (<15 m) recorded by drones."
                 "parameters": {
                             "location": "Alpes de Haute Provence and Limousin, France",
                             "coordinates (wgs84)": "",
@@ -446,11 +446,11 @@
 
     "UC4": [
             {   
-                "name":"Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV",
-                "author":"BETAVIA",
-                "date":"2023-09-11",
-                "link":"https://zenodo.org/records/8333789",
-                "description":"Hyperspectral imaging acquired with UAV on different dates of a pine tree forest."
+                "name": "Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV",
+                "author": "BETAVIA",
+                "date": "2023-09-11",
+                "link": "https://zenodo.org/records/8333789",
+                "description": "Hyperspectral imaging acquired with UAV on different dates of a pine tree forest."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -460,11 +460,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with thermal camera over Lithuanian forests in winter for wild boar detection",
-                "author":"BETAVIA",
-                "date":"2024-07-15",
-                "link":"https://zenodo.org/records/12743334",
-                "description":"The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection"
+                "name": "Multiple DJI drone flights with thermal camera over Lithuanian forests in winter for wild boar detection",
+                "author": "BETAVIA",
+                "date": "2024-07-15",
+                "link": "https://zenodo.org/records/12743334",
+                "description": "The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection"
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -474,11 +474,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #1",
-                "author":"BETAVIA",
-                "date":"2024-09-27",
-                "link":"https://zenodo.org/records/13846686",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #1",
+                "author": "BETAVIA",
+                "date": "2024-09-27",
+                "link": "https://zenodo.org/records/13846686",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -488,11 +488,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #12",
-                "author":"BETAVIA",
-                "date":"2024-09-27",
-                "link":"https://zenodo.org/records/15063168",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #12",
+                "author": "BETAVIA",
+                "date": "2024-09-27",
+                "link": "https://zenodo.org/records/15063168",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -502,11 +502,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #11",
-                "author":"BETAVIA",
-                "date":"2025-03-21",
-                "link":"https://zenodo.org/records/15063160",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #11",
+                "author": "BETAVIA",
+                "date": "2025-03-21",
+                "link": "https://zenodo.org/records/15063160",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -516,11 +516,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #10",
-                "author":"BETAVIA",
-                "date":"2025-03-21",
-                "link":"https://zenodo.org/records/15063121",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #10",
+                "author": "BETAVIA",
+                "date": "2025-03-21",
+                "link": "https://zenodo.org/records/15063121",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -530,11 +530,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #9",
-                "author":"BETAVIA",
-                "date":"2025-03-21",
-                "link":"https://zenodo.org/records/15063049",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #9",
+                "author": "BETAVIA",
+                "date": "2025-03-21",
+                "link": "https://zenodo.org/records/15063049",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -544,11 +544,11 @@
                 }  
             },          
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #8",
-                "author":"BETAVIA",
-                "date":"2025-03-21",
-                "link":"https://zenodo.org/records/15063013",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #8",
+                "author": "BETAVIA",
+                "date": "2025-03-21",
+                "link": "https://zenodo.org/records/15063013",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -558,11 +558,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #7",
-                "author":"BETAVIA",
-                "date":"2025-03-21",
-                "link":"https://zenodo.org/records/15062953",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #7",
+                "author": "BETAVIA",
+                "date": "2025-03-21",
+                "link": "https://zenodo.org/records/15062953",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -572,11 +572,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #5",
-                "author":"BETAVIA",
-                "date":"2024-12-20",
-                "link":"https://zenodo.org/records/14535422",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #5",
+                "author": "BETAVIA",
+                "date": "2024-12-20",
+                "link": "https://zenodo.org/records/14535422",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -586,11 +586,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #6",
-                "author":"BETAVIA",
-                "date":"2024-12-20",
-                "link":"https://zenodo.org/records/14535456",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #6",
+                "author": "BETAVIA",
+                "date": "2024-12-20",
+                "link": "https://zenodo.org/records/14535456",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -600,11 +600,11 @@
                 }  
             }, 
             {   
-                "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #4",
-                "author":"ART21",
-                "date":"2024-12-20",
-                "link":"https://zenodo.org/records/14535368",
-                "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #4",
+                "author": "ART21",
+                "date": "2024-12-20",
+                "link": "https://zenodo.org/records/14535368",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -617,11 +617,11 @@
 
     "UC5" :[
             {   
-                "name":"Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)",
-                "author":"GEOSENSE, AGFUTURA",
-                "date":"2024-07-26",
-                "link":"https://zenodo.org/records/12909590",
-                "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
+                "name": "Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)",
+                "author": "GEOSENSE, AGFUTURA",
+                "date": "2024-07-26",
+                "link": "https://zenodo.org/records/12909590",
+                "description": "A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
@@ -631,11 +631,11 @@
                 }  
             },   
             {   
-                "name":"Photogrammetry Orthomosaic and Digital Surface Model 2 (Strumica, North Macedonia)",
-                "author":"GEOSENSE",
-                "date":"2024-10-24",
-                "link":"https://zenodo.org/records/12772799",
-                "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
+                "name": "Photogrammetry Orthomosaic and Digital Surface Model 2 (Strumica, North Macedonia)",
+                "author": "GEOSENSE",
+                "date": "2024-10-24",
+                "link": "https://zenodo.org/records/12772799",
+                "description": "A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
@@ -645,11 +645,11 @@
                 }  
             }, 
             {   
-               "name":"ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas",
-                "author":"GEOSENSE",
-                "date":"2024-12-11",
-                "link":"https://zenodo.org/records/12909590",
-                "description":"Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform."
+               "name": "ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas",
+                "author": "GEOSENSE",
+                "date": "2024-12-11",
+                "link": "https://zenodo.org/records/12909590",
+                "description": "Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform."
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
@@ -662,11 +662,11 @@
 
     "OCT - Agrobit Srl": [
                           {   
-                            "name":"UAV AgroTwin Vineyard Dataset 2024",
-                            "author":"Simone Kartsiotis, Antonio Donnangelo",
-                            "date":"2024-06-19",
-                            "link":"https://zenodo.org/records/12168516",
-                            "description":"The datasets contains RGB images and pointclouds of a vineyard field."
+                            "name": "UAV AgroTwin Vineyard Dataset 2024",
+                            "author": "Simone Kartsiotis, Antonio Donnangelo",
+                            "date": "2024-06-19",
+                            "link": "https://zenodo.org/records/12168516",
+                            "description": "The datasets contains RGB images and pointclouds of a vineyard field."
                             "parameters": {
                                         "location": "Strumica, North Macedonia",
                                         "coordinates (wgs84)": "",
@@ -679,11 +679,11 @@
     
     "OCT - TAAL": [
                     {   
-                        "name":"3D cloud reconstruction and 2D NDVI index",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-26",
-                        "link":"https://zenodo.org/records/12954801",
-                        "description":"The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove."
+                        "name": "3D cloud reconstruction and 2D NDVI index",
+                        "author": "Taal S.r.l.",
+                        "date": "2024-07-26",
+                        "link": "https://zenodo.org/records/12954801",
+                        "description": "The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove."
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -693,11 +693,11 @@
                         }  
                     }, 
                     {   
-                        "name":"raw drone sensing data - 1",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-26",
-                        "link":"https://zenodo.org/records/12943015",
-                        "description":"It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
+                        "name": "raw drone sensing data - 1",
+                        "author": "Taal S.r.l.",
+                        "date": "2024-07-26",
+                        "link": "https://zenodo.org/records/12943015",
+                        "description": "It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -707,11 +707,11 @@
                         }  
                     },  
                     {   
-                        "name":"raw drone sensing data - 2",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-26",
-                        "link":"https://zenodo.org/records/12924461",
-                        "description":"It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
+                        "name": "raw drone sensing data - 2",
+                        "author": "Taal S.r.l.",
+                        "date": "2024-07-26",
+                        "link": "https://zenodo.org/records/12924461",
+                        "description": "It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -721,11 +721,11 @@
                         }  
                     }, 
                     {   
-                        "name":"Ground Truth Data",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-29",
-                        "link":"https://zenodo.org/records/13120763",
-                        "description":"The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files."
+                        "name": "Ground Truth Data",
+                        "author": "Taal S.r.l.",
+                        "date": "2024-07-29",
+                        "link": "https://zenodo.org/records/13120763",
+                        "description": "The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files."
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -735,11 +735,11 @@
                         }   
                     }, 
                     {   
-                        "name":"Tree detected",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-29",
-                        "link":"https://zenodo.org/records/13121962",
-                        "description":"The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models."
+                        "name": "Tree detected",
+                        "author": "Taal S.r.l.",
+                        "date": "2024-07-29",
+                        "link": "https://zenodo.org/records/13121962",
+                        "description": "The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models."
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -749,11 +749,11 @@
                         }   
                     }, 
                     {   
-                        "name":"Plant Health Status",
-                        "author":"Taal S.r.l.",
-                        "date":"2024-07-30",
-                        "link":"https://zenodo.org/records/13132625",
-                        "description":"This dataset contains the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees."
+                        "name": "Plant Health Status",
+                        "author": "Taal S.r.l.",
+                        "date": "2024-07-30",
+                        "link": "https://zenodo.org/records/13132625",
+                        "description": "This dataset contains the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees."
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -766,11 +766,11 @@
 
     "OCT - SHIELD": [
                      {   
-                        "name":"SHIELD Demonstrations Dataset",
-                        "author":"Obsidian Innovation Institute - Associação",
-                        "date":"2024-07-31",
-                        "link":"https://zenodo.org/records/13146217",
-                        "description":"This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios."
+                        "name": "SHIELD Demonstrations Dataset",
+                        "author": "Obsidian Innovation Institute - Associação",
+                        "date": "2024-07-31",
+                        "link": "https://zenodo.org/records/13146217",
+                        "description": "This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios."
                         "parameters": {
                                     "location": "Portugal",
                                     "coordinates (wgs84)": "",
@@ -782,11 +782,11 @@
                    ],
     "OCT - DAEPHC": [
                      {   
-                        "name":"Datasets from hop field 3 (orthomosaic of RGB, multispectral band and thermal sensor) from July 5 2024",
-                        "author":"Matej Knapic",
-                        "date":"2025-04-25",
-                        "link":"https://zenodo.org/records/15280042",
-                        "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "name": "Datasets from hop field 3 (orthomosaic of RGB, multispectral band and thermal sensor) from July 5 2024",
+                        "author": "Matej Knapic",
+                        "date": "2025-04-25",
+                        "link": "https://zenodo.org/records/15280042",
+                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
                         "parameters": {
                                     "location": "Slovenia",
                                     "coordinates (wgs84)": "",
@@ -796,11 +796,11 @@
                         }   
                      }, 
                      {   
-                        "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
-                        "author":"Matej Knapic",
-                        "date":"2025-04-25",
-                        "link":"https://zenodo.org/records/14761567",
-                        "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "name": "Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                        "author": "Matej Knapic",
+                        "date": "2025-04-25",
+                        "link": "https://zenodo.org/records/14761567",
+                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
                         "parameters": {
                                     "location": "Slovenia",
                                     "coordinates (wgs84)": "",
@@ -810,11 +810,11 @@
                         }   
                     }, 
                     {   
-                        "name":"Datasets from hop field 1 (orthomosaic of RGB, multispectral band and thermal sensor) from June 28  2024",
-                        "author":"Matej Knapic",
-                        "date":"2025-04-25",
-                        "link":"https://zenodo.org/records/14731003",
-                        "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "name": "Datasets from hop field 1 (orthomosaic of RGB, multispectral band and thermal sensor) from June 28  2024",
+                        "author": "Matej Knapic",
+                        "date": "2025-04-25",
+                        "link": "https://zenodo.org/records/14731003",
+                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
                         "parameters": {
                                 "location": "Slovenia",
                                 "coordinates (wgs84)": "",
@@ -826,11 +826,11 @@
                       ],
     "OCT - LowAltitude": [
                           {   
-                            "name":"Multispectral imaging of a UK Vineyard June 24, part 1",
-                            "author":"Chris Crane",
-                            "date":"2024-06-02",
-                            "link":"https://zenodo.org/records/14328464",
-                            "description":"A dataset of multipectral images and drone flight logs."
+                            "name": "Multispectral imaging of a UK Vineyard June 24, part 1",
+                            "author": "Chris Crane",
+                            "date": "2024-06-02",
+                            "link": "https://zenodo.org/records/14328464",
+                            "description": "A dataset of multipectral images and drone flight logs."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -840,11 +840,11 @@
                             }   
                           }, 
                           {   
-                            "name":"Multispectral data set of a UK Vineyard June 2024 part 2",
-                            "author":"Chris Crane",
-                            "date":"2024-06-02",
-                            "link":"https://zenodo.org/records/14334273",
-                            "description":"Part 2 of the multispectral dataset that contains images and drone flight logs."
+                            "name": "Multispectral data set of a UK Vineyard June 2024 part 2",
+                            "author": "Chris Crane",
+                            "date": "2024-06-02",
+                            "link": "https://zenodo.org/records/14334273",
+                            "description": "Part 2 of the multispectral dataset that contains images and drone flight logs."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -854,11 +854,11 @@
                             }   
                           }, 
                           {   
-                            "name":"Multispectral dataset of a Vineyard, UK, July 2024 Part 1 and 2",
-                            "author":"Chris Crane",
-                            "date":"2024-07-07",
-                            "link":"https://zenodo.org/records/14281334",
-                            "description":"Parts 1 and 2 of multispectral dataset, along with drone flight files."
+                            "name": "Multispectral dataset of a Vineyard, UK, July 2024 Part 1 and 2",
+                            "author": "Chris Crane",
+                            "date": "2024-07-07",
+                            "link": "https://zenodo.org/records/14281334",
+                            "description": "Parts 1 and 2 of multispectral dataset, along with drone flight files."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -868,11 +868,11 @@
                             }   
                           }, 
                           {   
-                            "name":"Multispectral dataset of vineyard, July 24 Part 3",
-                            "author":"Chris Crane",
-                            "date":"2024-07-14",
-                            "link":"https://zenodo.org/records/14284315",
-                            "description":"Part 3 of multispectral dataset, along with drone flight logs."                            
+                            "name": "Multispectral dataset of vineyard, July 24 Part 3",
+                            "author": "Chris Crane",
+                            "date": "2024-07-14",
+                            "link": "https://zenodo.org/records/14284315",
+                            "description": "Part 3 of multispectral dataset, along with drone flight logs."                            
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -882,11 +882,11 @@
                             }   
                           }, 
                           {   
-                            "name":"Lidar files generated from UAV flight over vineyard trial block",
-                            "author":"Chris Crane",
-                            "date":"2024-07-14",
-                            "link":"https://zenodo.org/records/14266547",
-                            "description":"Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone."
+                            "name": "Lidar files generated from UAV flight over vineyard trial block",
+                            "author": "Chris Crane",
+                            "date": "2024-07-14",
+                            "link": "https://zenodo.org/records/14266547",
+                            "description": "Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -896,11 +896,11 @@
                             }   
                           }, 
                           {   
-                            "name":"GeoTIFF for Vineyard, generated from Multispectral survey; Part 1",
-                            "author":"Chris Crane",
-                            "date":"2024-07-14",
-                            "link":"https://zenodo.org/records/14355958",
-                            "description":"The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
+                            "name": "GeoTIFF for Vineyard, generated from Multispectral survey; Part 1",
+                            "author": "Chris Crane",
+                            "date": "2024-07-14",
+                            "link": "https://zenodo.org/records/14355958",
+                            "description": "The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -910,11 +910,11 @@
                             }   
                           }, 
                           {   
-                            "name":"Lidar data set of a vineyard",
-                            "author":"Chris Crane",
-                            "date":"2024-08-16",
-                            "link":"https://zenodo.org/records/14269622",
-                            "description":"Lidar files for a full vineyard, that can be used to create a 3d model."
+                            "name": "Lidar data set of a vineyard",
+                            "author": "Chris Crane",
+                            "date": "2024-08-16",
+                            "link": "https://zenodo.org/records/14269622",
+                            "description": "Lidar files for a full vineyard, that can be used to create a 3d model."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -924,11 +924,11 @@
                             }   
                           }, 
                           {   
-                            "name":"Multispectral data set including images and drone logs, vineyard, September 2024: PART 1",
-                            "author":"Chris Crane",
-                            "date":"2024-09-01",
-                            "link":"https://zenodo.org/records/14274523",
-                            "description":"Multispectral data including drone log files of a UK vineyard."
+                            "name": "Multispectral data set including images and drone logs, vineyard, September 2024: PART 1",
+                            "author": "Chris Crane",
+                            "date": "2024-09-01",
+                            "link": "https://zenodo.org/records/14274523",
+                            "description": "Multispectral data including drone log files of a UK vineyard."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -938,11 +938,11 @@
                             }   
                           }, 
                           {   
-                            "name":"Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3",
-                            "author":"Chris Crane",
-                            "date":"2024-09-01",
-                            "link":"https://zenodo.org/records/14278527",
-                            "description":"Multispectral and RGB image datasets, parts 2 and 3."
+                            "name": "Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3",
+                            "author": "Chris Crane",
+                            "date": "2024-09-01",
+                            "link": "https://zenodo.org/records/14278527",
+                            "description": "Multispectral and RGB image datasets, parts 2 and 3."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -952,11 +952,11 @@
                             }   
                           }, 
                           {   
-                            "name":"GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2",
-                            "author":"Chris Crane",
-                            "date":"2024-09-01",
-                            "link":"https://zenodo.org/records/14360892",
-                            "description":"The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
+                            "name": "GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2",
+                            "author": "Chris Crane",
+                            "date": "2024-09-01",
+                            "link": "https://zenodo.org/records/14360892",
+                            "description": "The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -966,11 +966,11 @@
                             }   
                           }, 
                           {   
-                            "name":"Vineyard block boundaries",
-                            "author":"Chris Crane",
-                            "date":"2024-12-10",
-                            "link":"https://zenodo.org/records/14354921",
-                            "description":"Zip file of vineyard block boundaries in various file types, including shape."
+                            "name": "Vineyard block boundaries",
+                            "author": "Chris Crane",
+                            "date": "2024-12-10",
+                            "link": "https://zenodo.org/records/14354921",
+                            "description": "Zip file of vineyard block boundaries in various file types, including shape."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -980,11 +980,11 @@
                             }   
                          }, 
                          {   
-                            "name":"PDF reports showing outcome of multispectral survey of Vineyard",
-                            "author":"Chris Crane",
-                            "date":"2024-12-10",
-                            "link":"https://zenodo.org/records/14354749",
-                            "description":"The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted."
+                            "name": "PDF reports showing outcome of multispectral survey of Vineyard",
+                            "author": "Chris Crane",
+                            "date": "2024-12-10",
+                            "link": "https://zenodo.org/records/14354749",
+                            "description": "The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted."
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -997,11 +997,11 @@
 
     "OCT - InnovPlantProtect": [
                                 {   
-                                    "name":"Raw DJI Mavic 3M RTK RGB and Multispectral drone imagery collected on 2024-05-28",
-                                    "author":"iLaria Marengo, Nuno Faria",
-                                    "date":"2024-01-06",
-                                    "link":"https://zenodo.org/records/14604638",
-                                    "description":"High-resolution RGB and multispectral drone imagery of six Alentejo vineyards, collected in 2024 and georeferenced manually."
+                                    "name": "Raw DJI Mavic 3M RTK RGB and Multispectral drone imagery collected on 2024-05-28",
+                                    "author": "iLaria Marengo, Nuno Faria",
+                                    "date": "2024-01-06",
+                                    "link": "https://zenodo.org/records/14604638",
+                                    "description": "High-resolution RGB and multispectral drone imagery of six Alentejo vineyards, collected in 2024 and georeferenced manually."
                                     "parameters": {
                                                 "location": "Alentejo, Portugal",
                                                 "coordinates (wgs84)": "",
@@ -1011,11 +1011,11 @@
                                     }   
                                 }, 
                                 {   
-                                    "name":"RGB and Multispectral orthomosaics obtained by processing raw imagery (dated 20240528) in webODM software",
-                                    "author":"iLaria Marengo, Nuno Faria",
-                                    "date":"2024-01-06",
-                                    "link":"https://zenodo.org/records/14605551",
-                                    "description":"RGB and multispectral orthomosaics of six Alentejo vineyards, processed with webODM for stress and productivity analysis."
+                                    "name": "RGB and Multispectral orthomosaics obtained by processing raw imagery (dated 20240528) in webODM software",
+                                    "author": "iLaria Marengo, Nuno Faria",
+                                    "date": "2024-01-06",
+                                    "link": "https://zenodo.org/records/14605551",
+                                    "description": "RGB and multispectral orthomosaics of six Alentejo vineyards, processed with webODM for stress and productivity analysis."
                                     "parameters": {
                                             "location": "Alentejo, Portugal",
                                             "coordinates (wgs84)": "",
@@ -1025,10 +1025,10 @@
                                     }     
                                   }
                                   {   
-                                    "name":"Input and output datasets for training the AI-based vine segmentation model (YOLOv9)",
-                                    "author":"iLaria Marengo, Nuno Faria",
-                                    "date":"2024-01-06",
-                                    "link":"https://zenodo.org/records/14605849",
+                                    "name": "Input and output datasets for training the AI-based vine segmentation model (YOLOv9)",
+                                    "author": "iLaria Marengo, Nuno Faria",
+                                    "date": "2024-01-06",
+                                    "link": "https://zenodo.org/records/14605849",
                                     "description": "It contains RGB orthomosaics and 5x5 m vector cells as inputs, with YOLOv9 segmentation outputs including vine polygons and vegetation index rasters."
                                         "parameters": {
                                                 "location": "Alentejo, Portugal",
@@ -1114,7 +1114,7 @@
                 {
                     "name": "Haus Riswick grassland experiment with N fertilization and plant growth monitoring based on Unmanned Aerial Vehicle (UAV) hyperspectral imagery - campaigns of 2014 and 2017",
                     "author": "Lammert Kooistra, Marston H D Franceschini, Rolf Becker, Florian Wichern, J.M. (Juha) Suomalainen, Harm Bartholomeus, Alessandra Capolupo",
-                    "date":"2022-02-25", 
+                    "date": "2022-02-25", 
                     "link": "https://doi.org/10.4121/19188872.v1",
                     "description": "This dataset contains UAV hyperspectral imagery and field measurements of dry aboveground biomass, nitrogen content (N%), and nitrogen uptake from experimental grassland plots near Kleve, Germany. Data were collected during five campaigns on two dates in 2014 and three dates in 2017. The UAV flights used the WageningenUR Hyperspectral Mapping System (HYMSY) with a pushbroom imaging sensor and a photogrammetric camera.",
                     "parameters": {
