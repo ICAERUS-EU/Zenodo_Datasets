@@ -31,19 +31,19 @@
 
 {
     "UARSF": [
-        {
-            "name": "Dataset name",
-            "author": "Author1, Author2, Author3", 
-            "date": "20/07/2025",
-            "link": "https://example.com",
-            "description": "A brief description of the dataset and its purpose.",
-            "parameters": {
-                "location": "Location description or coordinates: Location, Country",
-                "coordinates (wgs84)": "Latitude, Longitude",
-                "sensor type": ["RGB", "Multispectral", "Thermal", "Hyperspectral", "LiDAR", "TLS"],
-                "contents": "A brief summary of the data contents and measurements",
-                "labels": "Yes" or "No"
-            }
-        }
-    ]
+                {
+                    "name": "Dataset name",
+                    "author": "Author1, Author2, Author3", 
+                    "date": "20/07/2025",
+                    "link": "https://example.com",
+                    "description": "A brief description of the dataset and its purpose.",
+                    "parameters": {
+                        "location": "Location description or coordinates: Location, Country",
+                        "coordinates (wgs84)": "Latitude, Longitude",
+                        "sensor type": ["RGB", "Multispectral", "Thermal", "Hyperspectral", "LiDAR", "TLS"],
+                        "contents": "A brief summary of the data contents and measurements",
+                        "labels": "Yes" or "No"
+                    }
+                }
+            ]
 }
