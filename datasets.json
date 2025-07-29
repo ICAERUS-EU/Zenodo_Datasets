@@ -348,7 +348,7 @@
                 "author": "Adrien Lebreton",
                 "date": "2023-08-10",
                 "link": "https://zenodo.org/records/8234156",
-                "description": "The dataset encompasses around 900 raw .jpeg drone images of grazing areas where cattle graze collected between June and August 2023."
+                "description": "The dataset encompasses around 900 raw .jpeg drone images of grazing areas where cattle graze collected between June and August 2023.",
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
@@ -362,7 +362,7 @@
                 "author": "Adrien Lebreton, Louise Helary",
                 "date": "2023-12-18",
                 "link": "https://zenodo.org/records/10400302",
-                "description": "The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
+                "description": "The dataset encompasses 16 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate.",
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
@@ -377,7 +377,7 @@
                 "author": "Adrien Lebreton, Louise Helary",
                 "date": "2024-04-24",
                 "link": "https://zenodo.org/records/11048412",
-                "description": "It contains 1385 images and 4941 bounding boxes of cows taken with a DJI Pilot 2 drone. This dataset is a major contribution for public and research stakeholders to develop cow detection and counting models."
+                "description": "It contains 1385 images and 4941 bounding boxes of cows taken with a DJI Pilot 2 drone. This dataset is a major contribution for public and research stakeholders to develop cow detection and counting models.",
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
@@ -391,7 +391,7 @@
                 "author": "Louise Helary, Kinsey Nnenna, Marta Kolodziejczyk, Jana Schewe, Léa Philip, Estelle Nicolas, Adrien Lebreton",
                 "date": "2024-06-18",
                 "link": "https://zenodo.org/records/12094356",
-                "description": "The dataset encompasses 4 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate."
+                "description": "The dataset encompasses 4 .MP4 videos from drone (DJI mavic 3 Enterprise or Thermal) of around 50 sheep crossing a gate.",
                 "parameters": {
                             "location": "France",
                             "coordinates (wgs84)": "",
@@ -405,7 +405,7 @@
                 "author": "Adrien Lebreton, Laurence Depuille, Estelle Nicolas, Louise Helary",
                 "date": "2025-01-03",
                 "link": "https://zenodo.org/records/14591324",
-                "description": "The dataset contains drone-captured videos and images from two goat farms in France, featuring varied settings and resolutions."
+                "description": "The dataset contains drone-captured videos and images from two goat farms in France, featuring varied settings and resolutions.",
                 "parameters": {
                             "location": "Ardèche, France",
                             "coordinates (wgs84)": "",
@@ -419,7 +419,7 @@
                 "author": "Adrien Lebreton, Léane Duval, Laurence Depuille, Estelle Nicolas, Louise Helary",
                 "date": "2025-02-26",
                 "link": "https://zenodo.org/records/14929694",
-                "description": "This dataset includes annotated drone videos and images of sheep and goats with YOLO-labeled bounding boxes for computer vision detection."
+                "description": "This dataset includes annotated drone videos and images of sheep and goats with YOLO-labeled bounding boxes for computer vision detection.",
                 "parameters": {
                             "location": "Ardèche, France",
                             "coordinates (wgs84)": "",
@@ -433,7 +433,7 @@
                 "author": "Adrien Lebreton, Coline Morin, Estelle Nicolas, Louise Helary",
                 "date": "2025-03-26",
                 "link": "https://zenodo.org/records/14967219",
-                "description": "Counting sheep and goats is a significant challenge for farmers managing flocks with hundreds of animals. Our objective is to develop a computer vision-based methodology to count sheep and goats as they pass through a corridor or gate. This approach utilizes low-altitude aerial videos (<15 m) recorded by drones."
+                "description": "Counting sheep and goats is a significant challenge for farmers managing flocks with hundreds of animals. Our objective is to develop a computer vision-based methodology to count sheep and goats as they pass through a corridor or gate. This approach utilizes low-altitude aerial videos (<15 m) recorded by drones.",
                 "parameters": {
                             "location": "Alpes de Haute Provence and Limousin, France",
                             "coordinates (wgs84)": "",
@@ -450,7 +450,7 @@
                 "author": "BETAVIA",
                 "date": "2023-09-11",
                 "link": "https://zenodo.org/records/8333789",
-                "description": "Hyperspectral imaging acquired with UAV on different dates of a pine tree forest."
+                "description": "Hyperspectral imaging acquired with UAV on different dates of a pine tree forest.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -464,7 +464,7 @@
                 "author": "BETAVIA",
                 "date": "2024-07-15",
                 "link": "https://zenodo.org/records/12743334",
-                "description": "The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection"
+                "description": "The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -478,7 +478,7 @@
                 "author": "BETAVIA",
                 "date": "2024-09-27",
                 "link": "https://zenodo.org/records/13846686",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -492,7 +492,7 @@
                 "author": "BETAVIA",
                 "date": "2024-09-27",
                 "link": "https://zenodo.org/records/15063168",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -506,7 +506,7 @@
                 "author": "BETAVIA",
                 "date": "2025-03-21",
                 "link": "https://zenodo.org/records/15063160",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -520,7 +520,7 @@
                 "author": "BETAVIA",
                 "date": "2025-03-21",
                 "link": "https://zenodo.org/records/15063121",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -534,7 +534,7 @@
                 "author": "BETAVIA",
                 "date": "2025-03-21",
                 "link": "https://zenodo.org/records/15063049",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -548,7 +548,7 @@
                 "author": "BETAVIA",
                 "date": "2025-03-21",
                 "link": "https://zenodo.org/records/15063013",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -562,7 +562,7 @@
                 "author": "BETAVIA",
                 "date": "2025-03-21",
                 "link": "https://zenodo.org/records/15062953",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -576,7 +576,7 @@
                 "author": "BETAVIA",
                 "date": "2024-12-20",
                 "link": "https://zenodo.org/records/14535422",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -590,7 +590,7 @@
                 "author": "BETAVIA",
                 "date": "2024-12-20",
                 "link": "https://zenodo.org/records/14535456",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -604,7 +604,7 @@
                 "author": "ART21",
                 "date": "2024-12-20",
                 "link": "https://zenodo.org/records/14535368",
-                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
                 "parameters": {
                             "location": "Lithuania",
                             "coordinates (wgs84)": "",
@@ -621,7 +621,7 @@
                 "author": "GEOSENSE, AGFUTURA",
                 "date": "2024-07-26",
                 "link": "https://zenodo.org/records/12909590",
-                "description": "A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
+                "description": "A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM).",
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
@@ -635,7 +635,7 @@
                 "author": "GEOSENSE",
                 "date": "2024-10-24",
                 "link": "https://zenodo.org/records/12772799",
-                "description": "A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
+                "description": "A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM).",
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
@@ -649,7 +649,7 @@
                 "author": "GEOSENSE",
                 "date": "2024-12-11",
                 "link": "https://zenodo.org/records/12909590",
-                "description": "Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform."
+                "description": "Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform.",
                 "parameters": {
                             "location": "Strumica, North Macedonia",
                             "coordinates (wgs84)": "",
@@ -666,7 +666,7 @@
                             "author": "Simone Kartsiotis, Antonio Donnangelo",
                             "date": "2024-06-19",
                             "link": "https://zenodo.org/records/12168516",
-                            "description": "The datasets contains RGB images and pointclouds of a vineyard field."
+                            "description": "The datasets contains RGB images and pointclouds of a vineyard field.",
                             "parameters": {
                                         "location": "Strumica, North Macedonia",
                                         "coordinates (wgs84)": "",
@@ -683,7 +683,7 @@
                         "author": "Taal S.r.l.",
                         "date": "2024-07-26",
                         "link": "https://zenodo.org/records/12954801",
-                        "description": "The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove."
+                        "description": "The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove.",
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -697,7 +697,7 @@
                         "author": "Taal S.r.l.",
                         "date": "2024-07-26",
                         "link": "https://zenodo.org/records/12943015",
-                        "description": "It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
+                        "description": "It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders.",
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -711,7 +711,7 @@
                         "author": "Taal S.r.l.",
                         "date": "2024-07-26",
                         "link": "https://zenodo.org/records/12924461",
-                        "description": "It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
+                        "description": "It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders.",
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -725,7 +725,7 @@
                         "author": "Taal S.r.l.",
                         "date": "2024-07-29",
                         "link": "https://zenodo.org/records/13120763",
-                        "description": "The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files."
+                        "description": "The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files.",
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -739,7 +739,7 @@
                         "author": "Taal S.r.l.",
                         "date": "2024-07-29",
                         "link": "https://zenodo.org/records/13121962",
-                        "description": "The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models."
+                        "description": "The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models.",
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -753,7 +753,7 @@
                         "author": "Taal S.r.l.",
                         "date": "2024-07-30",
                         "link": "https://zenodo.org/records/13132625",
-                        "description": "This dataset contains the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees."
+                        "description": "This dataset contains the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees.",
                         "parameters": {
                                     "location": "Rome, Italy",
                                     "coordinates (wgs84)": "",
@@ -770,7 +770,7 @@
                         "author": "Obsidian Innovation Institute - Associação",
                         "date": "2024-07-31",
                         "link": "https://zenodo.org/records/13146217",
-                        "description": "This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios."
+                        "description": "This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios.",
                         "parameters": {
                                     "location": "Portugal",
                                     "coordinates (wgs84)": "",
@@ -786,7 +786,7 @@
                         "author": "Matej Knapic",
                         "date": "2025-04-25",
                         "link": "https://zenodo.org/records/15280042",
-                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794.",
                         "parameters": {
                                     "location": "Slovenia",
                                     "coordinates (wgs84)": "",
@@ -800,7 +800,7 @@
                         "author": "Matej Knapic",
                         "date": "2025-04-25",
                         "link": "https://zenodo.org/records/14761567",
-                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794.",
                         "parameters": {
                                     "location": "Slovenia",
                                     "coordinates (wgs84)": "",
@@ -814,7 +814,7 @@
                         "author": "Matej Knapic",
                         "date": "2025-04-25",
                         "link": "https://zenodo.org/records/14731003",
-                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "description": "The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794.",
                         "parameters": {
                                 "location": "Slovenia",
                                 "coordinates (wgs84)": "",
@@ -844,7 +844,7 @@
                             "author": "Chris Crane",
                             "date": "2024-06-02",
                             "link": "https://zenodo.org/records/14334273",
-                            "description": "Part 2 of the multispectral dataset that contains images and drone flight logs."
+                            "description": "Part 2 of the multispectral dataset that contains images and drone flight logs.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -858,7 +858,7 @@
                             "author": "Chris Crane",
                             "date": "2024-07-07",
                             "link": "https://zenodo.org/records/14281334",
-                            "description": "Parts 1 and 2 of multispectral dataset, along with drone flight files."
+                            "description": "Parts 1 and 2 of multispectral dataset, along with drone flight files.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -872,7 +872,7 @@
                             "author": "Chris Crane",
                             "date": "2024-07-14",
                             "link": "https://zenodo.org/records/14284315",
-                            "description": "Part 3 of multispectral dataset, along with drone flight logs."                            
+                            "description": "Part 3 of multispectral dataset, along with drone flight logs.",                           
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -886,7 +886,7 @@
                             "author": "Chris Crane",
                             "date": "2024-07-14",
                             "link": "https://zenodo.org/records/14266547",
-                            "description": "Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone."
+                            "description": "Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -900,7 +900,7 @@
                             "author": "Chris Crane",
                             "date": "2024-07-14",
                             "link": "https://zenodo.org/records/14355958",
-                            "description": "The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
+                            "description": "The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -914,7 +914,7 @@
                             "author": "Chris Crane",
                             "date": "2024-08-16",
                             "link": "https://zenodo.org/records/14269622",
-                            "description": "Lidar files for a full vineyard, that can be used to create a 3d model."
+                            "description": "Lidar files for a full vineyard, that can be used to create a 3d model.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -928,7 +928,7 @@
                             "author": "Chris Crane",
                             "date": "2024-09-01",
                             "link": "https://zenodo.org/records/14274523",
-                            "description": "Multispectral data including drone log files of a UK vineyard."
+                            "description": "Multispectral data including drone log files of a UK vineyard.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -942,7 +942,7 @@
                             "author": "Chris Crane",
                             "date": "2024-09-01",
                             "link": "https://zenodo.org/records/14278527",
-                            "description": "Multispectral and RGB image datasets, parts 2 and 3."
+                            "description": "Multispectral and RGB image datasets, parts 2 and 3.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -956,7 +956,7 @@
                             "author": "Chris Crane",
                             "date": "2024-09-01",
                             "link": "https://zenodo.org/records/14360892",
-                            "description": "The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
+                            "description": "The GeoTiffs created from each vegetation index, as an output of the multispectral surveys.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -970,7 +970,7 @@
                             "author": "Chris Crane",
                             "date": "2024-12-10",
                             "link": "https://zenodo.org/records/14354921",
-                            "description": "Zip file of vineyard block boundaries in various file types, including shape."
+                            "description": "Zip file of vineyard block boundaries in various file types, including shape.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -984,7 +984,7 @@
                             "author": "Chris Crane",
                             "date": "2024-12-10",
                             "link": "https://zenodo.org/records/14354749",
-                            "description": "The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted."
+                            "description": "The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted.",
                             "parameters": {
                                         "location": "UK",
                                         "coordinates (wgs84)": "",
@@ -1001,7 +1001,7 @@
                                     "author": "iLaria Marengo, Nuno Faria",
                                     "date": "2024-01-06",
                                     "link": "https://zenodo.org/records/14604638",
-                                    "description": "High-resolution RGB and multispectral drone imagery of six Alentejo vineyards, collected in 2024 and georeferenced manually."
+                                    "description": "High-resolution RGB and multispectral drone imagery of six Alentejo vineyards, collected in 2024 and georeferenced manually.",
                                     "parameters": {
                                                 "location": "Alentejo, Portugal",
                                                 "coordinates (wgs84)": "",
@@ -1015,7 +1015,7 @@
                                     "author": "iLaria Marengo, Nuno Faria",
                                     "date": "2024-01-06",
                                     "link": "https://zenodo.org/records/14605551",
-                                    "description": "RGB and multispectral orthomosaics of six Alentejo vineyards, processed with webODM for stress and productivity analysis."
+                                    "description": "RGB and multispectral orthomosaics of six Alentejo vineyards, processed with webODM for stress and productivity analysis.",
                                     "parameters": {
                                             "location": "Alentejo, Portugal",
                                             "coordinates (wgs84)": "",
@@ -1029,7 +1029,7 @@
                                     "author": "iLaria Marengo, Nuno Faria",
                                     "date": "2024-01-06",
                                     "link": "https://zenodo.org/records/14605849",
-                                    "description": "It contains RGB orthomosaics and 5x5 m vector cells as inputs, with YOLOv9 segmentation outputs including vine polygons and vegetation index rasters."
+                                    "description": "It contains RGB orthomosaics and 5x5 m vector cells as inputs, with YOLOv9 segmentation outputs including vine polygons and vegetation index rasters.",
                                         "parameters": {
                                                 "location": "Alentejo, Portugal",
                                                 "coordinates (wgs84)": "",
