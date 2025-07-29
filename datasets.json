@@ -410,7 +410,7 @@
                             "location": "Ardèche, France",
                             "coordinates (wgs84)": "",
                             "sensor type": ["RGB"],
-                            "contents": "Drone videos, RGB images" 
+                            "contents": "Drone videos, RGB images", 
                             "labels": "No"
                 }  
             }, 
@@ -424,7 +424,7 @@
                             "location": "Ardèche, France",
                             "coordinates (wgs84)": "",
                             "sensor type": ["RGB"],
-                            "contents": "Drone images, flight metadata, YOLO annotations" 
+                            "contents": "Drone images, flight metadata, YOLO annotations", 
                             "labels": "Yes"
                 }  
             }, 
@@ -438,297 +438,632 @@
                             "location": "Alpes de Haute Provence and Limousin, France",
                             "coordinates (wgs84)": "",
                             "sensor type": ["RGB"],
-                            "contents": "Drone videos, RGB images" 
+                            "contents": "Drone videos, RGB images", 
                             "labels": "No"
                 }  
             }    
            ],
 
     "UC4": [
-            {       
+            {   
                 "name":"Forestry and Biodiversity monitoring in Lithuania with hyperspectral camera and UAV",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2023-09-11",
                 "link":"https://zenodo.org/records/8333789",
                 "description":"Hyperspectral imaging acquired with UAV on different dates of a pine tree forest."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "Drone hyperspectral images, calibration images, hyperspectral data cubes, flight metadata", 
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with thermal camera over Lithuanian forests in winter for wild boar detection",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2024-07-15",
                 "link":"https://zenodo.org/records/12743334",
                 "description":"The dataset consists of thermal images captured by DJI drones over Lithuanian forests in winter, used for wild boar detection"
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Thermal"],
+                            "contents": "Thermal videos, flight metadata", 
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #1",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2024-09-27",
                 "link":"https://zenodo.org/records/13846686",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #12",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2024-09-27",
                 "link":"https://zenodo.org/records/15063168",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #11",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2025-03-21",
                 "link":"https://zenodo.org/records/15063160",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #10",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2025-03-21",
                 "link":"https://zenodo.org/records/15063121",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #9",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2025-03-21",
                 "link":"https://zenodo.org/records/15063049",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            },          
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #8",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2025-03-21",
                 "link":"https://zenodo.org/records/15063013",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #7",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2025-03-21",
                 "link":"https://zenodo.org/records/15062953",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #5",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2024-12-20",
                 "link":"https://zenodo.org/records/14535422",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #6",
-                "author":"ART21",
+                "author":"BETAVIA",
                 "date":"2024-12-20",
                 "link":"https://zenodo.org/records/14535456",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
-            },
-            {       
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            }, 
+            {   
                 "name":"Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #4",
                 "author":"ART21",
                 "date":"2024-12-20",
                 "link":"https://zenodo.org/records/14535368",
                 "description":"The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images."
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
             }
-
            ],
 
     "UC5" :[
-            {       
+            {   
                 "name":"Photogrammetry Orthomosaic and Digital Surface Model (Strumica, North Macedonia)",
                 "author":"GEOSENSE, AGFUTURA",
                 "date":"2024-07-26",
                 "link":"https://zenodo.org/records/12909590",
                 "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
-            },
-            {       
+                "parameters": {
+                            "location": "Strumica, North Macedonia",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["RGB"],
+                            "contents": "RGB images, 3D pointcloud, DEM, orthomosaics",
+                            "labels": "No"
+                }  
+            },   
+            {   
                 "name":"Photogrammetry Orthomosaic and Digital Surface Model 2 (Strumica, North Macedonia)",
                 "author":"GEOSENSE",
                 "date":"2024-10-24",
                 "link":"https://zenodo.org/records/12772799",
                 "description":"A sample dataset from Strumica, North Macedonia, featuring photogrammetric orthomosaics and a Digital Surface Models (DSM)."
-            },        
-            {       
-                "name":"ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas",
+                "parameters": {
+                            "location": "Strumica, North Macedonia",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["RGB"],
+                            "contents": "RGB images, 3D pointcloud, DEM, orthomosaics",
+                            "labels": "No"
+                }  
+            }, 
+            {   
+               "name":"ICAERUS - UC5 - Enhanced Payload Data for Drone Logistics in Rural Areas",
                 "author":"GEOSENSE",
                 "date":"2024-12-11",
                 "link":"https://zenodo.org/records/12909590",
                 "description":"Dataset that supports the development and operation of the DaeDaLus (Drone Delivery Logistics Services) platform."
-            }
+                "parameters": {
+                            "location": "Strumica, North Macedonia",
+                            "coordinates (wgs84)": "",
+                            "sensor type": ["RGB"],
+                            "contents": "RGB images, 3D pointcloud, DEM, orthomosaics",
+                            "labels": "No"
+                }  
+            } 
            ],
 
     "OCT - Agrobit Srl": [
-                        {       
+                          {   
                             "name":"UAV AgroTwin Vineyard Dataset 2024",
                             "author":"Simone Kartsiotis, Antonio Donnangelo",
                             "date":"2024-06-19",
                             "link":"https://zenodo.org/records/12168516",
                             "description":"The datasets contains RGB images and pointclouds of a vineyard field."
+                            "parameters": {
+                                        "location": "Strumica, North Macedonia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB"],
+                                        "contents": "RGB images, 3D pointclouds",
+                                        "labels": "No"
+                            }  
                         }
                       ],
-
+    
     "OCT - TAAL": [
-                    {       
+                    {   
                         "name":"3D cloud reconstruction and 2D NDVI index",
                         "author":"Taal S.r.l.",
                         "date":"2024-07-26",
                         "link":"https://zenodo.org/records/12954801",
                         "description":"The dataset contains 3D pointclouds and 2D NDVI maps of an olive grove."
-                    },                 
-                    {       
+                        "parameters": {
+                                    "location": "Rome, Italy",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": ["RGB", "Multispectral"],
+                                    "contents": "3D pointclouds, 2D NDVI maps",
+                                    "labels": "No"
+                        }  
+                    }, 
+                    {   
                         "name":"raw drone sensing data - 1",
                         "author":"Taal S.r.l.",
                         "date":"2024-07-26",
                         "link":"https://zenodo.org/records/12943015",
                         "description":"It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
-                    },
-                    {       
+                        "parameters": {
+                                    "location": "Rome, Italy",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": ["RGB", "Multispectral"],
+                                    "contents": "RGB images, multispectral images (R, RE, G, NIR), flight metadata",
+                                    "labels": "No"
+                        }  
+                    },  
+                    {   
                         "name":"raw drone sensing data - 2",
                         "author":"Taal S.r.l.",
                         "date":"2024-07-26",
                         "link":"https://zenodo.org/records/12924461",
                         "description":"It includes RGB and multispectral images collected with the DJI Mavic 3M in an olive grove, along with flight mission files and GIS information, organized by individual drone flights in separate folders."
-                    },
-                    {       
+                        "parameters": {
+                                    "location": "Rome, Italy",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": ["RGB", "Multispectral"],
+                                    "contents": "RGB images, multispectral images (R, RE, G, NIR), flight metadata",
+                                    "labels": "No"
+                        }  
+                    }, 
+                    {   
                         "name":"Ground Truth Data",
                         "author":"Taal S.r.l.",
                         "date":"2024-07-29",
                         "link":"https://zenodo.org/records/13120763",
                         "description":"The dataset features a dataset of labeled RGB and NDVI olive tree images for training classification models, with health statuses detailed in three CSV files."
-                    },
-                    {       
+                        "parameters": {
+                                    "location": "Rome, Italy",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": ["RGB"],
+                                    "contents": "RGB images, augmented images, CSV label files",
+                                    "labels": "Yes"
+                        }   
+                    }, 
+                    {   
                         "name":"Tree detected",
                         "author":"Taal S.r.l.",
                         "date":"2024-07-29",
                         "link":"https://zenodo.org/records/13121962",
                         "description":"The repository contains a dataset of labeled olive trees with bounding boxes used for training detection models."
-                    },
-                    {       
+                        "parameters": {
+                                    "location": "Rome, Italy",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": ["RGB"],
+                                    "contents": "RGB images, augmented images, CSV label files",
+                                    "labels": "Yes"
+                        }   
+                    }, 
+                    {   
                         "name":"Plant Health Status",
                         "author":"Taal S.r.l.",
                         "date":"2024-07-30",
                         "link":"https://zenodo.org/records/13132625",
-                        "description":"This dataset shows the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees."
+                        "description":"This dataset contains the xylella classifier results to identify asymptomatic health status, effectively differentiating it from mild and evident symptomatic conditions in olive trees."
+                        "parameters": {
+                                    "location": "Rome, Italy",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": [""],
+                                    "contents": "Prediction results",
+                                    "labels": "No"
+                        }   
                     }
                   ],
 
     "OCT - SHIELD": [
-                    {       
+                     {   
                         "name":"SHIELD Demonstrations Dataset",
                         "author":"Obsidian Innovation Institute - Associação",
                         "date":"2024-07-31",
                         "link":"https://zenodo.org/records/13146217",
                         "description":"This dataset contains the NMEA sentences generated during the Secure and High Integrity EGNSS enabled drone (SHIELD) demonstration campaing and concerning the different demonstration scenarios."
+                        "parameters": {
+                                    "location": "Portugal",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": ["U-blox NEO-F9P receiver"],
+                                    "contents": "NMEA sentences",
+                                    "labels": "No"
+                        }   
                     }
-                  ],
+                   ],
     "OCT - DAEPHC": [
-                {       
-                    "name":"Datasets from hop field 3 (orthomosaic of RGB, multispectral band and thermal sensor) from July 5 2024",
-                    "author":"Matej Knapic",
-                    "date":"2025-04-25",
-                    "link":"https://zenodo.org/records/15280042",
-                    "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
-                },
-                 {       
-                    "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
-                    "author":"Matej Knapic",
-                    "date":"2025-04-25",
-                    "link":"https://zenodo.org/records/14761567",
-                    "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
-                },
-                 {       
-                    "name":"Datasets from hop field 1 (orthomosaic of RGB, multispectral band and thermal sensor) from June 28  2024",
-                    "author":"Matej Knapic",
-                    "date":"2025-04-25",
-                    "link":"https://zenodo.org/records/14731003",
-                    "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
-                }
-              ],
+                     {   
+                        "name":"Datasets from hop field 3 (orthomosaic of RGB, multispectral band and thermal sensor) from July 5 2024",
+                        "author":"Matej Knapic",
+                        "date":"2025-04-25",
+                        "link":"https://zenodo.org/records/15280042",
+                        "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "parameters": {
+                                    "location": "Slovenia",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                    "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                    "labels": "No"
+                        }   
+                     }, 
+                     {   
+                        "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                        "author":"Matej Knapic",
+                        "date":"2025-04-25",
+                        "link":"https://zenodo.org/records/14761567",
+                        "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "parameters": {
+                                    "location": "Slovenia",
+                                    "coordinates (wgs84)": "",
+                                    "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                    "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                    "labels": "No"
+                        }   
+                    }, 
+                    {   
+                        "name":"Datasets from hop field 1 (orthomosaic of RGB, multispectral band and thermal sensor) from June 28  2024",
+                        "author":"Matej Knapic",
+                        "date":"2025-04-25",
+                        "link":"https://zenodo.org/records/14731003",
+                        "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                        "parameters": {
+                                "location": "Slovenia",
+                                "coordinates (wgs84)": "",
+                                "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                "labels": "No"
+                            }   
+                        } 
+                      ],
     "OCT - LowAltitude": [
-                    {       
-                        "name":"Multispectral imaging of a UK Vineyard June 24, part 1",
-                        "author":"Chris Crane",
-                        "date":"2024-06-02",
-                        "link":"https://zenodo.org/records/14328464",
-                        "description":"A dataset of multipectral images and drone flight logs."
-                    },
-                    {       
-                        "name":"Multispectral data set of a UK Vineyard June 2024 part 2",
-                        "author":"Chris Crane",
-                        "date":"2024-06-02",
-                        "link":"https://zenodo.org/records/14334273",
-                        "description":"Part 2 of the multispectral dataset that contains images and drone flight logs."
-                    },
-                    {       
-                        "name":"Multispectral dataset of a Vineyard, UK, July 2024 Part 1 and 2",
-                        "author":"Chris Crane",
-                        "date":"2024-07-07",
-                        "link":"https://zenodo.org/records/14281334",
-                        "description":"Parts 1 and 2 of multispectral dataset, along with drone flight files."
-                    },
-                    {       
-                        "name":"Multispectral dataset of vineyard, July 24 Part 3",
-                        "author":"Chris Crane",
-                        "date":"2024-07-14",
-                        "link":"https://zenodo.org/records/14284315",
-                        "description":"Part 3 of multispectral dataset, along with drone flight logs."
-                    },
-                    {       
-                        "name":"Lidar files generated from UAV flight over vineyard trial block",
-                        "author":"Chris Crane",
-                        "date":"2024-07-14",
-                        "link":"https://zenodo.org/records/14266547",
-                        "description":"Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone."
-                    },
-                    {       
-                        "name":"GeoTIFF for Vineyard, generated from Multispectral survey; Part 1",
-                        "author":"Chris Crane",
-                        "date":"2024-07-14",
-                        "link":"https://zenodo.org/records/14355958",
-                        "description":"The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
-                    },
-                    {       
-                        "name":"Lidar data set of a vineyard",
-                        "author":"Chris Crane",
-                        "date":"2024-08-16",
-                        "link":"https://zenodo.org/records/14269622",
-                        "description":"Lidar files for a full vineyard, that can be used to create a 3d model."
-                    },
-                    {       
-                        "name":"Multispectral data set including images and drone logs, vineyard, September 2024: PART 1",
-                        "author":"Chris Crane",
-                        "date":"2024-09-01",
-                        "link":"https://zenodo.org/records/14274523",
-                        "description":"Multispectral data including drone log files of a UK vineyard."
-                    },
-                    {       
-                        "name":"Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3",
-                        "author":"Chris Crane",
-                        "date":"2024-09-01",
-                        "link":"https://zenodo.org/records/14278527",
-                        "description":"Multispectral and RGB image datasets, parts 2 and 3."
-                    },
-                    {       
-                        "name":"GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2",
-                        "author":"Chris Crane",
-                        "date":"2024-09-01",
-                        "link":"https://zenodo.org/records/14360892",
-                        "description":"The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
-                    },
-                    {       
-                        "name":"Vineyard block boundaries",
-                        "author":"Chris Crane",
-                        "date":"2024-12-10",
-                        "link":"https://zenodo.org/records/14354921",
-                        "description":"Zip file of vineyard block boundaries in various file types, including shape."
-                    },
-                    {       
-                        "name":"PDF reports showing outcome of multispectral survey of Vineyard",
-                        "author":"Chris Crane",
-                        "date":"2024-12-10",
-                        "link":"https://zenodo.org/records/14354749",
-                        "description":"The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted."
-                    }
-                  ],
+                          {   
+                            "name":"Multispectral imaging of a UK Vineyard June 24, part 1",
+                            "author":"Chris Crane",
+                            "date":"2024-06-02",
+                            "link":"https://zenodo.org/records/14328464",
+                            "description":"A dataset of multipectral images and drone flight logs."
+                            "parameters": {
+                                        "location": "UK",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral"],
+                                        "contents": "RGB images, multispectral images, drone flight logs",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {   
+                            "name":"Multispectral data set of a UK Vineyard June 2024 part 2",
+                            "author":"Chris Crane",
+                            "date":"2024-06-02",
+                            "link":"https://zenodo.org/records/14334273",
+                            "description":"Part 2 of the multispectral dataset that contains images and drone flight logs."
+                            "parameters": {
+                                        "location": "UK",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral"],
+                                        "contents": "RGB images, drone flight logs",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"Multispectral dataset of a Vineyard, UK, July 2024 Part 1 and 2",
+                            "author":"Chris Crane",
+                            "date":"2024-07-07",
+                            "link":"https://zenodo.org/records/14281334",
+                            "description":"Parts 1 and 2 of multispectral dataset, along with drone flight files."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"Multispectral dataset of vineyard, July 24 Part 3",
+                            "author":"Chris Crane",
+                            "date":"2024-07-14",
+                            "link":"https://zenodo.org/records/14284315",
+                            "description":"Part 3 of multispectral dataset, along with drone flight logs."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"Lidar files generated from UAV flight over vineyard trial block",
+                            "author":"Chris Crane",
+                            "date":"2024-07-14",
+                            "link":"https://zenodo.org/records/14266547",
+                            "description":"Lidar files collected using Zenmuse L2 lidar mounted on DJI Matrice 350 RTK drone."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"GeoTIFF for Vineyard, generated from Multispectral survey; Part 1",
+                            "author":"Chris Crane",
+                            "date":"2024-07-14",
+                            "link":"https://zenodo.org/records/14355958",
+                            "description":"The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"Lidar data set of a vineyard",
+                            "author":"Chris Crane",
+                            "date":"2024-08-16",
+                            "link":"https://zenodo.org/records/14269622",
+                            "description":"Lidar files for a full vineyard, that can be used to create a 3d model."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"Multispectral data set including images and drone logs, vineyard, September 2024: PART 1",
+                            "author":"Chris Crane",
+                            "date":"2024-09-01",
+                            "link":"https://zenodo.org/records/14274523",
+                            "description":"Multispectral data including drone log files of a UK vineyard."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"Lidar dataset including drone logs, Vineyard Sept 2024 parts 2 and 3",
+                            "author":"Chris Crane",
+                            "date":"2024-09-01",
+                            "link":"https://zenodo.org/records/14278527",
+                            "description":"Multispectral and RGB image datasets, parts 2 and 3."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"GEOTiff of vegetation indexes from Multispectral Vineyard surveys PART 2",
+                            "author":"Chris Crane",
+                            "date":"2024-09-01",
+                            "link":"https://zenodo.org/records/14360892",
+                            "description":"The GeoTiffs created from each vegetation index, as an output of the multispectral surveys."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"Vineyard block boundaries",
+                            "author":"Chris Crane",
+                            "date":"2024-12-10",
+                            "link":"https://zenodo.org/records/14354921",
+                            "description":"Zip file of vineyard block boundaries in various file types, including shape."
+                        },
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                        {       
+                            "name":"PDF reports showing outcome of multispectral survey of Vineyard",
+                            "author":"Chris Crane",
+                            "date":"2024-12-10",
+                            "link":"https://zenodo.org/records/14354749",
+                            "description":"The pdf output reports generated in Pix4dFields of each multispectral vineyard surveys conducted."
+                        }
+                         {   
+                            "name":"Datasets from hop field 2 (orthomosaic of RGB, multispectral band and thermal sensor) from July 9 2024",
+                            "author":"Matej Knapic",
+                            "date":"2025-04-25",
+                            "link":"https://zenodo.org/records/14761567",
+                            "description":"The upload consists of 2 zip files. First one has orthomosaic of RGB, 4 multispectral bands and the second one the orhomosaic of thermal dataand RGB  prepared in PIX4D mapper software. The images were taken from 40 m height. The images are normalized with white reference plate. The thermal images were converted before mosaicing from sensor units to °C with DJI Image Processor Version v1.6.2 developed by Miro Rava. All data are in Slovenian coordinate system EPSG=3794."
+                            "parameters": {
+                                        "location": "Slovenia",
+                                        "coordinates (wgs84)": "",
+                                        "sensor type": ["RGB", "Multispectral", "Thermal"],
+                                        "contents": "RGB orthomosaics, multispectral orthomosaics, thermal data",
+                                        "labels": "No"
+                            }   
+                        }, 
+                      ],
 
     "OCT - InnovPlantProtect": [
                     {       
