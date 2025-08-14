@@ -1585,7 +1585,7 @@
                     "author": "Miguel Sebastián Encinas Lara, Luis Arturo Mendez Barroso",
                     "date": "2020-06-06",
                     "link": "https://www.sciencedirect.com/science/article/pii/S235234092030319X",
-                    "description": "This dataset contains 314 aerial photographs taken in March 02, 2019 at 9 a.m. (UTC - 07:00) over an experimental site instrumented with an eddy covariance tower and meteorological sensors at El Soldado estuary located at the South-eastern margin of the Gulf of California (coordinates). The images were taken with a 16 MP MAPIR Survey2 RGB camera pointed downwards at 90° with a field of view (FOV) of 82°, a shooting interval of two seconds, focal aperture of f/2.8 (default for MAPIR Survey2 Cameras), shutter speed set to 1/125 and ISO 50. The camera was mounted on a commercial-grade Unmanned Aerial Vehicle (UAV, 3DR solo) to perform a 10-minutes flight over the study site with an altitude of 30 m and a horizontal velocity of 4 m/s . Photographs side overlap was set to 75% while the forward overlap was 85%. Flight conditions during the aerial survey were clear sky with wind velocity less than 0.5 m/s. All images were geotagged using UAV flight controller information through the freeware GeoSetter v3.5",
+                    "description": "This dataset contains 314 aerial photographs taken in March 02, 2019 at 9 a.m. (UTC - 07:00) over an experimental site instrumented with an eddy covariance tower and meteorological sensors at El Soldado estuary located at the South-eastern margin of the Gulf of California",
                     "parameters": {
                         "location": "Sonora, México",
                         "coordinates (wgs84)": "",
