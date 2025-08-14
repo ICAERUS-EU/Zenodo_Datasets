@@ -1170,6 +1170,20 @@
                         "contents": "RGB chip images, NDVI chip images, orthomosaics, CHM, DEM, DSM.",
                         "labels": "No"
                     }
+            },
+            {
+                "name": "msuav500k: Foundational Dataset for Multispectral and RGB UAV Imagery",
+                "author": "Jurrian Doornbos",
+                "date": "2025-08-14", 
+                "link": "https://zenodo.org/records/16743975",
+                "description": "The msuav500k dataset is a comprehensive collection of 598,300 curated UAV images designed for computer vision and remote sensing applications. This foundational dataset addresses critical interoperability challenges in UAV-based multispectral imaging by providing standardized, radiometrically calibrated imagery from multiple sensor platforms.",
+                "parameters": {
+                        "location": "Global",  
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB", "Multispectral"],
+                        "contents": "RGB images, Multispectral images",
+                        "labels": "No"
+                    }
             }
         ],
     
