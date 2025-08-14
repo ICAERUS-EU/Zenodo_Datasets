@@ -1467,6 +1467,160 @@
                         "contents": "Multispectral images (RE, NIR).",
                         "labels": "No"
                     }
+                },
+                {
+                    "name": "Annotated image dataset with different stages of European pear rust for UAV-based automated symptom detection in orchards",
+                    "author": "Maß, Virginia; Alirezazadeh, Pendar; Seidl-Schulz, Johannes; Leipnitz, Matthias; Fritzsche, Eric; Ibraheem, Rasheed Ali Adam; Geyer, Martin; Pflanz, Michael; Reim, Stefanie",
+                    "date": "2024-08-03",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340925000034",
+                    "description": "RGB drone imagery dataset for pear rust detection and analysis captured using DJI Phantom 4 Pro/Matrice 300 RTK at 0.7m altitude.",
+                    "parameters": {
+                        "location": "Dresden-Pillnitz, Germany",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 0.2-0.07m resolution, CHIP format.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "CoFly-WeedDB: A UAV image dataset for weed detection and species identificationn",
+                    "author": "Marios Krestenitis, Emmanuel K. Raptis, Athanasios Ch. Kapoutsis, Konstantinos Ioannidis, Elias B. Kosmatopoulos, Stefanos Vrochidis, Ioannis Kompatsiaris",
+                    "date": "2022-12-12",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S235234092200782X",
+                    "description": "RGB drone imagery dataset for cotton weed detection and species identification captured using DJI Phantom 4 Pro at 1.2m altitude.",
+                    "parameters": {
+                        "location": "Larissa, Greece",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, CHIP format.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "An instance segmentation dataset of cabbages over the whole growing season for UAV imagery",
+                    "author": "Yui Yokoyama, Tsutomu Matsui, Takashi S.T. Tanaka",
+                    "date": "2024-08-08",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340924006668",
+                    "description": "RGB drone imagery dataset for cabbage detection during growing season captured using DJI Matrice 300 RTK at 0.7m altitude.",
+                    "parameters": {
+                        "location": "Gifu Prefecture, Japan",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, CHIP format.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "MH-SoyaHealthVision: An Indian UAV and Leaf Image Dataset for Integrated Crop Health Assessment",
+                    "author": "Sayali Shinde, Dr.Vahida Attar",
+                    "date": "2024-08-12",
+                    "link": "https://data.mendeley.com/datasets/hkbgh5s3b7/1",
+                    "description": "Currently, the farming sector is transitioning towards Agriculture 5.0, also known as digital farming. This approach utilizes data-driven technologies, such as artificial intelligence and computer vision, to transform the agriculture sector. These technologies enable the automation of several farming tasks. To develop accurate and robust machine learning/deep learning models high quality datasets are needed. With this aim, we have created a comprehensive dataset of soybean crop images affected by diseases and pest attacks from original fields of Maharashtra region located in India. Data acquisition was conducted across two seasons through aerial as well as ground-based approaches. The dataset is enriched with 4 types of diseases and 1 pest attack. The proposed dataset will serve as a valuable resource for training and testing machine learning and deep learning models ,enabling accurate detection and classification of diseases and pests attack damage.",
+                    "parameters": {
+                        "location": "Sangli, India",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 4m altitude, RAW format.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "OliveTreeCrownsDb, Detection and Segmentation in Agricultural Computer Vision",
+                    "author": "",
+                    "date": "2025-06-06",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340925002471",
+                    "description": "OliveTreeCrownsDb, a comprehensive dataset of high-resolution images captured by a DJI Phantom 4 RTK drone. The dataset includes 46 images covering an entire olive farm, focusing on the detection and analysis of olive tree crowns and supporting segmentation tasks. Each image is accompanied by detailed metadata, such as focal distance, capture altitude, GPS coordinates, and other essential parameters for accurate tree mapping and localization. OliveTreeCrownsDb is publicly accessible, promoting research in precision agriculture, including tree crown detection, segmentation, geometric shape analysis, automation, yield estimation, and computer vision applications.",
+                    "parameters": {
+                        "location": "Meknas, Morocco",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 2m altitude, RAW format.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "UAV-PDD2023: A benchmark dataset for pavement distress detection based on UAV images",
+                    "author": "Haohui Yan, Junfei Zhang",
+                    "date": "2023-12-12",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340923007710",
+                    "description": "The UAV-PDD2023 dataset, captured by unmanned aerial vehicles (UAVs), provides a benchmark for road damage detection. It is highly useful for municipal authorities and road agencies to conduct low-cost road condition monitoring.",
+                    "parameters": {
+                        "location": "Tianjin, China",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 2m altitude, CHIP format.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "Unmanned aerial vehicle (UAV) images of road vehicles dataset",
+                    "author": "Nama Ezzaalddin Mustafa, Fattah Alizadeh",
+                    "date": "2024-06-06",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340924002336",
+                    "description": "This annotated dataset contains five different types of vehicles: cars, taxis, trucks, buses, and motorcycles taken from Unmanned Aerial Vehicles (UAVs), which we commonly know as drones. Mavic Air 2 Drone was used to take all the pictures in the Iraqi cities of Sulaimaniyah and Erbil.",
+                    "parameters": {
+                        "location": "Nama Ezzaalddin Mustafa, Fattah Alizadeh",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 0.3m altitude, RAW format.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "Avo-AirDB: An avocado UAV Database for agricultural image segmentation and classification",
+                    "author": "Khalid EL Amraoui, Mouataz Lghoul, Ayoub Ezzaki, Lhoussaine Masmoudi, Majid Hadri, Hicham Elbelrhiti, Aziz Abdou Simo",
+                    "date": "2022-12-12",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340922009428",
+                    "description": "Avo-AirDB represents a database of an avocado field located in Morocco. it contains 986 high-resolution RGB aerial images, as well as 93 annotated images in two different ways. the data is dedicated to researchers in the digital agricultural domain. it can be used to develop machine learning algorithms.",
+                    "parameters": {
+                        "location": "Allal Tazi, Morocco",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 8m altitude, CHIP format, 2.7m resolution.",
+                        "labels": "Yes"
+                    }
+                },
+                {
+                    "name": "UAV-Images dataset over a small intertidal coastal strip within "El Soldado", estuary in Guaymas, Sonora, México.",
+                    "author": "Miguel Sebastián Encinas Lara, Luis Arturo Mendez Barroso",
+                    "date": "2020-06-06",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S235234092030319X",
+                    "description": "This dataset contains 314 aerial photographs taken in March 02, 2019 at 9 a.m. (UTC - 07:00) over an experimental site instrumented with an eddy covariance tower and meteorological sensors at \"El Soldado\" estuary located at the South-eastern margin of the Gulf of California (coordinates). The images were taken with a 16 MP MAPIR Survey2 RGB camera pointed downwards at 90° with a field of view (FOV) of 82°, a shooting interval of two seconds, focal aperture of f/2.8 (default for MAPIR Survey2 Cameras), shutter speed set to 1/125 and ISO 50. The camera was mounted on a commercial-grade Unmanned Aerial Vehicle (UAV, 3DR solo) to perform a 10-minutes flight over the study site with an altitude of 30 m and a horizontal velocity of 4 m/s . Photographs side overlap was set to 75% while the forward overlap was 85%. Flight conditions during the aerial survey were clear sky with wind velocity less than 0.5 m/s. All images were geotagged using UAV flight controller information through the freeware GeoSetter v3.5. This dataset was used as a mapping tool and support for the project: \"Caracterización de los almacenes y flujos de carbono en pastos marinos de regiones bioclimáticas contrastantes de México.\"",
+                    "parameters": {
+                        "location": "Sonora, México",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 1.4m altitude, RAW format.",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Dataset of thermal and visible aerial images for multi-modal and multi-spectral image registration and fusion",
+                    "author": "Lina M. García-Moreno, Jean P. Díaz-Paz, Humberto Loaiza-Correa, Andrés D. Restrepo-Girón",
+                    "date": "2020-04-04",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340920302201",
+                    "description": "This dataset presents thermal and visible aerial images of a flat scene with their respective geospatial data, a visible georeferenced orthoimage and the homography matrices between the images and the orthoimage, which are useful for other researchers to assess and develop new techniques for improvement, registration and fusion of thermal and visible images.",
+                    "parameters": {
+                        "location": "Valle del Cauca, Colombia",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 0.15m altitude, ORTHO format.",
+                        "labels": "No"
+                    }
+                },
+                {
+                    "name": "Mine 4.0-mineCareerDB: A high-resolution image dataset for mining career segmentation and object detection",
+                    "author": "Nasreddine Haqiq, Mounia Zaim, Mohamed Sbihi, Khalid El Amraoui, Mustapha El Alaoui, Lhoussaine Masmoudi, Hamza Echarrafi",
+                    "date": "2024-12-12",
+                    "link": "https://www.sciencedirect.com/science/article/pii/S2352340924009387",
+                    "description": "Mine 4.0-MineCareerDB, a publicly available dataset of high-resolution image captured by a DJI Phantom 4 RTK drone specifically designed for analyzing mining careers. The dataset comprises a collection of 373 images depicting various mining operations and activities. Each image is georeferenced and offers a detailed view of mining activities, including the use of various equipment, infrastructure, and overall mining environment.",
+                    "parameters": {
+                        "location": "Benslimane Career site, Morocco",
+                        "coordinates (wgs84)": "",
+                        "sensor_type": ["RGB"],
+                        "contents": "RGB images with 3-channel data, 4m altitude, CHIP format.",
+                        "labels": "Yes"
+                    }
                 }
     ]
 }
