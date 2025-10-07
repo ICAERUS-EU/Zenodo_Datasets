@@ -612,6 +612,48 @@
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
+            },
+            {   
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #13",
+                "author": "ART21",
+                "date": "2025-09-17",
+                "link": "https://zenodo.org/records/17142640",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor_type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            },
+            {   
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #14",
+                "author": "ART21",
+                "date": "2025-09-17",
+                "link": "https://zenodo.org/records/17142746",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor_type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
+            },
+            {   
+                "name": "Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #15",
+                "author": "ART21",
+                "date": "2025-09-17",
+                "link": "https://zenodo.org/records/17142780",
+                "description": "The dataset contains processed hyperspectral data cubes in ENVI format, with both georectified and non-georectified files, along with generated RGB and NDVI images.",
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor_type": ["Hyperspectral"],
+                            "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
+                            "labels": "No"
+                }  
             }
            ],
 
