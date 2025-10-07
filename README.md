@@ -102,6 +102,11 @@
 | [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #10](https://zenodo.org/records/15063121) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
 | [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #11](https://zenodo.org/records/15063160) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
 | [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #12](https://zenodo.org/records/15063168) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #13](https://zenodo.org/records/17142640) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #14](https://zenodo.org/records/17142746) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+| [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #15](https://zenodo.org/records/17142780) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
+
+
 
 
 <br />
