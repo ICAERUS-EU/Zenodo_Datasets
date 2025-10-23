@@ -105,8 +105,11 @@
 | [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #13](https://zenodo.org/records/17142640) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
 | [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #14](https://zenodo.org/records/17142746) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
 | [Multiple DJI drone flights with hyperspectral camera over forests in Lithuania #15](https://zenodo.org/records/17142780) | ART21 | 2025-03-21 | The Hyperspectral dataset includes processed data cubes, RGB/NDVI images, and ENVI files, collected with a Specim camera over a forest area. |
-
-
+| [DJI Mavic 3 Thermo flights over Lithuanian forests #1](https://zenodo.org/records/17310544) | UAB Beta via | 2025-10-10 | Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for wildlife monitoring. |
+| [DJI Mavic 3 Thermo flights over Lithuanian forests #2](https://zenodo.org/records/17311014) | UAB Beta via | 2025-10-10 | Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for wildlife monitoring. |
+| [DJI Mavic 3 Thermo flights over Lithuanian forests #3](https://zenodo.org/records/17311189) | UAB Beta via | 2025-10-10 | Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for wildlife monitoring. |
+| [DJI Mavic 3 Thermo flights over Lithuanian forests #4](https://zenodo.org/records/17311327) | UAB Beta via | 2025-10-10 | Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for unhealthy forest monitoring. |
+| [DJI Mavic 3 Thermo flights over Lithuanian forests #5](https://zenodo.org/records/17311890) | UAB Beta via | 2025-10-10 | Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for unhealthy forest monitoring. |
 
 
 <br />
