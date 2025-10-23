@@ -654,6 +654,76 @@
                             "contents": "RGB images, NDVI images, hyperspectral data cubes, georectified data",
                             "labels": "No"
                 }  
+            },
+            {   
+                "name": "DJI Mavic 3 Thermo flights over Lithuanian forests #1",
+                "author": "UAB Beta via",
+                "date": "2025-10-10",
+                "link": "https://zenodo.org/records/17310544",
+                "description": "Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for wildlife monitoring.",
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor_type": ["Thermal", "RGB"],
+                            "contents": "Thermal videos, metadata, thermal/RGB images",
+                            "labels": "No"
+                }  
+            },
+            {   
+                "name": "DJI Mavic 3 Thermo flights over Lithuanian forests #2",
+                "author": "UAB Beta via",
+                "date": "2025-10-10",
+                "link": "https://zenodo.org/records/17311014",
+                "description": "Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for wildlife monitoring.",
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor_type": ["Thermal", "RGB"],
+                            "contents": "Thermal videos, metadata, thermal/RGB images",
+                            "labels": "No"
+                }  
+            },
+            {   
+                "name": "DJI Mavic 3 Thermo flights over Lithuanian forests #3",
+                "author": "UAB Beta via",
+                "date": "2025-10-10",
+                "link": "https://zenodo.org/records/17311189",
+                "description": "Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for wildlife monitoring.",
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor_type": ["Thermal", "RGB"],
+                            "contents": "Thermal videos, metadata, thermal/RGB images",
+                            "labels": "No"
+                }  
+            },      
+            {   
+                "name": "DJI Mavic 3 Thermo flights over Lithuanian forests #4",
+                "author": "UAB Beta via",
+                "date": "2025-10-10",
+                "link": "https://zenodo.org/records/17311327",
+                "description": "Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for unhealthy forest monitoring.",
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor_type": ["Thermal", "RGB"],
+                            "contents": "Thermal videos, metadata, thermal/RGB images",
+                            "labels": "No"
+                }  
+            }, 
+            {   
+                "name": "DJI Mavic 3 Thermo flights over Lithuanian forests #4",
+                "author": "UAB Beta via",
+                "date": "2025-10-10",
+                "link": "https://zenodo.org/records/17311890",
+                "description": "Dataset of DJI Mavic 3 Thermal drone flights over Lithuanian forests, including thermal videos, visual and thermal images, and GPS metadata for unhealthy forest monitoring.",
+                "parameters": {
+                            "location": "Lithuania",
+                            "coordinates (wgs84)": "",
+                            "sensor_type": ["Thermal", "RGB"],
+                            "contents": "Thermal videos, metadata, thermal/RGB images",
+                            "labels": "No"
+                }  
             }
            ],
 
