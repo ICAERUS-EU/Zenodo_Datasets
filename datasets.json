@@ -1151,7 +1151,38 @@
                                         }   
                                      }
                                     ],
-    
+     "OCT - Veles Sense": [
+                                    {   
+                                        "name": "DiVine project - Veles Sense",
+                                        "author": "Veles Sense",
+                                        "date": "2025-10-27",
+                                        "link": "https://zenodo.org/records/17454029",
+                                        "description": "Vineyards maps to distinguish disease from nutritional deficiencies. Includes orthomosaics, ground truth, sampling, vine extraction and vegetation indices.",
+                                        "parameters": {
+                                                    "location": "Belgrado, Serbia",
+                                                    "coordinates (wgs84)": "",
+                                                    "sensor_type": ["RGB", "Multispectral"],
+                                                    "contents": "Orthomosaics, ground truth, sampling data, vine extraction results, vegetation indices",
+                                                    "labels": "Yes"
+                                        }   
+                                    }
+                                  ],
+     "OCT - Institute for Security and Strategic Research": [
+                                    {   
+                                        "name": "IDSSF: Illegal logging usecase - DJI Zenmuse L2 lidar dataset",
+                                        "author": "Institute for Security and Strategic Research",
+                                        "date": "2025-10-13",
+                                        "link": "https://zenodo.org/records/17339551",
+                                        "description": "This dataset contains two classified point clouds (ground and non-ground) of a forest affected by illegal logging, one taken before and one after the logging.",
+                                        "parameters": {
+                                                    "location": "Ljubljana, Slovenia",
+                                                    "coordinates (wgs84)": "",
+                                                    "sensor_type": ["LiDAR"],
+                                                    "contents": "Pointclouds",
+                                                    "labels": "Yes"
+                                        }   
+                                    }
+                                 ],
     "UARSF": [        
                 {
                     "name": "Data on three-year flowering intensity monitoring in an apple orchard: A collection of RGB images acquired from unmanned aerial vehicles",
