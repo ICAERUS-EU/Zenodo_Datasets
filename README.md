@@ -200,7 +200,7 @@
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
-| [DiVine project - Veles Sense](https://zenodo.org/records/17454029) | Veles Sense | 2025-10-13 | Vineyards maps to distinguish disease from nutritional deficiencies. Includes orthomosaics, ground truth, sampling, vine extraction and vegetation indices. |
+| [DiVine project - Veles Sense](https://zenodo.org/records/17454029) | Veles Sense | 2025-10-27 | Vineyards maps to distinguish disease from nutritional deficiencies. Includes orthomosaics, ground truth, sampling, vine extraction and vegetation indices. |
 <br />
 
 
