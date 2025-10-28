@@ -30,6 +30,10 @@
 * [OCT: Agrobit Srl](#oct-agrobit-srl)
 * [OCT: TAAL](#oct-taal)
 * [OCT: SHIELD](#oct-shield)
+* [OCT: LowAltitude](#oct-lowaltitude)
+* [OCT: InnovPlantProtect](#oct-innovplantprotect)
+* [OCT: Veles Sense](#oct-veles-sense)
+* [OCT: Institute for Security and Strategic Research](#oct-institute-for-security-and-strategic-research)
 * [ICAERUS Zenodo Template](#icaerus-zenodo-template)
 
 
@@ -189,6 +193,26 @@
 | [Input and output datasets for training the AI-based vine segmentation model (YOLOv9)](https://zenodo.org/records/14605849) | iLaria Marengo, Nuno Faria | 2025-01-06 | It contains RGB orthomosaics and 5x5 m vector cells as inputs, with YOLOv9 segmentation outputs including vine polygons and vegetation index rasters.|
 
 <br />
+
+
+
+## OCT: Veles Sense
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [DiVine project - Veles Sense](https://zenodo.org/records/17454029) | Veles Sense | 2025-10-13 | Vineyards maps to distinguish disease from nutritional deficiencies. Includes orthomosaics, ground truth, sampling, vine extraction and vegetation indices. |
+<br />
+
+
+
+## OCT: Institute for Security and Strategic Research
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [IDSSF: Illegal logging usecase - DJI Zenmuse L2 lidar dataset](https://zenodo.org/records/17339551) | Institute for Security and Strategic Research | 2025-10-13 | This dataset contains two classified point clouds (ground and non-ground) of a forest affected by illegal logging, one taken before and one after the logging. |
+<br />
+
+
 
 ## Online search
 
