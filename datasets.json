@@ -1183,6 +1183,41 @@
                                         }   
                                     }
                                  ],
+
+     "OCT - gprSense": [
+                                    {   
+                                        "name": "Example Soil Moisture Maps",
+                                        "author": "gprSense",
+                                        "date": "2025-10-29",
+                                        "link": "https://zenodo.org/records/17476345",
+                                        "description": "The dataset features gprSense drone-borne GPR maps demonstrating root-zone soil moisture mapping capability.",
+                                        "parameters": {
+                                                    "location": "Belgium",
+                                                    "coordinates (wgs84)": "",
+                                                    "sensor_type": ["GPR"],
+                                                    "contents": "Soil moisture maps, radar data, QGIS project files",
+                                                    "labels": "Yes"
+                                        }   
+                                    }
+                                 ],
+      "OCT - European Center for Training and Research in Earthquake Engineering": [
+                                    {   
+                                        "name": "U-AInSPECT Project: Bridge Use Case dataset",
+                                        "author": "Institute for Security and Strategic Research",
+                                        "date": "2025-10-30",
+                                        "link": "https://zenodo.org/records/17477130",
+                                        "description": "The dataset provides UAS and AI-based bridge inspection data, including imagery, damage detection, and 3D reconstruction for structural monitoring research.",
+                                        "parameters": {
+                                                    "location": "Pavia, Italy",
+                                                    "coordinates (wgs84)": "",
+                                                    "sensor_type": ["RGB"],
+                                                    "contents": "Videos, images, damage detection outputs, 3D reconstruction, bridge data",
+                                                    "labels": "Yes"
+                                        }   
+                                    }
+                                 ],
+    
+    
     "UARSF": [        
                 {
                     "name": "Data on three-year flowering intensity monitoring in an apple orchard: A collection of RGB images acquired from unmanned aerial vehicles",
