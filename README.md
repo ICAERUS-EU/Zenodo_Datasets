@@ -34,6 +34,8 @@
 * [OCT: InnovPlantProtect](#oct-innovplantprotect)
 * [OCT: Veles Sense](#oct-veles-sense)
 * [OCT: Institute for Security and Strategic Research](#oct-institute-for-security-and-strategic-research)
+* [OCT: gprSense](#oct-gprsense)
+* [OCT: European Center for Training and Research in Earthquake Engineering](#oct-european-center-for-training-and-research-in-earthquake-engineering)
 * [ICAERUS Zenodo Template](#icaerus-zenodo-template)
 
 
@@ -195,7 +197,6 @@
 <br />
 
 
-
 ## OCT: Veles Sense
 
 | Dataset | Author | Date  | Description |
@@ -204,12 +205,26 @@
 <br />
 
 
-
 ## OCT: Institute for Security and Strategic Research
 
 | Dataset | Author | Date  | Description |
 |  :---:  |  :---: | :---: |     ---     |
 | [IDSSF: Illegal logging usecase - DJI Zenmuse L2 lidar dataset](https://zenodo.org/records/17339551) | Institute for Security and Strategic Research | 2025-10-13 | This dataset contains two classified point clouds (ground and non-ground) of a forest affected by illegal logging, one taken before and one after the logging. |
+<br />
+
+
+## OCT: gprSense
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [Example Soil Moisture Maps](https://zenodo.org/records/17476345) | gprSense | 2025-10-29 | The dataset features gprSense drone-borne GPR maps demonstrating root-zone soil moisture mapping capability. |
+<br />
+
+## OCT: European Center for Training and Research in Earthquake Engineering
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [U-AInSPECT Project: Bridge Use Case dataset](https://zenodo.org/records/17477130) | European Center for Training and Research in Earthquake Engineering | 2025-10-30 | The dataset provides UAS and AI-based bridge inspection data, including imagery, damage detection, and 3D reconstruction for structural monitoring research. |
 <br />
 
 
