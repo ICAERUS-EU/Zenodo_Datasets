@@ -307,10 +307,22 @@
                             "contents": "RGB images, shapefile, pointclouds, orthomosaics, DEM in different bands (RGB, NIR, G, RE, R, NDVI)", 
                             "labels": "No"
                 }   
+            },
+            {       
+                "name": "UC1 DATA FOLDER - 3D POINT CLOUD ANALYSIS",
+                "author": "Esther Vera, Aldo Sollazzo, Chirag Rangholia",
+                "date": "2025-11-13",
+                "link": "",
+                "description": "Dataset containing rgb and ndvi downsampled and standardized point clouds, ground point clouds, plant point clouds, 2d grids, 3d grids and height, volume, density and color analysis data or 3d growth analysis over time. To be used with UC1 model 08.",
+                "parameters": {
+                            "location": "Canyelles, Barcelona, Spain",
+                            "coordinates (wgs84)": "41.288687, 1.713078",
+                            "sensor_type": ["RGB", "Multispectral"],
+                            "contents": "Point clouds, 2D grid, 3D grids, analysis data", 
+                            "labels": "No"
+                }   
             }
-
           ],
-    
     "UC2" :[
             {   
                 "name": "UAV Spraying Parameters-Coverage in Vineyards",
