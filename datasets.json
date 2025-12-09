@@ -312,7 +312,7 @@
                 "name": "UC1 DATA FOLDER - 3D POINT CLOUD ANALYSIS",
                 "author": "Esther Vera, Aldo Sollazzo, Chirag Rangholia",
                 "date": "2025-11-13",
-                "link": "",
+                "link": "https://zenodo.org/records/17601303",
                 "description": "Dataset containing rgb and ndvi downsampled and standardized point clouds, ground point clouds, plant point clouds, 2d grids, 3d grids and height, volume, density and color analysis data or 3d growth analysis over time. To be used with UC1 model 08.",
                 "parameters": {
                             "location": "Canyelles, Barcelona, Spain",
