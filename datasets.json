@@ -1228,7 +1228,22 @@
                                         }   
                                     }
                                  ],
-    
+    "OCT- HYGRI": [
+                                    {
+                                        "name": "HYGRI - UAV Hyperspectral and Thermal Data for Agriculture Monitoring - ICAERUS",
+                                        "author": "AVT Airborne Sensing Italia Srl",
+                                        "date": "2025-12-09",
+                                        "link": "https://zenodo.org/records/17863526",
+                                        "description": "Multi-modal airborne data acquired over a vineyard field containing hyperspectral imagery, thermal imagery, Digital Elevation Models (DTM/DSM), and RGB orthophotos collected across summer months for vegetation and environmental monitoring research.",
+                                        "parameters": {
+                                            "location": "Vineyard field, Terlano, Italy",
+                                            "coordinates (wgs84)": "46°32'18.5\"N 11°15'09.1\"E",
+                                            "sensor_type": ["Hyperspectral", "Thermal", "RGB"],
+                                            "contents": "Hyperspectral mosaics, vegetation indices (NDVI, reNDVI), thermal imagery (32-bit), RGB orthophotos, DTM, DSM, flight plans (KML), area of interest boundaries",
+                                            "labels": "No"
+                                        }
+                                    }
+                                ],
     
     "UARSF": [        
                 {
