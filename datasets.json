@@ -781,7 +781,21 @@
                             "contents": "RGB images, 3D pointcloud, DEM, orthomosaics",
                             "labels": "No"
                 }  
-            } 
+            },
+            {       
+                "name": "Drone Processed Images for Coastal Litter Detection (RGB, Thermal, Multispectral)",
+                "author": "GEOSENSE IKE, Harokopio University of Athens",
+                "date": "2025",
+                "link": "https://zenodo.org/records/17805043",
+                "description": "Processed image dataset acquired during drone-based surveys for coastal litter pollution detection. Data collected using RGB, thermal, and multispectral camera payloads flown at multiple altitudes (30m, 60m, 90m, 120m) over coastal environments with varying shoreline morphology and litter density.",
+                "parameters": {
+                    "location": "",
+                    "coordinates (wgs84)": "",
+                    "sensor_type": ["RGB", "Thermal", "Multispectral"],
+                    "contents": "Processed RGB images, thermal images, multispectral images at multiple altitudes (30m, 60m, 90m, 120m).", 
+                    "labels": "No"
+                }  
+        }
            ],
 
     "OCT - Agrobit Srl": [
