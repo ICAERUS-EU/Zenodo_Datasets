@@ -1258,6 +1258,20 @@
                                         }
                                     }
                                 ],
+    "OCT-FAMMS": [{ "name": "FAMMS Project Dataset",
+                    "author": "Ordine & Sicurezza Srl",
+                    "date": "2026-02-12", 
+                    "link": "https://zenodo.org/records/18618424",
+                    "description": "The dataset contains UAV images captured the forest area selected for the prototype, plus images of the equipment used for the flights. From a DJI Mavic 2 Pro",
+                    "parameters": {
+                        "location": "Malito, Italy",
+                        "coordinates (wgs84)": "39.15, 16.25",
+                        "sensor_type": ["RGB"],
+                        "contents": "Geotagged UAV images, before and after harvest",
+                        "labels": "No"
+                        }
+                    }
+    ],
     
     "UARSF": [        
                 {
