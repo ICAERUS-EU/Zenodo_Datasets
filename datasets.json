@@ -351,6 +351,50 @@
                             "contents": "Spray coverage data, Volume Median Diameter (VMD) estimates", 
                             "labels": "No"
                 }  
+            },
+
+            {
+                 "name": "UAV Dataset containing RGB , Multispectral, Thermal images from Vineyard",
+                 "author": "Vasilis Psiroukis",
+                 "date": "03-06-2019",
+                 "link": "https://zenodo.org/records/18678620",
+                 "description": "This repository contains a processed image dataset acquired during drone-based surveys on Vineyard. The data were collected using RGB, Multispectral and Thermal cameras flown at 30m altitude over Vineyard. The images are from one field and differents on the capture days from seeding time. The resolution for the RGB is (4608x3456) and for Multispectral is (1280x960). ",
+                 "parameters": {
+                     "location": "Location description or coordinates: Nemea, Greece",
+                     "coordinates (wgs84)": "37.8037739, 22.69408438888889",
+                     "sensor type": ["RGB", "Multispectral", "Thermal"],
+                     "contents": "UAV Data using RGB, Multispectral and Thermal cameras flown at 30m altitude over Vineyard",
+                     "labels": "No"
+                     }
+             },
+        
+            {
+                 "name": "UAV Dataset containing RGB, Multispectral and Thermal images fromTomato fields",
+                 "author": "Vasilis Psiroukis",
+                 "date": "07-06-2019",
+                 "link": "https://zenodo.org/records/18679662",
+                 "description": "This repository contains a processed image dataset acquired during drone-based surveys on Tomato fields. The data were collected using RGB, Multispectral and Thermal cameras flown at 30m altitude over Tomato fields. The images are from one field and differents on the capture days from seeding time. The resolution for the RGB is (4608x3456) and for Multispectral is (1280x960). ",
+                 "parameters": {
+                     "location": "Location description or coordinates: Thessaly, Greece",
+                     "coordinates (wgs84)": "39.3653056, 22.303275",
+                     "sensor type": ["RGB", "Multispectral", "Thermal"],
+                     "contents": "UAV Data using RGB,Multispectral and Thermal cameras flown at 30m altitude over Tomato fields",
+                     "labels": "No"
+                 }
+             },
+            {
+             "name": "UAV Dataset containing RGB , Multispectral images from cotton crops",
+             "author": "Vasilis Psiroukis",
+             "date": "03-07-2020",
+             "link": "https://zenodo.org/records/18801595",
+             "description": "This repository contains a processed image dataset acquired during drone-based surveys on cotton fields. The data were collected using RGB, and multispectral camera flown at 70m altitude over a cotton field. The images are from one field and differents on the capture days from seeding time. The resolution for the RGB is (4608x3456) and for Multispectral is (1280x960). ",
+             "parameters": {
+                 "location": "Location description or coordinates: Farsala, Greece",
+                 "coordinates (wgs84)": "39.329872, 22.515747222222224",
+                 "sensor type": ["RGB", "Multispectral"],
+                 "contents": "UAV Data using RGB and Multispectral cameras flown at 70m altitude over Cotton fields",
+                 "labels": "No"
+                 }
             }
           ],
 
