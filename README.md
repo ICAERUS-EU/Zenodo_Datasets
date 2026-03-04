@@ -36,6 +36,7 @@
 * [OCT: Institute for Security and Strategic Research](#oct-institute-for-security-and-strategic-research)
 * [OCT: gprSense](#oct-gprsense)
 * [OCT: European Center for Training and Research in Earthquake Engineering](#oct-european-center-for-training-and-research-in-earthquake-engineering)
+* [OCT: FAMMS Project](#oct-famms)
 * [ICAERUS Zenodo Template](#icaerus-zenodo-template)
 
 
@@ -227,6 +228,14 @@
 |  :---:  |  :---: | :---: |     ---     |
 | [U-AInSPECT Project: Bridge Use Case dataset](https://zenodo.org/records/17477130) | European Center for Training and Research in Earthquake Engineering | 2025-10-30 | The dataset provides UAS and AI-based bridge inspection data, including imagery, damage detection, and 3D reconstruction for structural monitoring research. |
 <br />
+
+## OCT: famms
+
+| Dataset | Author | Date  | Description |
+|  :---:  |  :---: | :---: |     ---     |
+| [FAMMS Project - DJI drone dataset](https://zenodo.org/records/18618424) | grpFamms | 2026-02-12 | Collection of data captured by the drone over the forest area selected for the prototype, plus images of the equipment used for the flights.  |
+<br />
+
 
 
 
