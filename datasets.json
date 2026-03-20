@@ -497,7 +497,50 @@
                             "contents": "Drone videos, RGB images", 
                             "labels": "No"
                 }  
-            }    
+            },
+        {
+                "name": "Drone videos and images of sheep in various conditions (for computer vision purpose) - Part II",
+                "author": "Adrien Lebreton, Laurent Helary, E. Nicolas, L. Goin, P.-G. Grisot, T. Jegorel",
+                "date": "2026-03-06",
+                "link": "https://zenodo.org/records/18889354",
+                "description": "This dataset is the second part of 'Drone videos and images of sheep in various conditions (for computer vision purpose)' and offers a large diversity of sheep aerial images across farms and seasons. It includes 1679 images and 47 videos, featuring background diversity (grey rangelands and diverse green pastures), lighting diversity, and both dispersed and highly clustered groups of sheep. Additional objects such as dogs, humans, and farm equipment are also visible in some scenes.",
+                "parameters": {
+                    "location": "Alpes de Haute Provence and Limousin, France",
+                    "coordinates (wgs84)": "",
+                    "sensor_type": ["RGB"],
+                    "contents": "RGB images, Drone videos, flight metadata",
+                    "labels": "No"
+                }
+            },
+            {
+                "name": "Drone videos to test sheep counting computer vision pipeline",
+                "author": "Adrien Lebreton, P.-G. Grisot, L. Depuille, L. Goin, E. Nicolas, Laurent Helary",
+                "date": "2026-03-06",
+                "link": "https://zenodo.org/records/18889878",
+                "description": "This dataset provides 98 videos (79 post-processed and 19 raw) of small ruminant flocks funneled through passages, designed to test and evaluate a sheep detection, tracking, and counting pipeline using a virtual counting line. The videos are intended for use with a computer vision pipeline, with a Python GUI demonstrator available for simple testing.",
+                "parameters": {
+                    "location": "France",
+                    "coordinates (wgs84)": "",
+                    "sensor_type": ["RGB"],
+                    "contents": "Drone videos, flight metadata",
+                    "labels": "No"
+                }
+            },
+            {
+                "name": "Drone images and their annotations of sheep in various conditions (for computer vision purpose)",
+                "author": "Adrien Lebreton, A. de Brito, E. Blaise, T. Jegorel, L. Goin, P.-G. Grisot, E. Nicolas, Laurent Helary",
+                "date": "2026-03-06",
+                "link": "https://zenodo.org/records/18889623",
+                "description": "This dataset provides 809 annotated drone images of sheep in various conditions, with 18,018 sheep bounding boxes in Ultralytics YOLO Detection 1.0 format. It is designed for training or evaluating object detection models, and includes both nadir and oblique views, as well as evaluation subsets for model benchmarking.",
+                "parameters": {
+                    "location": "France",
+                    "coordinates (wgs84)": "",
+                    "sensor_type": ["RGB"],
+                    "contents": "Drone images, annotations (YOLO format), flight metadata",
+                    "labels": "Yes"
+                }
+            }       
+
            ],
 
     "UC4": [
